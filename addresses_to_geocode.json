@@ -1,0 +1,8492 @@
+[
+  {
+    "id": 60001,
+    "label": "PDV 1 — SHELL",
+    "address": "AV MONTEVERDE N°198, VILLA LA FLORIDA"
+  },
+  {
+    "id": 60002,
+    "label": "PDV 2 — SHELL",
+    "address": "AV ESPORA N°4495, BURZACO"
+  },
+  {
+    "id": 60003,
+    "label": "PDV 3 — SHELL",
+    "address": "RUTA NAC 2 S/N N°0, EL PATO"
+  },
+  {
+    "id": 60004,
+    "label": "PDV 4 — SHELL",
+    "address": "RUTA NAC 2 S/N N°0, LA PLATA"
+  },
+  {
+    "id": 60005,
+    "label": "PDV 5 — SHELL",
+    "address": "CNO GRAL BELGRANO N°7951, JUAN MARIA GUTIERREZ"
+  },
+  {
+    "id": 60006,
+    "label": "PDV 6 — SHELL",
+    "address": "AV SAN MARTIN N°2302, SAN LORENZO"
+  },
+  {
+    "id": 60007,
+    "label": "PDV 7 — SHELL",
+    "address": "AV SAN MARTIN N°178, PUERTO GENERAL SAN MARTIN"
+  },
+  {
+    "id": 60008,
+    "label": "PDV 8 — SHELL",
+    "address": "AV EVA PERON N°6702, ROSARIO"
+  },
+  {
+    "id": 60009,
+    "label": "PDV 9 — SHELL",
+    "address": "BV RONDEAU N°2702, ROSARIO"
+  },
+  {
+    "id": 60010,
+    "label": "PDV 10 — SHELL",
+    "address": "BAIGORRIA N°1870, ROSARIO"
+  },
+  {
+    "id": 60011,
+    "label": "PDV 11 — SHELL",
+    "address": "AV CORRIENTES N°401, ROSARIO"
+  },
+  {
+    "id": 60012,
+    "label": "PDV 12 — SHELL",
+    "address": "AV OVIDIO LAGOS N°4502, ROSARIO"
+  },
+  {
+    "id": 60013,
+    "label": "PDV 13 — SHELL",
+    "address": "MONTEAGUDO BIS N°224, ROSARIO"
+  },
+  {
+    "id": 60014,
+    "label": "PDV 14 — SHELL",
+    "address": "AV EVA PERON N°4763, ROSARIO"
+  },
+  {
+    "id": 60015,
+    "label": "PDV 15 — SHELL",
+    "address": "AV PELLEGRINI N°3370, ROSARIO"
+  },
+  {
+    "id": 60016,
+    "label": "PDV 16 — SHELL",
+    "address": "S/D AVDA ALVERT SABIN BIS N°476, ROSARIO"
+  },
+  {
+    "id": 60017,
+    "label": "PDV 17 — SHELL",
+    "address": "AV EVA PERON N°7563, ROSARIO"
+  },
+  {
+    "id": 60018,
+    "label": "PDV 18 — SHELL",
+    "address": "AV OVIDIO LAGOS N°6301, ROSARIO"
+  },
+  {
+    "id": 60020,
+    "label": "PDV 20 — SHELL",
+    "address": "ESPANA N°1698, ROSARIO"
+  },
+  {
+    "id": 60021,
+    "label": "PDV 21 — SHELL",
+    "address": "BV OROÑO N°3112, ROSARIO"
+  },
+  {
+    "id": 60022,
+    "label": "PDV 22 — SHELL",
+    "address": "SAN MARTIN N°3771, ROSARIO"
+  },
+  {
+    "id": 60023,
+    "label": "PDV 23 — SHELL",
+    "address": "RUTA C 45 N°1, MALAGUENO"
+  },
+  {
+    "id": 60024,
+    "label": "PDV 24 — SHELL",
+    "address": "AV ARMADA ARGENTINA N°982, CORDOBA"
+  },
+  {
+    "id": 60025,
+    "label": "PDV 25 — SHELL",
+    "address": "AV PABLO RICCHIERI N°2626, CORDOBA"
+  },
+  {
+    "id": 60026,
+    "label": "PDV 26 — SHELL",
+    "address": "AV JUAN B JUSTO N°3702, CORDOBA"
+  },
+  {
+    "id": 60027,
+    "label": "PDV 27 — SHELL",
+    "address": "AV RECTA MARTINOLI N°8663, CORDOBA"
+  },
+  {
+    "id": 60028,
+    "label": "PDV 28 — SHELL",
+    "address": "AV BERNARDO O\\\\'HIGGINS N°3185, CORDOBA"
+  },
+  {
+    "id": 60029,
+    "label": "PDV 29 — SHELL",
+    "address": "AV GDOR DR AMADEO SABATTINI N°1778, CORDOBA"
+  },
+  {
+    "id": 60030,
+    "label": "PDV 30 — SHELL",
+    "address": "AV OCTAVIO PINTO N°2568, CORDOBA"
+  },
+  {
+    "id": 60031,
+    "label": "PDV 31 — SHELL",
+    "address": "AV CIUDAD DE VALPARAISO N°4490, CORDOBA"
+  },
+  {
+    "id": 60032,
+    "label": "PDV 32 — SHELL",
+    "address": "AV RICARDO ROJAS N°6834, CORDOBA"
+  },
+  {
+    "id": 60033,
+    "label": "PDV 33 — SHELL",
+    "address": "AV GAUSS N°5509, CORDOBA"
+  },
+  {
+    "id": 60034,
+    "label": "PDV 34 — SHELL",
+    "address": "EMILIO PETTORUTI N°2781, CORDOBA"
+  },
+  {
+    "id": 60035,
+    "label": "PDV 35 — SHELL",
+    "address": "AV MONS PABLO CABRERA N°4822, CORDOBA"
+  },
+  {
+    "id": 60036,
+    "label": "PDV 36 — SHELL",
+    "address": "DUARTE QUIROS N°3080, CORDOBA"
+  },
+  {
+    "id": 60037,
+    "label": "PDV 37 — SHELL",
+    "address": "AV 24 DE SEPTIEMBRE N°1290, CORDOBA"
+  },
+  {
+    "id": 60038,
+    "label": "PDV 38 — SHELL",
+    "address": "BELGRANO N°934, CORDOBA"
+  },
+  {
+    "id": 60039,
+    "label": "PDV 39 — SHELL",
+    "address": "AV SAN MARTIN N°1115, VILLA CARLOS PAZ"
+  },
+  {
+    "id": 60040,
+    "label": "PDV 40 — SHELL",
+    "address": "AV RANCAGUA N°5040, CORDOBA"
+  },
+  {
+    "id": 60041,
+    "label": "PDV 41 — SHELL",
+    "address": "AV RANCAGUA N°5450, CORDOBA"
+  },
+  {
+    "id": 60042,
+    "label": "PDV 42 — SHELL",
+    "address": "AV PRES PERON N°264, LA CALERA"
+  },
+  {
+    "id": 60043,
+    "label": "PDV 43 — SHELL",
+    "address": "AV B MITRE N°1802, 1RA SECCION"
+  },
+  {
+    "id": 60044,
+    "label": "PDV 44 — SHELL",
+    "address": "AV GRL J DE SAN MARTIN N°840, LUJAN DE CUYO"
+  },
+  {
+    "id": 60045,
+    "label": "PDV 45 — SHELL",
+    "address": "RODRIGUEZ PEÑA N°1050, GODOY CRUZ"
+  },
+  {
+    "id": 60046,
+    "label": "PDV 46 — SHELL",
+    "address": "AV COLON N°194, MENDOZA"
+  },
+  {
+    "id": 60047,
+    "label": "PDV 47 — SHELL",
+    "address": "H CUADROS N°162, SAN JOSE"
+  },
+  {
+    "id": 60048,
+    "label": "PDV 48 — SHELL",
+    "address": "PRES B MITRE N°15, MAIPU"
+  },
+  {
+    "id": 60049,
+    "label": "PDV 49 — SHELL",
+    "address": "PARAGUAY N°1650, GODOY CRUZ"
+  },
+  {
+    "id": 60050,
+    "label": "PDV 50 — SHELL",
+    "address": "AV GRL SAN MARTIN SUR N°1, GODOY CRUZ"
+  },
+  {
+    "id": 60051,
+    "label": "PDV 51 — SHELL",
+    "address": "AVDA DEL LIBERTADOR N°2365, BARTOLOME MITRE (ESTACION FCGM"
+  },
+  {
+    "id": 60052,
+    "label": "PDV 52 — SHELL",
+    "address": "AVDA PTE FIGUEROA ALCORTA N°7786, CAPITAL FEDERAL"
+  },
+  {
+    "id": 60053,
+    "label": "PDV 53 — SHELL",
+    "address": "AVDA CABILDO N°4701, CAPITAL FEDERAL"
+  },
+  {
+    "id": 60054,
+    "label": "PDV 54 — SHELL",
+    "address": "AVDA PTE FIGUEROA ALCORTA N°3099, CAPITAL FEDERAL"
+  },
+  {
+    "id": 60055,
+    "label": "PDV 55 — SHELL",
+    "address": "AVDA LINCOLN N°3999, CAPITAL FEDERAL"
+  },
+  {
+    "id": 60056,
+    "label": "PDV 56 — SHELL",
+    "address": "AVDA CRAMER N°1700, CAPITAL FEDERAL"
+  },
+  {
+    "id": 60057,
+    "label": "PDV 57 — SHELL",
+    "address": "AVDA CORDOBA N°3710, CAPITAL FEDERAL"
+  },
+  {
+    "id": 60058,
+    "label": "PDV 58 — SHELL",
+    "address": "AVDA PASEO COLON N°849, CAPITAL FEDERAL"
+  },
+  {
+    "id": 60059,
+    "label": "PDV 59 — SHELL",
+    "address": "AVDA CORRIENTES N°6535, CAPITAL FEDERAL"
+  },
+  {
+    "id": 60060,
+    "label": "PDV 60 — SHELL",
+    "address": "CERRITO N°1590, CAPITAL FEDERAL"
+  },
+  {
+    "id": 60061,
+    "label": "PDV 61 — SHELL",
+    "address": "RUTA 8 KM 50 N°0, ALMIRANTE IRIZAR"
+  },
+  {
+    "id": 60062,
+    "label": "PDV 62 — SHELL",
+    "address": "AVDA SANTA FE N°960, ACASSUSO"
+  },
+  {
+    "id": 60063,
+    "label": "PDV 63 — SHELL",
+    "address": "ACCESO NORTE R.TIGRE KM 26.40 N°0, SAN FERNANDO"
+  },
+  {
+    "id": 60064,
+    "label": "PDV 64 — SHELL",
+    "address": "ACCESO NORTE R.TIGRE KM 26.40 N°0, SAN FERNANDO"
+  },
+  {
+    "id": 60065,
+    "label": "PDV 65 — SHELL",
+    "address": "AVDA ILLIA SIN NUMERO ENTRE P N°0, CAPITAL FEDERAL"
+  },
+  {
+    "id": 60066,
+    "label": "PDV 66 — SHELL",
+    "address": "AVDA BELGRANO N°3501, CAPITAL FEDERAL"
+  },
+  {
+    "id": 60067,
+    "label": "PDV 67 — SHELL",
+    "address": "AVDA GRAL PAZ MANO RIACHU N°5500, CAPITAL FEDERAL"
+  },
+  {
+    "id": 60068,
+    "label": "PDV 68 — SHELL",
+    "address": "ABRAHAM LUPPI N°5500, CAPITAL FEDERAL"
+  },
+  {
+    "id": 60069,
+    "label": "PDV 69 — SHELL",
+    "address": "AVDA INDEPENDENCIA N°3201, CAPITAL FEDERAL"
+  },
+  {
+    "id": 60070,
+    "label": "PDV 70 — SHELL",
+    "address": "AVDA DEL LIBERTADOR N°7920, CAPITAL FEDERAL"
+  },
+  {
+    "id": 60071,
+    "label": "PDV 71 — SHELL",
+    "address": "AVDA DIAZ VELEZ N°4368, CAPITAL FEDERAL"
+  },
+  {
+    "id": 60072,
+    "label": "PDV 72 — SHELL",
+    "address": "AVDA DELLEPIANE 4187 MANO PROV N°0, CAPITAL FEDERAL"
+  },
+  {
+    "id": 60073,
+    "label": "PDV 73 — SHELL",
+    "address": "MANUEL R TRELLES N°1671, CAPITAL FEDERAL"
+  },
+  {
+    "id": 60074,
+    "label": "PDV 74 — SHELL",
+    "address": "AV JUAN B JUSTO N°1333, CAPITAL FEDERAL"
+  },
+  {
+    "id": 60075,
+    "label": "PDV 75 — SHELL",
+    "address": "AV DE LOS CONSTITUYENTES N°4435, CAPITAL FEDERAL"
+  },
+  {
+    "id": 60076,
+    "label": "PDV 76 — SHELL",
+    "address": "AV RAUL SCALABRINI ORTIZ N°1406, CAPITAL FEDERAL"
+  },
+  {
+    "id": 60077,
+    "label": "PDV 77 — SHELL",
+    "address": "AV GAONA N°2886, CAPITAL FEDERAL"
+  },
+  {
+    "id": 60078,
+    "label": "PDV 78 — SHELL",
+    "address": "AV JUAN B JUSTO N°4407, CAPITAL FEDERAL"
+  },
+  {
+    "id": 60079,
+    "label": "PDV 79 — SHELL",
+    "address": "AV SAN MARTIN N°2401, CAPITAL FEDERAL"
+  },
+  {
+    "id": 60080,
+    "label": "PDV 80 — SHELL",
+    "address": "AV JUAN B JUSTO N°9097, CAPITAL FEDERAL"
+  },
+  {
+    "id": 60081,
+    "label": "PDV 81 — SHELL",
+    "address": "AV SAN MARTIN N°3500, CAPITAL FEDERAL"
+  },
+  {
+    "id": 60082,
+    "label": "PDV 82 — SHELL",
+    "address": "av juan bautista alberdi N°1502, CAPITAL FEDERAL"
+  },
+  {
+    "id": 60083,
+    "label": "PDV 83 — SHELL",
+    "address": "IRIGOYEN N°1260, CAPITAL FEDERAL"
+  },
+  {
+    "id": 60084,
+    "label": "PDV 84 — SHELL",
+    "address": "AV CHICLANA N°3702, CAPITAL FEDERAL"
+  },
+  {
+    "id": 60085,
+    "label": "PDV 85 — SHELL",
+    "address": "AV FRANCISCO BEIRO N°4610, CAPITAL FEDERAL"
+  },
+  {
+    "id": 60086,
+    "label": "PDV 86 — SHELL",
+    "address": "AV DR RICARDO BALBIN N°3560, CAPITAL FEDERAL"
+  },
+  {
+    "id": 60087,
+    "label": "PDV 87 — SHELL",
+    "address": "AV ASAMBLEA N°1502, CAPITAL FEDERAL"
+  },
+  {
+    "id": 60088,
+    "label": "PDV 88 — SHELL",
+    "address": "AV CORRIENTES N°3101, CAPITAL FEDERAL"
+  },
+  {
+    "id": 60089,
+    "label": "PDV 89 — SHELL",
+    "address": "AV ENTRE RIOS N°1803, CAPITAL FEDERAL"
+  },
+  {
+    "id": 60090,
+    "label": "PDV 90 — SHELL",
+    "address": "AV ENTRE RIOS N°1890, CAPITAL FEDERAL"
+  },
+  {
+    "id": 60091,
+    "label": "PDV 91 — SHELL",
+    "address": "AV LA PLATA N°1394, CAPITAL FEDERAL"
+  },
+  {
+    "id": 60092,
+    "label": "PDV 92 — SHELL",
+    "address": "AV MANUEL A MONTES DE OCA N°1885, CAPITAL FEDERAL"
+  },
+  {
+    "id": 60093,
+    "label": "PDV 93 — SHELL",
+    "address": "LIMA N°837, CAPITAL FEDERAL"
+  },
+  {
+    "id": 60094,
+    "label": "PDV 94 — SHELL",
+    "address": "MEXICO N°2701, CAPITAL FEDERAL"
+  },
+  {
+    "id": 60095,
+    "label": "PDV 95 — SHELL",
+    "address": "AV DE LOS CONSTITUYENTES N°3516, CAPITAL FEDERAL"
+  },
+  {
+    "id": 60096,
+    "label": "PDV 96 — SHELL",
+    "address": "AV AVELLANEDA N°2411, CAPITAL FEDERAL"
+  },
+  {
+    "id": 60097,
+    "label": "PDV 97 — SHELL",
+    "address": "AV NAZCA N°2502, CAPITAL FEDERAL"
+  },
+  {
+    "id": 60098,
+    "label": "PDV 98 — SHELL",
+    "address": "AV ALVAREZ THOMAS N°2010, CAPITAL FEDERAL"
+  },
+  {
+    "id": 60099,
+    "label": "PDV 99 — SHELL",
+    "address": "av juan bautista alberdi N°2299, CAPITAL FEDERAL"
+  },
+  {
+    "id": 60100,
+    "label": "PDV 100 — SHELL",
+    "address": "AV DIRECTORIO N°5698, CAPITAL FEDERAL"
+  },
+  {
+    "id": 60101,
+    "label": "PDV 101 — SHELL",
+    "address": "AV F FERNANDEZ DE LA CRUZ N°3205, CAPITAL FEDERAL"
+  },
+  {
+    "id": 60102,
+    "label": "PDV 102 — SHELL",
+    "address": "MARIANO ACOSTA N°1195, CAPITAL FEDERAL"
+  },
+  {
+    "id": 60103,
+    "label": "PDV 103 — SHELL",
+    "address": "av juan bautista alberdi N°7019, CAPITAL FEDERAL"
+  },
+  {
+    "id": 60104,
+    "label": "PDV 104 — SHELL",
+    "address": "GENERAL EUSTAQUIO FRIAS N°286, LOMAS DE ZAMORA"
+  },
+  {
+    "id": 60105,
+    "label": "PDV 105 — SHELL",
+    "address": "HIPOLITO YRIGOYEN N°7520, BANFIELD"
+  },
+  {
+    "id": 60106,
+    "label": "PDV 106 — SHELL",
+    "address": "HIPOLITO YRIGOYEN N°9403, LOMAS DE ZAMORA"
+  },
+  {
+    "id": 60107,
+    "label": "PDV 107 — SHELL",
+    "address": "HIPOLITO YRIGOYEN N°8504, LOMAS DE ZAMORA"
+  },
+  {
+    "id": 60108,
+    "label": "PDV 108 — SHELL",
+    "address": "RUTA PROV 36 S/N N°0, LISANDRO OLMOS"
+  },
+  {
+    "id": 60109,
+    "label": "PDV 109 — SHELL",
+    "address": "AV 7 S/N N°0, TOLOSA"
+  },
+  {
+    "id": 60110,
+    "label": "PDV 110 — SHELL",
+    "address": "AV 7 N°641, LA PLATA"
+  },
+  {
+    "id": 60111,
+    "label": "PDV 111 — SHELL",
+    "address": "DIAGONAL 74 N°2291, LA PLATA"
+  },
+  {
+    "id": 60112,
+    "label": "PDV 112 — SHELL",
+    "address": "AU DR RICARDO BALBIN S/N N°0, Guillermo Enrique Hudson"
+  },
+  {
+    "id": 60113,
+    "label": "PDV 113 — SHELL",
+    "address": "AU DR RICARADO BALBIN S/N N°0, LA PLATA"
+  },
+  {
+    "id": 60114,
+    "label": "PDV 114 — SHELL",
+    "address": "DIAGONAL 74 N°221, LA PLATA"
+  },
+  {
+    "id": 60115,
+    "label": "PDV 115 — SHELL",
+    "address": "CAMINO CENTENARIO S/N N°0, VILLA ELISA"
+  },
+  {
+    "id": 60116,
+    "label": "PDV 116 — SHELL",
+    "address": "CALLE 67 N°1710, LA PLATA"
+  },
+  {
+    "id": 60117,
+    "label": "PDV 117 — SHELL",
+    "address": "CALLE 74 S/N N°0, Guillermo Enrique Hudson"
+  },
+  {
+    "id": 60118,
+    "label": "PDV 118 — SHELL",
+    "address": "RUTA NAC 2 N°45500, JUAN MARIA GUTIERREZ"
+  },
+  {
+    "id": 60119,
+    "label": "PDV 119 — SHELL",
+    "address": "CALLE PLAZA ESPANA N°187, LA PLATA"
+  },
+  {
+    "id": 60120,
+    "label": "PDV 120 — SHELL",
+    "address": "CNO GRAL BELGRANO N°1705, CITY BELL"
+  },
+  {
+    "id": 60121,
+    "label": "PDV 121 — SHELL",
+    "address": "CALLE 131 N°1363, LOS HORNOS"
+  },
+  {
+    "id": 60122,
+    "label": "PDV 122 — SHELL",
+    "address": "AVENIDA 32 N°1089, LA PLATA"
+  },
+  {
+    "id": 60123,
+    "label": "PDV 123 — SHELL",
+    "address": "CALLE 467 N°7835, CITY BELL"
+  },
+  {
+    "id": 60124,
+    "label": "PDV 124 — SHELL",
+    "address": "AV ANDRES ROLON N°2287, Béccar"
+  },
+  {
+    "id": 60125,
+    "label": "PDV 125 — SHELL",
+    "address": "DEL LIBERTADOR N°16799, SAN ISIDRO"
+  },
+  {
+    "id": 60126,
+    "label": "PDV 126 — SHELL",
+    "address": "AV MAIPU N°3604, OLIVOS"
+  },
+  {
+    "id": 60127,
+    "label": "PDV 127 — SHELL",
+    "address": "INT TOMKINSON N°1399, Béccar"
+  },
+  {
+    "id": 60128,
+    "label": "PDV 128 — SHELL",
+    "address": "AV SANTA FE N°1920, Martínez"
+  },
+  {
+    "id": 60129,
+    "label": "PDV 129 — SHELL",
+    "address": "COLECTORA PANAMERICANA N°1381, MARTINEZ"
+  },
+  {
+    "id": 60130,
+    "label": "PDV 130 — SHELL",
+    "address": "HIPOLITO YRIGOYEN N°3200, Martínez"
+  },
+  {
+    "id": 60131,
+    "label": "PDV 131 — SHELL",
+    "address": "PARANA N°3684, OLIVOS"
+  },
+  {
+    "id": 60132,
+    "label": "PDV 132 — SHELL",
+    "address": "SUCRE N°2780, Béccar"
+  },
+  {
+    "id": 60133,
+    "label": "PDV 133 — SHELL",
+    "address": "SIR ALEXANDER FLEMING N°802, MARTINEZ"
+  },
+  {
+    "id": 60134,
+    "label": "PDV 134 — SHELL",
+    "address": "AV GRL JOSE DE SAN MARTIN N°3099, FLORIDA"
+  },
+  {
+    "id": 60135,
+    "label": "PDV 135 — SHELL",
+    "address": "GDOR M UGARTE N°2105, OLIVOS"
+  },
+  {
+    "id": 60136,
+    "label": "PDV 136 — SHELL",
+    "address": "BARTOLOME MITRE N°4297, MUNRO"
+  },
+  {
+    "id": 60137,
+    "label": "PDV 137 — SHELL",
+    "address": "BARTOLOME MITRE N°901, VILLA MARTELLI"
+  },
+  {
+    "id": 60138,
+    "label": "PDV 138 — SHELL",
+    "address": "BARTOLOME MITRE N°3596, MUNRO"
+  },
+  {
+    "id": 60139,
+    "label": "PDV 139 — SHELL",
+    "address": "PARANA N°4106, MUNRO"
+  },
+  {
+    "id": 60140,
+    "label": "PDV 140 — SHELL",
+    "address": "CNL CETZ N°2984, SAN ISIDRO"
+  },
+  {
+    "id": 60141,
+    "label": "PDV 141 — SHELL",
+    "address": "DEL LIBERTADOR N°14036, MARTINEZ"
+  },
+  {
+    "id": 60142,
+    "label": "PDV 142 — SHELL",
+    "address": "DEL LIBERTADOR N°15301, SAN ISIDRO"
+  },
+  {
+    "id": 60143,
+    "label": "PDV 143 — SHELL",
+    "address": "BARTOLOME MITRE N°319, VILLA MARTELLI"
+  },
+  {
+    "id": 60144,
+    "label": "PDV 144 — SHELL",
+    "address": "MARCELO T DE ALVEAR N°2704, DON TORCUATO ESTE"
+  },
+  {
+    "id": 60145,
+    "label": "PDV 145 — SHELL",
+    "address": "BOULOGNE SUR MER N°851, GENERAL PACHECO"
+  },
+  {
+    "id": 60146,
+    "label": "PDV 146 — SHELL",
+    "address": "BLVD DE TODOS LOS SANTOS S/N N°0, DIQUE LUJAN"
+  },
+  {
+    "id": 60147,
+    "label": "PDV 147 — SHELL",
+    "address": "AV HIPOLITO YRIGOYEN N°2500, EL TALAR"
+  },
+  {
+    "id": 60148,
+    "label": "PDV 148 — SHELL",
+    "address": "URUGUAY N°3517, VICTORIA"
+  },
+  {
+    "id": 60149,
+    "label": "PDV 149 — SHELL",
+    "address": "AV DE MAYO N°16, VILLA ADELINA"
+  },
+  {
+    "id": 60150,
+    "label": "PDV 150 — SHELL",
+    "address": "R. CAAMANO N°838, VILLA ROSA"
+  },
+  {
+    "id": 60151,
+    "label": "PDV 151 — SHELL",
+    "address": "AV DE LOS CONSTITUYENTES N°617, GENERAL PACHECO"
+  },
+  {
+    "id": 60152,
+    "label": "PDV 152 — SHELL",
+    "address": "MARCELO T DE ALVEAR N°377, DON TORCUATO ESTE"
+  },
+  {
+    "id": 60153,
+    "label": "PDV 153 — SHELL",
+    "address": "EX RUTA NAC 8 N°58, PILAR"
+  },
+  {
+    "id": 60154,
+    "label": "PDV 154 — SHELL",
+    "address": "CONSTITUYENTES N°2023, GARIN"
+  },
+  {
+    "id": 60155,
+    "label": "PDV 155 — SHELL",
+    "address": "AV HIPOLITO YRIGOYEN N°3248, EL TALAR"
+  },
+  {
+    "id": 60156,
+    "label": "PDV 156 — SHELL",
+    "address": "PRES JUAN DOMINGO PERON N°399, SAN FERNANDO"
+  },
+  {
+    "id": 60157,
+    "label": "PDV 157 — SHELL",
+    "address": "SANTA MARIA DE LA CONCHAS N°2210, RINCON DE MILBERG"
+  },
+  {
+    "id": 60158,
+    "label": "PDV 158 — SHELL",
+    "address": "AV ANDRES ROLON N°1402, BOULOGNE SUR MER"
+  },
+  {
+    "id": 60159,
+    "label": "PDV 159 — SHELL",
+    "address": "CAZON N°1392, TIGRE"
+  },
+  {
+    "id": 60160,
+    "label": "PDV 160 — SHELL",
+    "address": "MARTIN GARCIA N°7454, RINCON DE MILBERG"
+  },
+  {
+    "id": 60161,
+    "label": "PDV 161 — SHELL",
+    "address": "IRIGOYEN"
+  },
+  {
+    "id": 60162,
+    "label": "PDV 162 — SHELL",
+    "address": "RUTA NAC 2 N°298, LAS ARMAS"
+  },
+  {
+    "id": 60163,
+    "label": "PDV 163 — SHELL",
+    "address": "RUTA NACIONAL 2 N°115, CHASCOMUS"
+  },
+  {
+    "id": 60164,
+    "label": "PDV 164 — SHELL",
+    "address": "RUTA NACIONAL 2 N°201, DOLORES"
+  },
+  {
+    "id": 60165,
+    "label": "PDV 165 — SHELL",
+    "address": "AVENIDA 23 N°1608, MIRAMAR"
+  },
+  {
+    "id": 60166,
+    "label": "PDV 166 — SHELL",
+    "address": "AVENIDA 9 N°2198, MIRAMAR"
+  },
+  {
+    "id": 60167,
+    "label": "PDV 167 — SHELL",
+    "address": "AV ARQ J BUNGE S/N N°0, PINAMAR"
+  },
+  {
+    "id": 60168,
+    "label": "PDV 168 — SHELL",
+    "address": "AV JUAN B JUSTO N°2402, MAR DEL PLATA"
+  },
+  {
+    "id": 60169,
+    "label": "PDV 169 — SHELL",
+    "address": "AV JUAN B JUSTO N°4986, MAR DEL PLATA"
+  },
+  {
+    "id": 60170,
+    "label": "PDV 170 — SHELL",
+    "address": "AV 210 - CHAMPAGNAT N°1545, MAR DEL PLATA"
+  },
+  {
+    "id": 60171,
+    "label": "PDV 171 — SHELL",
+    "address": "C 194 - INT F MARTINEZ DE HOZ N°63, MAR DEL PLATA"
+  },
+  {
+    "id": 60172,
+    "label": "PDV 172 — SHELL",
+    "address": "AV 199 - CONSTITUCION N°7771, MAR DEL PLATA"
+  },
+  {
+    "id": 60173,
+    "label": "PDV 173 — SHELL",
+    "address": "AV 150 - JACINTO PERALTA RAMOS N°1401, MAR DEL PLATA"
+  },
+  {
+    "id": 60174,
+    "label": "PDV 174 — SHELL",
+    "address": "C 271 - ALBERTI N°1996, MAR DEL PLATA"
+  },
+  {
+    "id": 60175,
+    "label": "PDV 175 — SHELL",
+    "address": "C 170 - SAN JUAN N°1002, MAR DEL PLATA"
+  },
+  {
+    "id": 60176,
+    "label": "PDV 176 — SHELL",
+    "address": "AV 251 - PEDRO LURO N°4702, MAR DEL PLATA"
+  },
+  {
+    "id": 60177,
+    "label": "PDV 177 — SHELL",
+    "address": "AV 199 - CONSTITUCION N°6690, MAR DEL PLATA"
+  },
+  {
+    "id": 60178,
+    "label": "PDV 178 — SHELL",
+    "address": "AVDA COLON N°5786, MAR DEL PLATA"
+  },
+  {
+    "id": 60179,
+    "label": "PDV 179 — SHELL",
+    "address": "AVDA DELLEPIANE 4180 MANO CABA N°4180, CAPITAL FEDERAL"
+  },
+  {
+    "id": 60180,
+    "label": "PDV 180 — SHELL",
+    "address": "CNO GRL BELGRANO N°801, QUILMES OESTE"
+  },
+  {
+    "id": 60181,
+    "label": "PDV 181 — SHELL",
+    "address": "AV LA PLATA N°1144, QUILMES OESTE"
+  },
+  {
+    "id": 60182,
+    "label": "PDV 182 — SHELL",
+    "address": "AV CALCHAQUI N°1615, QUILMES OESTE"
+  },
+  {
+    "id": 60183,
+    "label": "PDV 183 — SHELL",
+    "address": "MITRE N°949, QUILMES"
+  },
+  {
+    "id": 60184,
+    "label": "PDV 184 — SHELL",
+    "address": "AV 14 N°6168, BERAZATEGUI"
+  },
+  {
+    "id": 60185,
+    "label": "PDV 185 — SHELL",
+    "address": "AV 14 N°3804, BERAZATEGUI"
+  },
+  {
+    "id": 60186,
+    "label": "PDV 186 — SHELL",
+    "address": "PTE ARTURO ILLIA N°6907, JOSE C. PAZ"
+  },
+  {
+    "id": 60187,
+    "label": "PDV 187 — SHELL",
+    "address": "TAPIA DE CRUZ EUGENIA N°1090, BELEN DE ESCOBAR"
+  },
+  {
+    "id": 60188,
+    "label": "PDV 188 — SHELL",
+    "address": "DARWIN N°403, MORENO"
+  },
+  {
+    "id": 60189,
+    "label": "PDV 189 — SHELL",
+    "address": "RICARDO BALBIN N°2568, SAN MIGUEL"
+  },
+  {
+    "id": 60190,
+    "label": "PDV 190 — SHELL",
+    "address": "AV HIPOLITO YRIGOYEN N°343, MATHEU"
+  },
+  {
+    "id": 60191,
+    "label": "PDV 191 — SHELL",
+    "address": "PRES JUAN DOMINGO PERON N°3102, VICTORIA"
+  },
+  {
+    "id": 60192,
+    "label": "PDV 192 — SHELL",
+    "address": "SENADOR MORON N°2385, BELLA VISTA"
+  },
+  {
+    "id": 60193,
+    "label": "PDV 193 — SHELL",
+    "address": "PRES JUAN D PERON N°3495, SAN MIGUEL"
+  },
+  {
+    "id": 60194,
+    "label": "PDV 194 — SHELL",
+    "address": "AV HIPOLITO YRIGOYEN N°343, MATHEU"
+  },
+  {
+    "id": 60195,
+    "label": "PDV 195 — SHELL",
+    "address": "25 DE MAYO N°1193, BELEN DE ESCOBAR"
+  },
+  {
+    "id": 60196,
+    "label": "PDV 196 — SHELL",
+    "address": "H YRIGOYEN N°2550, JOSE C. PAZ"
+  },
+  {
+    "id": 60197,
+    "label": "PDV 197 — SHELL",
+    "address": "AV URIBURU N°1105, PILAR"
+  },
+  {
+    "id": 60198,
+    "label": "PDV 198 — SHELL",
+    "address": "AVELLANEDA N°3186, VIRREYES"
+  },
+  {
+    "id": 60199,
+    "label": "PDV 199 — SHELL",
+    "address": "HIPOLITO YRIGOYEN N°2099, LANUS"
+  },
+  {
+    "id": 60200,
+    "label": "PDV 200 — SHELL",
+    "address": "JOSE MARIA MORENO N°690, LANUS"
+  },
+  {
+    "id": 60201,
+    "label": "PDV 201 — SHELL",
+    "address": "AV HIPOLITO YRIGOYEN N°1765, MORON"
+  },
+  {
+    "id": 60202,
+    "label": "PDV 202 — SHELL",
+    "address": "CANADA DE JUAN RUIZ N°510, CASTELAR"
+  },
+  {
+    "id": 60203,
+    "label": "PDV 203 — SHELL",
+    "address": "JOSE MARIA PAZ N°6, ITUZAINGO"
+  },
+  {
+    "id": 60204,
+    "label": "PDV 204 — SHELL",
+    "address": "AV JUAN DOMINGO PERON N°25432, MERLO"
+  },
+  {
+    "id": 60205,
+    "label": "PDV 205 — SHELL",
+    "address": "DON BOSCO N°3793, MORON"
+  },
+  {
+    "id": 60206,
+    "label": "PDV 206 — SHELL",
+    "address": "RUTA PCIAL 23 - AVDA DEL LIBER N°1186, MORENO"
+  },
+  {
+    "id": 60207,
+    "label": "PDV 207 — SHELL",
+    "address": "AV RIVADAVIA N°16028, HAEDO"
+  },
+  {
+    "id": 60208,
+    "label": "PDV 208 — SHELL",
+    "address": "ESPANA N°485, MORENO"
+  },
+  {
+    "id": 60209,
+    "label": "PDV 209 — SHELL",
+    "address": "AV GAONA N°4215, CIUDADELA"
+  },
+  {
+    "id": 60210,
+    "label": "PDV 210 — SHELL",
+    "address": "CAP CLAUDIO ROSALES N°1201, EL PALOMAR"
+  },
+  {
+    "id": 60211,
+    "label": "PDV 211 — SHELL",
+    "address": "AVDA PTE BARTOLOME MITRE N°3215, COSTA DE SARANDI"
+  },
+  {
+    "id": 60212,
+    "label": "PDV 212 — SHELL",
+    "address": "TRES ARROYOS N°3802, BARRIO OBRERO VILLA AVELLANEDA"
+  },
+  {
+    "id": 60213,
+    "label": "PDV 213 — SHELL",
+    "address": "AV MARQUEZ N°1381, LOMA HERMOSA"
+  },
+  {
+    "id": 60214,
+    "label": "PDV 214 — SHELL",
+    "address": "CALLE 134 CHACABUCO N°4301, VILLA BALLESTER"
+  },
+  {
+    "id": 60215,
+    "label": "PDV 215 — SHELL",
+    "address": "AV 1 DE LOS CONSTITUYENTES N°1806, VILLA MAIPU"
+  },
+  {
+    "id": 60216,
+    "label": "PDV 216 — SHELL",
+    "address": "AV 85 GRL LIBERTADOR SAN MARTI N°819, VILLA LYNCH"
+  },
+  {
+    "id": 60217,
+    "label": "PDV 217 — SHELL",
+    "address": "537 GRL HORNOS N°2084, CASEROS"
+  },
+  {
+    "id": 60218,
+    "label": "PDV 218 — SHELL",
+    "address": "283 MARCELO T DE ALVEAR N°4691, CASEROS"
+  },
+  {
+    "id": 60219,
+    "label": "PDV 219 — SHELL",
+    "address": "AV 141 TRIUNVIRATO N°4913, Billinghurst"
+  },
+  {
+    "id": 60220,
+    "label": "PDV 220 — SHELL",
+    "address": "536 FISCHETTI N°4705, CASEROS"
+  },
+  {
+    "id": 61001,
+    "label": "PDV 1 — AXION Energy",
+    "address": "BV URQUIZA N°2615, SAN LORENZO"
+  },
+  {
+    "id": 61002,
+    "label": "PDV 2 — AXION Energy",
+    "address": "AV EVA PERON N°8159, ROSARIO"
+  },
+  {
+    "id": 61003,
+    "label": "PDV 3 — AXION Energy",
+    "address": "AVELLANEDA N°1698, ROSARIO"
+  },
+  {
+    "id": 61004,
+    "label": "PDV 4 — AXION Energy",
+    "address": "CORDOBA N°2790, ROSARIO"
+  },
+  {
+    "id": 61005,
+    "label": "PDV 5 — AXION Energy",
+    "address": "SAN MARTIN N°1983, ROSARIO"
+  },
+  {
+    "id": 61006,
+    "label": "PDV 6 — AXION Energy",
+    "address": "AV PROVINCIAS UNIDAS N°2902, ROSARIO"
+  },
+  {
+    "id": 61007,
+    "label": "PDV 7 — AXION Energy",
+    "address": "SAN MARTIN N°3502, ROSARIO"
+  },
+  {
+    "id": 61008,
+    "label": "PDV 8 — AXION Energy",
+    "address": "AV FUERZA AEREA ARGENTINA N°4510, CORDOBA"
+  },
+  {
+    "id": 61009,
+    "label": "PDV 9 — AXION Energy",
+    "address": "AV BERNARDO O\\\\'HIGGINS N°5375, CORDOBA"
+  },
+  {
+    "id": 61010,
+    "label": "PDV 10 — AXION Energy",
+    "address": "AV BERNARDO O\\\\'HIGGINS N°5375, CORDOBA"
+  },
+  {
+    "id": 61011,
+    "label": "PDV 11 — AXION Energy",
+    "address": "AV ARMADA ARGENTINA N°787, CORDOBA"
+  },
+  {
+    "id": 61012,
+    "label": "PDV 12 — AXION Energy",
+    "address": "AV JUAN B JUSTO N°5225, CORDOBA"
+  },
+  {
+    "id": 61013,
+    "label": "PDV 13 — AXION Energy",
+    "address": "AV JULIO A ROCA N°1697, CORDOBA"
+  },
+  {
+    "id": 61014,
+    "label": "PDV 14 — AXION Energy",
+    "address": "AV GDOR DR AMADEO SABATTINI N°4720, CORDOBA"
+  },
+  {
+    "id": 61015,
+    "label": "PDV 15 — AXION Energy",
+    "address": "AV GOYCOECHEA N°1235, VILLA ALLENDE"
+  },
+  {
+    "id": 61016,
+    "label": "PDV 16 — AXION Energy",
+    "address": "BV BULNES N°1108, CORDOBA"
+  },
+  {
+    "id": 61017,
+    "label": "PDV 17 — AXION Energy",
+    "address": "PERU N°1310, MENDOZA"
+  },
+  {
+    "id": 61018,
+    "label": "PDV 18 — AXION Energy",
+    "address": "CNL MOLDES N°1645, DORREGO"
+  },
+  {
+    "id": 61019,
+    "label": "PDV 19 — AXION Energy",
+    "address": "AVDA CORDOBA N°5600, CAPITAL FEDERAL"
+  },
+  {
+    "id": 61020,
+    "label": "PDV 20 — AXION Energy",
+    "address": "AVDA DEL LIBERTADOR N°2587, CAPITAL FEDERAL"
+  },
+  {
+    "id": 61021,
+    "label": "PDV 21 — AXION Energy",
+    "address": "AVDA GRAL LAS HERAS N°2499, CAPITAL FEDERAL"
+  },
+  {
+    "id": 61022,
+    "label": "PDV 22 — AXION Energy",
+    "address": "AVDA CABILDO N°695, CAPITAL FEDERAL"
+  },
+  {
+    "id": 61023,
+    "label": "PDV 23 — AXION Energy",
+    "address": "AVDA DE LOS INCAS N°3550, CAPITAL FEDERAL"
+  },
+  {
+    "id": 61024,
+    "label": "PDV 24 — AXION Energy",
+    "address": "AVDA CONGRESO N°4801, CAPITAL FEDERAL"
+  },
+  {
+    "id": 61025,
+    "label": "PDV 25 — AXION Energy",
+    "address": "AVDA MONROE N°3078, CAPITAL FEDERAL"
+  },
+  {
+    "id": 61026,
+    "label": "PDV 26 — AXION Energy",
+    "address": "AVDA MOSCONI N°2500, CAPITAL FEDERAL"
+  },
+  {
+    "id": 61027,
+    "label": "PDV 27 — AXION Energy",
+    "address": "AVDA TRIUNVIRATO N°5888, CAPITAL FEDERAL"
+  },
+  {
+    "id": 61028,
+    "label": "PDV 28 — AXION Energy",
+    "address": "AVDA JUAN B JUSTO N°8009, CAPITAL FEDERAL"
+  },
+  {
+    "id": 61029,
+    "label": "PDV 29 — AXION Energy",
+    "address": "AVDA EMILIO CASTRO N°6512, CAPITAL FEDERAL"
+  },
+  {
+    "id": 61030,
+    "label": "PDV 30 — AXION Energy",
+    "address": "AVDA GAONA N°2399, CAPITAL FEDERAL"
+  },
+  {
+    "id": 61031,
+    "label": "PDV 31 — AXION Energy",
+    "address": "AVDA RIVADAVIA N°8201, CAPITAL FEDERAL"
+  },
+  {
+    "id": 61032,
+    "label": "PDV 32 — AXION Energy",
+    "address": "AVDA SAN MARTIN N°1600, CAPITAL FEDERAL"
+  },
+  {
+    "id": 61033,
+    "label": "PDV 33 — AXION Energy",
+    "address": "AVDA JUAN BAUTISTA ALBERDI N°10, CAPITAL FEDERAL"
+  },
+  {
+    "id": 61034,
+    "label": "PDV 34 — AXION Energy",
+    "address": "AVDA FERNANDEZ DE LA CRUZ N°1501, CAPITAL FEDERAL"
+  },
+  {
+    "id": 61035,
+    "label": "PDV 35 — AXION Energy",
+    "address": "AVDA JUAN DE GARAY N°1302, CAPITAL FEDERAL"
+  },
+  {
+    "id": 61036,
+    "label": "PDV 36 — AXION Energy",
+    "address": "AVDA JUJUY N°164, CAPITAL FEDERAL"
+  },
+  {
+    "id": 61037,
+    "label": "PDV 37 — AXION Energy",
+    "address": "AVDA AVELINO ROLON N°29, BOULOGNE"
+  },
+  {
+    "id": 61038,
+    "label": "PDV 38 — AXION Energy",
+    "address": "AVDA AVELINO ROLON N°603, BOULOGNE"
+  },
+  {
+    "id": 61039,
+    "label": "PDV 39 — AXION Energy",
+    "address": "AVDA DEL LIBERTADOR N°2376, BARTOLOME MITRE (ESTACION FCGM"
+  },
+  {
+    "id": 61040,
+    "label": "PDV 40 — AXION Energy",
+    "address": "AVDA DEL LIBERTADOR N°299, VICENTE LOPEZ"
+  },
+  {
+    "id": 61041,
+    "label": "PDV 41 — AXION Energy",
+    "address": "AVDA MAIPU N°1055, VICENTE LOPEZ"
+  },
+  {
+    "id": 61042,
+    "label": "PDV 42 — AXION Energy",
+    "address": "AVDA FRANCISCO BEIRO N°5500, CAPITAL FEDERAL"
+  },
+  {
+    "id": 61043,
+    "label": "PDV 43 — AXION Energy",
+    "address": "AVDA GRAL PAZ N°11200, CAPITAL FEDERAL"
+  },
+  {
+    "id": 61044,
+    "label": "PDV 44 — AXION Energy",
+    "address": "CAMINO DEL BUEN AYRE. KM 19 N°0, BARRIO AERONAUTICO"
+  },
+  {
+    "id": 61045,
+    "label": "PDV 45 — AXION Energy",
+    "address": "AV ALMAFUERTE N°187, CAPITAL FEDERAL"
+  },
+  {
+    "id": 61046,
+    "label": "PDV 46 — AXION Energy",
+    "address": "AV BRASIL N°2984, CAPITAL FEDERAL"
+  },
+  {
+    "id": 61047,
+    "label": "PDV 47 — AXION Energy",
+    "address": "AV EVA PERON N°4350, CAPITAL FEDERAL"
+  },
+  {
+    "id": 61048,
+    "label": "PDV 48 — AXION Energy",
+    "address": "CNEL RAMON L FALCON N°6398, CAPITAL FEDERAL"
+  },
+  {
+    "id": 61049,
+    "label": "PDV 49 — AXION Energy",
+    "address": "AUTOVIA 2 S/N N°0, EL PATO"
+  },
+  {
+    "id": 61050,
+    "label": "PDV 50 — AXION Energy",
+    "address": "AV 7 N°2060, RINGUELET"
+  },
+  {
+    "id": 61051,
+    "label": "PDV 51 — AXION Energy",
+    "address": "AV ARANA S/N N°0, VILLA ELISA"
+  },
+  {
+    "id": 61052,
+    "label": "PDV 52 — AXION Energy",
+    "address": "CALLE 28 N°5, LA PLATA"
+  },
+  {
+    "id": 61053,
+    "label": "PDV 53 — AXION Energy",
+    "address": "AV VALENTIN VERGARA N°1398, JUAN MARIA GUTIERREZ"
+  },
+  {
+    "id": 61054,
+    "label": "PDV 54 — AXION Energy",
+    "address": "CAMINO CENTENARIO S/N N°0, CITY BELL"
+  },
+  {
+    "id": 61055,
+    "label": "PDV 55 — AXION Energy",
+    "address": "PARANA N°3944, OLIVOS"
+  },
+  {
+    "id": 61056,
+    "label": "PDV 56 — AXION Energy",
+    "address": "BARTOLOME MITRE N°3202, MUNRO"
+  },
+  {
+    "id": 61057,
+    "label": "PDV 57 — AXION Energy",
+    "address": "BARTOLOME MITRE N°1630, MUNRO"
+  },
+  {
+    "id": 61058,
+    "label": "PDV 58 — AXION Energy",
+    "address": "MARCELO T DE ALVEAR N°2900, DON TORCUATO ESTE"
+  },
+  {
+    "id": 61059,
+    "label": "PDV 59 — AXION Energy",
+    "address": "AV HIPOLITO YRIGOYEN N°350, GENERAL PACHECO"
+  },
+  {
+    "id": 61060,
+    "label": "PDV 60 — AXION Energy",
+    "address": "AV GRAL J D PERON N°8438, BENAVIDEZ"
+  },
+  {
+    "id": 61061,
+    "label": "PDV 61 — AXION Energy",
+    "address": "MARTIN GARCIA N°9646, RINCON DE MILBERG"
+  },
+  {
+    "id": 61062,
+    "label": "PDV 62 — AXION Energy",
+    "address": "AV JUAN B JUSTO N°10, MAR DEL PLATA"
+  },
+  {
+    "id": 61063,
+    "label": "PDV 63 — AXION Energy",
+    "address": "AV 199 - CONSTITUCION N°4703, MAR DEL PLATA"
+  },
+  {
+    "id": 61064,
+    "label": "PDV 64 — AXION Energy",
+    "address": "AV INTERMEDANOS N°55, PINAMAR"
+  },
+  {
+    "id": 61065,
+    "label": "PDV 65 — AXION Energy",
+    "address": "AV JUAN B JUSTO N°6065, MAR DEL PLATA"
+  },
+  {
+    "id": 61066,
+    "label": "PDV 66 — AXION Energy",
+    "address": "C 259 - MORENO N°3101, MAR DEL PLATA"
+  },
+  {
+    "id": 61067,
+    "label": "PDV 67 — AXION Energy",
+    "address": "AV 263 - COLON N°5002, MAR DEL PLATA"
+  },
+  {
+    "id": 61068,
+    "label": "PDV 68 — AXION Energy",
+    "address": "G CAMPOS N°1665, BELLA VISTA"
+  },
+  {
+    "id": 61069,
+    "label": "PDV 69 — AXION Energy",
+    "address": "RICARDO BALBIN N°596, SAN MIGUEL"
+  },
+  {
+    "id": 61070,
+    "label": "PDV 70 — AXION Energy",
+    "address": "DIRECTORIO N°1394, TORTUGUITAS"
+  },
+  {
+    "id": 61071,
+    "label": "PDV 71 — AXION Energy",
+    "address": "ITTE GNECCO N°1659, PASO DEL REY"
+  },
+  {
+    "id": 61072,
+    "label": "PDV 72 — AXION Energy",
+    "address": "BOQUERON N°799, CIUDADELA"
+  },
+  {
+    "id": 61073,
+    "label": "PDV 73 — AXION Energy",
+    "address": "AVDA GRAL JOSE DE SAN MAR N°3188, BARRIO CINCO ESQUINAS"
+  },
+  {
+    "id": 61074,
+    "label": "PDV 74 — AXION Energy",
+    "address": "PTE JUAN DOMINGO PERON N°250, BARRIO HORNOS"
+  },
+  {
+    "id": 61075,
+    "label": "PDV 75 — AXION Energy",
+    "address": "VICTORICA N°47, MORENO"
+  },
+  {
+    "id": 61076,
+    "label": "PDV 76 — AXION Energy",
+    "address": "MENDOZA N°205, MORON"
+  },
+  {
+    "id": 61077,
+    "label": "PDV 77 — AXION Energy",
+    "address": "SANTA ROSA N°1885, CASTELAR"
+  },
+  {
+    "id": 61078,
+    "label": "PDV 78 — AXION Energy",
+    "address": "AV ZEBALLOS N°2188, CASTELAR"
+  },
+  {
+    "id": 61079,
+    "label": "PDV 79 — AXION Energy",
+    "address": "RUTA PCIAL 23 - AVDA DEL LIBER N°1291, MORENO"
+  },
+  {
+    "id": 61080,
+    "label": "PDV 80 — AXION Energy",
+    "address": "AV PRESIDENTE PERON N°8591, VILLA GOBERNADOR UDADONDO"
+  },
+  {
+    "id": 61081,
+    "label": "PDV 81 — AXION Energy",
+    "address": "CAP CLAUDIO ROSALES N°794, EL PALOMAR"
+  },
+  {
+    "id": 61082,
+    "label": "PDV 82 — AXION Energy",
+    "address": "COLECTORA N°4531, VILLA SANTOS TESEI"
+  },
+  {
+    "id": 61083,
+    "label": "PDV 83 — AXION Energy",
+    "address": "AVDA GRAL ROJO N°2825, BARRIO ALTOS DE LAFERRERE"
+  },
+  {
+    "id": 61084,
+    "label": "PDV 84 — AXION Energy",
+    "address": "815 SGT PALMA N°1079, VILLA BOSCH"
+  },
+  {
+    "id": 61085,
+    "label": "PDV 85 — AXION Energy",
+    "address": "AV 85 GRL LIBERTADOR SAN MARTI N°830, VILLA LYNCH"
+  },
+  {
+    "id": 61086,
+    "label": "PDV 86 — AXION Energy",
+    "address": "AV SAN MARTIN N°1934, CASEROS"
+  },
+  {
+    "id": 61087,
+    "label": "PDV 87 — AXION Energy",
+    "address": "GDOR INOCENCIO ARIAS N°3199, CASTELAR"
+  },
+  {
+    "id": 61088,
+    "label": "PDV 88 — AXION Energy",
+    "address": "ITTE GNECCO N°1258, PASO DEL REY"
+  },
+  {
+    "id": 61089,
+    "label": "PDV 89 — AXION Energy",
+    "address": "GUEMES N°1701, LA REJA"
+  },
+  {
+    "id": 61090,
+    "label": "PDV 90 — AXION Energy",
+    "address": "AV PRESIDENTE PERON N°7110, ITUZAINGO"
+  },
+  {
+    "id": 61091,
+    "label": "PDV 91 — AXION Energy",
+    "address": "S/D CAMINO DE LA RIVERA N°2902, MERLO"
+  },
+  {
+    "id": 61092,
+    "label": "PDV 92 — AXION Energy",
+    "address": "RUTA PCIAL 23 - AVDA DEL LIBER N°2549, MORENO"
+  },
+  {
+    "id": 62001,
+    "label": "PDV 1 — YPF",
+    "address": "AUTOPISTA DEL SOL RAMAL PILAR (LADO BS AS) KM 36.5, TORTUGUITAS"
+  },
+  {
+    "id": 62002,
+    "label": "PDV 2 — YPF",
+    "address": "AUTOPISTA DEL SOL RAMAL PILAR (LADO PILAR) KM 36.5, TORTUGUITAS"
+  },
+  {
+    "id": 62003,
+    "label": "PDV 3 — YPF",
+    "address": "AVENIDA AGUSTÍN M GARCÍA 6269, TIGRE"
+  },
+  {
+    "id": 62004,
+    "label": "PDV 4 — YPF",
+    "address": "AUTOPISTA DEL SOL RAMAL CAMPANA (LADO A BS. AS.) K, TORTUGUITAS"
+  },
+  {
+    "id": 62005,
+    "label": "PDV 5 — YPF",
+    "address": "AUTOPISTA DEL SOL RAMAL CAMPANA (LADO CAMPANA) KM, TORTUGUITAS"
+  },
+  {
+    "id": 62006,
+    "label": "PDV 6 — YPF",
+    "address": "AVENIDA BERNABE MARQUEZ 1195 Y ANDRES ROLON, SAN ISIDRO"
+  },
+  {
+    "id": 62007,
+    "label": "PDV 7 — YPF",
+    "address": "AVENIDA CABILDO 3501 Y JUANA AZURDUY, CIUDAD DE BUENOS AIRES"
+  },
+  {
+    "id": 62008,
+    "label": "PDV 8 — YPF",
+    "address": "AVENIDA DE LOS LAGOS 330, TIGRE"
+  },
+  {
+    "id": 62009,
+    "label": "PDV 9 — YPF",
+    "address": "AVENIDA MAIPU Y PELLIZA, OLIVOS"
+  },
+  {
+    "id": 62010,
+    "label": "PDV 10 — YPF",
+    "address": "LARRALDE 2075 Y ACCESO PANAMERICANA RAMAL TIGRE, TIGRE"
+  },
+  {
+    "id": 62011,
+    "label": "PDV 11 — YPF",
+    "address": "AVENIDA CNEL JOSE SEGUNDO ROCA 4550 Y ESCALADA, CIUDAD DE BUENOS AIRES"
+  },
+  {
+    "id": 62012,
+    "label": "PDV 12 — YPF",
+    "address": "RUTA NACIONAL PANAMERICANA ASCENDENTE Y ACCESO DEB, OLIVOS"
+  },
+  {
+    "id": 62013,
+    "label": "PDV 13 — YPF",
+    "address": "AVENIDA CORDOBA 4201 Y PRINGLES, CIUDAD DE BUENOS AIRES"
+  },
+  {
+    "id": 62014,
+    "label": "PDV 14 — YPF",
+    "address": "LARRAZABAL 3645 DELLEPIANE, CIUDAD DE BUENOS AIRES"
+  },
+  {
+    "id": 62015,
+    "label": "PDV 15 — YPF",
+    "address": "EX COMBATIENTE JUAN SÁNCHEZ 64 ENTRE JUAN B JUSTO, SAN FERNANDO"
+  },
+  {
+    "id": 62016,
+    "label": "PDV 16 — YPF",
+    "address": "AVENIDA GAONA 1204 Y MARTIN DE GAINZA, CIUDAD DE BUENOS AIRES"
+  },
+  {
+    "id": 62017,
+    "label": "PDV 17 — YPF",
+    "address": "AUTOPISTA 9 KM 23.5 ASCENDENTE, SAN ISIDRO"
+  },
+  {
+    "id": 62018,
+    "label": "PDV 18 — YPF",
+    "address": "AVENIDA AV MOSCONI 3289 Y CAMPANA, CIUDAD DE BUENOS AIRES"
+  },
+  {
+    "id": 62019,
+    "label": "PDV 19 — YPF",
+    "address": "AVENIDA MAIPU 999 Y MARTIN J. HAEDO, VICENTE LOPEZ"
+  },
+  {
+    "id": 62020,
+    "label": "PDV 20 — YPF",
+    "address": "AVENIDA AVELLANEDA 1628 Y SEGUI, CIUDAD DE BUENOS AIRES"
+  },
+  {
+    "id": 62021,
+    "label": "PDV 21 — YPF",
+    "address": "CONGRESO 4008 Y PLAZA, CIUDAD DE BUENOS AIRES"
+  },
+  {
+    "id": 62022,
+    "label": "PDV 22 — YPF",
+    "address": "AVENIDA CAZON 997 Y CHACABUCO, TIGRE"
+  },
+  {
+    "id": 62023,
+    "label": "PDV 23 — YPF",
+    "address": "AVENIDA EDISON Y LA HABANA, MARTINEZ"
+  },
+  {
+    "id": 62024,
+    "label": "PDV 24 — YPF",
+    "address": "AVENIDA URUGUAY 3160 Y AV SUCRE, BECCAR"
+  },
+  {
+    "id": 62025,
+    "label": "PDV 25 — YPF",
+    "address": "HIPOLITO YRIGOYEN 1598 Y SIR ALEXANDER FLEMMING, MARTINEZ"
+  },
+  {
+    "id": 62026,
+    "label": "PDV 26 — YPF",
+    "address": "AVENIDA DEL LIBERTADOR 3402 Y J INGENIEROS, LA LUCILA"
+  },
+  {
+    "id": 62027,
+    "label": "PDV 27 — YPF",
+    "address": "AVENIDA DR RICARDO BALBIN 4491 Y CORREA, CIUDAD DE BUENOS AIRES"
+  },
+  {
+    "id": 62028,
+    "label": "PDV 28 — YPF",
+    "address": "AVENIDA DEL LIBERTADOR 2199 Y QUINTANA, SAN FERNANDO"
+  },
+  {
+    "id": 62029,
+    "label": "PDV 29 — YPF",
+    "address": "AVENIDA ALBERDI 7500 Y GENERAL PAZ, CIUDAD DE BUENOS AIRES"
+  },
+  {
+    "id": 62030,
+    "label": "PDV 30 — YPF",
+    "address": "AVENIDA DEL LIBERTADOR 5002 Y OLLEROS, CIUDAD DE BUENOS AIRES"
+  },
+  {
+    "id": 62031,
+    "label": "PDV 31 — YPF",
+    "address": "RUTA NACIONAL PANAMERICANA DESCENDENTE Y ACCESO DE, OLIVOS"
+  },
+  {
+    "id": 62032,
+    "label": "PDV 32 — YPF",
+    "address": "AVENIDA LISANDRO DE LA TORRE 2179 Y DIRECTORIO, CIUDAD DE BUENOS AIRES"
+  },
+  {
+    "id": 62033,
+    "label": "PDV 33 — YPF",
+    "address": "AVENIDA CABILDO 4108 Y VILELA, CIUDAD DE BUENOS AIRES"
+  },
+  {
+    "id": 62034,
+    "label": "PDV 34 — YPF",
+    "address": "AVENIDA FIGUEROA ALCORTA 6608 Y ECHEVERRIA, CIUDAD DE BUENOS AIRES"
+  },
+  {
+    "id": 62035,
+    "label": "PDV 35 — YPF",
+    "address": "AVENIDA CNEL JOSE SEGUNDO ROCA 6797 Y J L SUAREZ, CIUDAD DE BUENOS AIRES"
+  },
+  {
+    "id": 62036,
+    "label": "PDV 36 — YPF",
+    "address": "AVENIDA DORREGO 443 Y MUÑECAS, CIUDAD DE BUENOS AIRES"
+  },
+  {
+    "id": 62037,
+    "label": "PDV 37 — YPF",
+    "address": "AVENIDA LA PLATA 901 Y J BONIFACIO, CIUDAD DE BUENOS AIRES"
+  },
+  {
+    "id": 62038,
+    "label": "PDV 38 — YPF",
+    "address": "AVENIDA DR RICARDO BALBIN 5041 Y SALTO, CIUDAD DE BUENOS AIRES"
+  },
+  {
+    "id": 62039,
+    "label": "PDV 39 — YPF",
+    "address": "GRAL M DE ESCALADA 678 Y J B ALBERDI, CIUDAD DE BUENOS AIRES"
+  },
+  {
+    "id": 62040,
+    "label": "PDV 40 — YPF",
+    "address": "AVENIDA DE LOS CONSTITUYENTES 6070, CIUDAD DE BUENOS AIRES"
+  },
+  {
+    "id": 62041,
+    "label": "PDV 41 — YPF",
+    "address": "AVENIDA RIVADAVIA 3341 Y AGÜERO, CIUDAD DE BUENOS AIRES"
+  },
+  {
+    "id": 62042,
+    "label": "PDV 42 — YPF",
+    "address": "AVENIDA DR VELEZ SARSFIELD 850 Y TOLL, CIUDAD DE BUENOS AIRES"
+  },
+  {
+    "id": 62043,
+    "label": "PDV 43 — YPF",
+    "address": "AVENIDA DIAZ VELEZ 4373 Y YATAY, CIUDAD DE BUENOS AIRES"
+  },
+  {
+    "id": 62044,
+    "label": "PDV 44 — YPF",
+    "address": "AVENIDA INDEPENDENCIA 2701 Y JUJUY, CIUDAD DE BUENOS AIRES"
+  },
+  {
+    "id": 62045,
+    "label": "PDV 45 — YPF",
+    "address": "AVENIDA DIRECTORIO 4311 Y OLIVERA, CIUDAD DE BUENOS AIRES"
+  },
+  {
+    "id": 62046,
+    "label": "PDV 46 — YPF",
+    "address": "AVENIDA J B JUSTO 1215 Y NICARAGUA, CIUDAD DE BUENOS AIRES"
+  },
+  {
+    "id": 62047,
+    "label": "PDV 47 — YPF",
+    "address": "AVENIDA JOSE M MORENO 1485 Y AVELINO DIAZ, CIUDAD DE BUENOS AIRES"
+  },
+  {
+    "id": 62048,
+    "label": "PDV 48 — YPF",
+    "address": "AVENIDA DEL LIBERTADOR Y MELO, VICENTE LOPEZ"
+  },
+  {
+    "id": 62049,
+    "label": "PDV 49 — YPF",
+    "address": "ARGENTINA 5620 Y ZELARRAYAN, CIUDAD DE BUENOS AIRES"
+  },
+  {
+    "id": 62050,
+    "label": "PDV 50 — YPF",
+    "address": "PARAGUAY 1676 Y RODRIGUEZ PEÑA, CIUDAD DE BUENOS AIRES"
+  },
+  {
+    "id": 62051,
+    "label": "PDV 51 — YPF ALONSO CONSTANTINO RAUL",
+    "address": "RUTA PROVINCIAL 88 ASCENDENTE Y SOLIS, MAR DEL PLATA"
+  },
+  {
+    "id": 62052,
+    "label": "PDV 52 — YPF ESTACION DE SERVICIO EL PINO SRL",
+    "address": "AVENIDA LURO Y ERREA (CALLE 228), MAR DEL PLATA"
+  },
+  {
+    "id": 62053,
+    "label": "PDV 53 — YPF NUEVOS RUMBOS SA",
+    "address": "RUTA NACIONAL 2 ASCENDENTE Y AVENIDA CONSTITUCION, MAR DEL PLATA"
+  },
+  {
+    "id": 62054,
+    "label": "PDV 54 — YPF COMBUSTIBLES RAUL ALONSO SA",
+    "address": "AVENIDA CRISTOBAL COLON Y OLAZABAL, MAR DEL PLATA"
+  },
+  {
+    "id": 62055,
+    "label": "PDV 55 — YPF OPESSA MAR DEL PLATA TEJEDOR",
+    "address": "AVENIDA CONSTITUCION Y CARLOS TEJEDOR, MAR DEL PLATA"
+  },
+  {
+    "id": 62056,
+    "label": "PDV 56 — YPF OPESSA ACA PINAMAR",
+    "address": "JASON Y JUPITER, PINAMAR"
+  },
+  {
+    "id": 62057,
+    "label": "PDV 57 — YPF BASSO HNOS SACIFIA",
+    "address": "AVENIDA CNEL M MARTINEZ DE HOZ Y ELCANO, MAR DEL PLATA"
+  },
+  {
+    "id": 62058,
+    "label": "PDV 58 — YPF BASSO HNOS SACIFIA",
+    "address": "AVENIDA DR JUAN BAUTISTA JUSTO Y TUCUMAN, MAR DEL PLATA"
+  },
+  {
+    "id": 62059,
+    "label": "PDV 59 — YPF LOS TEPUES SA",
+    "address": "TOMAS ESPORA 3099, VALERIA DEL MAR"
+  },
+  {
+    "id": 62060,
+    "label": "PDV 60 — YPF OPESSA VILLA GESELL",
+    "address": "AVENIDA BUENOS AIRES Y BLVD GESELL, VILLA GESELL"
+  },
+  {
+    "id": 62061,
+    "label": "PDV 61 — YPF VILLA REGINA SA",
+    "address": "AVENIDA MARIO BRAVO Y JORGE NEWBERY, MAR DEL PLATA"
+  },
+  {
+    "id": 62062,
+    "label": "PDV 62 — YPF CIRO MAR SOCIEDAD ANONIMA",
+    "address": "AVENIDA CRISTOBAL COLON Y CHAMPAGNAT, MAR DEL PLATA"
+  },
+  {
+    "id": 62063,
+    "label": "PDV 63 — YPF BASSO INDEPENDENCIA SA",
+    "address": "AVENIDA INDEPENDENCIA Y 9 DE JULIO, MAR DEL PLATA"
+  },
+  {
+    "id": 62064,
+    "label": "PDV 64 — YPF OESER SA",
+    "address": "AVENIDA PEDRO LURO Y CHAMPAGNAT, MAR DEL PLATA"
+  },
+  {
+    "id": 62065,
+    "label": "PDV 65 — YPF JENSPECK SRL",
+    "address": "AUTOPISTA 228 KM 2.5 ASCENDENTE, NECOCHEA"
+  },
+  {
+    "id": 62066,
+    "label": "PDV 66 — YPF BARBERO HERMANOS SA",
+    "address": "ROBETTE Y RIO DE JANEIRO, OSTENDE"
+  },
+  {
+    "id": 62067,
+    "label": "PDV 67 — YPF BARBERO HERMANOS SA",
+    "address": "BELGRANO 450 Y ESCRIBANO, CHASCOMUS"
+  },
+  {
+    "id": 62068,
+    "label": "PDV 68 — YPF PAREDI DANIEL ALBERTO",
+    "address": "SAN MARTIN Y RUTA NAC 2, GENERAL PIRAN"
+  },
+  {
+    "id": 62069,
+    "label": "PDV 69 — YPF LA CAMINERA SA",
+    "address": "RUTA NACIONAL 2 KM 399 DESCENDENTE, MAR DEL PLATA"
+  },
+  {
+    "id": 62070,
+    "label": "PDV 70 — YPF COMBU SRL",
+    "address": "CALLE 79 399 Y CALLE 10, NECOCHEA"
+  },
+  {
+    "id": 62071,
+    "label": "PDV 71 — YPF IBP SA",
+    "address": "AVENIDA MARTINEZ DE HOZ Y ORTIZ DE ZARATE, MAR DEL PLATA"
+  },
+  {
+    "id": 62072,
+    "label": "PDV 72 — YPF CASA ELICEIRY SA",
+    "address": "RUTA NACIONAL 2 KM 182.5 ASCENDENTE, CASTELLI"
+  },
+  {
+    "id": 62073,
+    "label": "PDV 73 — YPF GUIDO COMBUSTIBLES SA",
+    "address": "RUTA NACIONAL 2 KM 249.5 ASCENDENTE, GENERAL GUIDO"
+  },
+  {
+    "id": 62074,
+    "label": "PDV 74 — YPF OPESSA DOLORES",
+    "address": "RUTA NACIONAL 2 KM 202.3 ASCENDENTE, DOLORES"
+  },
+  {
+    "id": 62075,
+    "label": "PDV 75 — YPF CR88 SA",
+    "address": "RUTA PROVINCIAL 88 ASCENDENTE Y VERTIZ, MAR DEL PLATA"
+  },
+  {
+    "id": 62076,
+    "label": "PDV 76 — YPF 31358 - SAN ENERGY SA",
+    "address": "RUTA NACIONAL 2 KM 80 DESCENDENTE, SAMBOROMBON"
+  },
+  {
+    "id": 62077,
+    "label": "PDV 77 — YPF ACA DOLORES",
+    "address": "RUTA PROVINCIAL 2 ASCENDENTE, DOLORES"
+  },
+  {
+    "id": 62078,
+    "label": "PDV 78 — YPF COMBUSTIBLES LA PERLA SA",
+    "address": "AVENIDA AVDA. LURO 3399, MAR DEL PLATA"
+  },
+  {
+    "id": 62079,
+    "label": "PDV 79 — YPF COMBUSTIBLES DEL SALADO SA",
+    "address": "RIVADAVIA Y AVELLANEDA, GENERAL JUAN MADARIAGA"
+  },
+  {
+    "id": 62080,
+    "label": "PDV 80 — YPF OPESSA MAR DEL PLATA CENTRO",
+    "address": "ALBERTI 2128 Y BUENOS AIRES, MAR DEL PLATA"
+  },
+  {
+    "id": 62081,
+    "label": "PDV 81 — YPF GENERACION 2.0 COMBUSTIBLES SA",
+    "address": "Ruta 11 km74 11 ROTONDA, GENERAL JUAN MADARIAGA, PINAMAR"
+  },
+  {
+    "id": 63001,
+    "label": "PDV 1 — ACVAS",
+    "address": "RONDEAU N°427, CORDOBA"
+  },
+  {
+    "id": 63002,
+    "label": "PDV 2 — ACVAS",
+    "address": "BV PRES ARTURO ILLIA N°251, CORDOBA"
+  },
+  {
+    "id": 63003,
+    "label": "PDV 3 — ACVAS",
+    "address": "AV COLON N°564, CORDOBA"
+  },
+  {
+    "id": 63004,
+    "label": "PDV 4 — ACVAS",
+    "address": "AV EMILIO OLMOS N°246, CORDOBA"
+  },
+  {
+    "id": 63005,
+    "label": "PDV 5 — ACVAS",
+    "address": "AV COLON N°835, CORDOBA"
+  },
+  {
+    "id": 63006,
+    "label": "PDV 6 — ACVAS",
+    "address": "AV COLON N°375, CORDOBA"
+  },
+  {
+    "id": 63007,
+    "label": "PDV 7 — ACVAS",
+    "address": "BV SAN JUAN N°394, CORDOBA"
+  },
+  {
+    "id": 63008,
+    "label": "PDV 8 — ACVAS",
+    "address": "SARMIENTO N°131, CORDOBA"
+  },
+  {
+    "id": 63009,
+    "label": "PDV 9 — ACVAS",
+    "address": "AV COLON N°1042, CORDOBA"
+  },
+  {
+    "id": 63010,
+    "label": "PDV 10 — ACVAS",
+    "address": "AV COLON N°164, CORDOBA"
+  },
+  {
+    "id": 63011,
+    "label": "PDV 11 — ACVAS",
+    "address": "AV COLON N°521, CORDOBA"
+  },
+  {
+    "id": 63012,
+    "label": "PDV 12 — ACVAS",
+    "address": "AV COLON N°82, CORDOBA"
+  },
+  {
+    "id": 63013,
+    "label": "PDV 13 — ACVAS",
+    "address": "AV COLON N°294, CORDOBA"
+  },
+  {
+    "id": 63014,
+    "label": "PDV 14 — ACVAS",
+    "address": "AV EMILIO OLMOS N°19, CORDOBA"
+  },
+  {
+    "id": 63015,
+    "label": "PDV 15 — ACVAS",
+    "address": "TUCUMAN N°38, CORDOBA"
+  },
+  {
+    "id": 63016,
+    "label": "PDV 16 — ACVAS",
+    "address": "BV SAN JUAN N°313, CORDOBA"
+  },
+  {
+    "id": 63017,
+    "label": "PDV 17 — ACVAS",
+    "address": "SANTA ROSA N°1288, CORDOBA"
+  },
+  {
+    "id": 63018,
+    "label": "PDV 18 — ACVAS",
+    "address": "AV COLON N°1342, CORDOBA"
+  },
+  {
+    "id": 63019,
+    "label": "PDV 19 — ACVAS",
+    "address": "MARIANO FRAGUEIRO N°290, CORDOBA"
+  },
+  {
+    "id": 63020,
+    "label": "PDV 20 — ACVAS",
+    "address": "LA RIOJA N°193, CORDOBA"
+  },
+  {
+    "id": 63021,
+    "label": "PDV 21 — ACVAS",
+    "address": "RODRIGUEZ PENA N°239, CORDOBA"
+  },
+  {
+    "id": 63022,
+    "label": "PDV 22 — ACVAS",
+    "address": "AV FIGUEROA ALCORTA N°123, CORDOBA"
+  },
+  {
+    "id": 63023,
+    "label": "PDV 23 — ACVAS",
+    "address": "AV COLON N°876, CORDOBA"
+  },
+  {
+    "id": 63024,
+    "label": "PDV 24 — ACVAS",
+    "address": "BV SAN JUAN N°534, CORDOBA"
+  },
+  {
+    "id": 63025,
+    "label": "PDV 25 — ACVAS",
+    "address": "HUMBERTO PRIMO N°110, CORDOBA"
+  },
+  {
+    "id": 63026,
+    "label": "PDV 26 — ACVAS",
+    "address": "AYACUCHO N°189, CORDOBA"
+  },
+  {
+    "id": 63027,
+    "label": "PDV 27 — ACVAS",
+    "address": "AV COLON N°708, CORDOBA"
+  },
+  {
+    "id": 63028,
+    "label": "PDV 28 — ACVAS",
+    "address": "27 de Abril N°340, CORDOBA"
+  },
+  {
+    "id": 63029,
+    "label": "PDV 29 — ACVAS",
+    "address": "ANTONIO DE SUCRE N°310, CORDOBA"
+  },
+  {
+    "id": 63030,
+    "label": "PDV 30 — ACVAS",
+    "address": "NICOLAS AVELLANEDA N°452, CORDOBA"
+  },
+  {
+    "id": 63031,
+    "label": "PDV 31 — ACVAS",
+    "address": "CHACABUCO N°393, CORDOBA"
+  },
+  {
+    "id": 63032,
+    "label": "PDV 32 — ACVAS",
+    "address": "AV VELEZ SARSFIELD N°168, CORDOBA"
+  },
+  {
+    "id": 63033,
+    "label": "PDV 33 — ACVAS",
+    "address": "AV GRL PAZ N°31, CORDOBA"
+  },
+  {
+    "id": 63034,
+    "label": "PDV 34 — ACVAS",
+    "address": "AV VELEZ SARSFIELD N°286, CORDOBA"
+  },
+  {
+    "id": 63035,
+    "label": "PDV 35 — ACVAS",
+    "address": "AV COLON N°380, CORDOBA"
+  },
+  {
+    "id": 63036,
+    "label": "PDV 36 — ACVAS",
+    "address": "AV VELEZ SARSFIELD N°398, CORDOBA"
+  },
+  {
+    "id": 63037,
+    "label": "PDV 37 — ACVAS",
+    "address": "AV VELEZ SARSFIELD N°34, CORDOBA"
+  },
+  {
+    "id": 63038,
+    "label": "PDV 38 — ACVAS",
+    "address": "BV PRES ARTURO ILLIA N°53, CORDOBA"
+  },
+  {
+    "id": 63039,
+    "label": "PDV 39 — ACVAS",
+    "address": "AV GRL PAZ N°186, CORDOBA"
+  },
+  {
+    "id": 63040,
+    "label": "PDV 40 — ACVAS",
+    "address": "AV MAIPU N°194, CORDOBA"
+  },
+  {
+    "id": 63041,
+    "label": "PDV 41 — ACVAS",
+    "address": "TUCUMAN N°128, CORDOBA"
+  },
+  {
+    "id": 63042,
+    "label": "PDV 42 — ACVAS",
+    "address": "AV COLON N°111, CORDOBA"
+  },
+  {
+    "id": 63043,
+    "label": "PDV 43 — ACVAS",
+    "address": "AV COLON N°251, CORDOBA"
+  },
+  {
+    "id": 63044,
+    "label": "PDV 44 — ACVAS",
+    "address": "AV GRL PAZ N°210, CORDOBA"
+  },
+  {
+    "id": 63045,
+    "label": "PDV 45 — ACVAS",
+    "address": "AV COLON N°440, CORDOBA"
+  },
+  {
+    "id": 63046,
+    "label": "PDV 46 — ACVAS",
+    "address": "AV 263 - COLON N°2227, MAR DEL PLATA"
+  },
+  {
+    "id": 63047,
+    "label": "PDV 47 — ACVAS",
+    "address": "AV 150 INDEPENDENCIA N°1714, MAR DEL PLATA"
+  },
+  {
+    "id": 63048,
+    "label": "PDV 48 — ACVAS",
+    "address": "C 259 - MORENO N°3060, MAR DEL PLATA"
+  },
+  {
+    "id": 63049,
+    "label": "PDV 49 — ACVAS",
+    "address": "AV 150 INDEPENDENCIA N°1892, MAR DEL PLATA"
+  },
+  {
+    "id": 63050,
+    "label": "PDV 50 — ACVAS",
+    "address": "AV 263 - COLON N°2691, MAR DEL PLATA"
+  },
+  {
+    "id": 63051,
+    "label": "PDV 51 — ACVAS",
+    "address": "C 253 - SAN MARTIN N°2287, MAR DEL PLATA"
+  },
+  {
+    "id": 63052,
+    "label": "PDV 52 — ACVAS",
+    "address": "AV 263 - COLON N°1805, MAR DEL PLATA"
+  },
+  {
+    "id": 63053,
+    "label": "PDV 53 — ACVAS",
+    "address": "AV 150 INDEPENDENCIA N°1663, MAR DEL PLATA"
+  },
+  {
+    "id": 63054,
+    "label": "PDV 54 — ACVAS",
+    "address": "C 253 - SAN MARTIN N°2998, MAR DEL PLATA"
+  },
+  {
+    "id": 63055,
+    "label": "PDV 55 — ACVAS",
+    "address": "AV 150 INDEPENDENCIA N°1613, MAR DEL PLATA"
+  },
+  {
+    "id": 63056,
+    "label": "PDV 56 — ACVAS",
+    "address": "C 271 - ALBERTI N°1681, MAR DEL PLATA"
+  },
+  {
+    "id": 63057,
+    "label": "PDV 57 — ACVAS",
+    "address": "C 170 - SAN JUAN N°1926, MAR DEL PLATA"
+  },
+  {
+    "id": 63058,
+    "label": "PDV 58 — ACVAS",
+    "address": "AV 263 - COLON N°2622, MAR DEL PLATA"
+  },
+  {
+    "id": 63059,
+    "label": "PDV 59 — ACVAS",
+    "address": "C 255 - RIVADAVIA N°2380, MAR DEL PLATA"
+  },
+  {
+    "id": 63060,
+    "label": "PDV 60 — ACVAS",
+    "address": "C 112 - GUEMES N°3166, MAR DEL PLATA"
+  },
+  {
+    "id": 63061,
+    "label": "PDV 61 — ACVAS",
+    "address": "C 170 - SAN JUAN N°1862, MAR DEL PLATA"
+  },
+  {
+    "id": 63062,
+    "label": "PDV 62 — ACVAS",
+    "address": "C 118 - SARMIENTO N°2650, MAR DEL PLATA"
+  },
+  {
+    "id": 63063,
+    "label": "PDV 63 — ACVAS",
+    "address": "C 257 - BELGRANO N°2426, MAR DEL PLATA"
+  },
+  {
+    "id": 63064,
+    "label": "PDV 64 — ACVAS",
+    "address": "C 112 - GUEMES N°3231, MAR DEL PLATA"
+  },
+  {
+    "id": 63065,
+    "label": "PDV 65 — ACVAS",
+    "address": "AV 263 - COLON N°2151, MAR DEL PLATA"
+  },
+  {
+    "id": 63066,
+    "label": "PDV 66 — ACVAS",
+    "address": "AV 251 - PEDRO LURO N°3071, MAR DEL PLATA"
+  },
+  {
+    "id": 63067,
+    "label": "PDV 67 — ACVAS",
+    "address": "C 271 - ALBERTI N°1915, MAR DEL PLATA"
+  },
+  {
+    "id": 63068,
+    "label": "PDV 68 — ACVAS",
+    "address": "C 140 - SAN LUIS N°1838, MAR DEL PLATA"
+  },
+  {
+    "id": 63069,
+    "label": "PDV 69 — ACVAS",
+    "address": "C 154 - JUJUY N°1802, MAR DEL PLATA"
+  },
+  {
+    "id": 63070,
+    "label": "PDV 70 — ACVAS",
+    "address": "C 170 - SAN JUAN N°2190, MAR DEL PLATA"
+  },
+  {
+    "id": 63071,
+    "label": "PDV 71 — ACVAS",
+    "address": "AV 251 - PEDRO LURO N°3914, MAR DEL PLATA"
+  },
+  {
+    "id": 63072,
+    "label": "PDV 72 — ACVAS",
+    "address": "C 249 - 25 DE MAYO N°2963, MAR DEL PLATA"
+  },
+  {
+    "id": 63073,
+    "label": "PDV 73 — ACVAS",
+    "address": "C 255 - RIVADAVIA N°3050, MAR DEL PLATA"
+  },
+  {
+    "id": 63074,
+    "label": "PDV 74 — ACVAS",
+    "address": "C 146 - LA RIOJA N°1936, MAR DEL PLATA"
+  },
+  {
+    "id": 63075,
+    "label": "PDV 75 — ACVAS",
+    "address": "C 138 - CORDOBA N°2496, MAR DEL PLATA"
+  },
+  {
+    "id": 63076,
+    "label": "PDV 76 — ACVAS",
+    "address": "C 257 - BELGRANO N°3328, MAR DEL PLATA"
+  },
+  {
+    "id": 63077,
+    "label": "PDV 77 — ACVAS",
+    "address": "C 136 - SANTIAGO DEL ESTERO N°1785, MAR DEL PLATA"
+  },
+  {
+    "id": 63078,
+    "label": "PDV 78 — ACVAS",
+    "address": "C 255 - RIVADAVIA N°2672, MAR DEL PLATA"
+  },
+  {
+    "id": 63079,
+    "label": "PDV 79 — ACVAS",
+    "address": "C 257 - BELGRANO N°2119, MAR DEL PLATA"
+  },
+  {
+    "id": 63080,
+    "label": "PDV 80 — ACVAS",
+    "address": "C 249 - 25 DE MAYO N°2835, MAR DEL PLATA"
+  },
+  {
+    "id": 63081,
+    "label": "PDV 81 — ACVAS",
+    "address": "AV 251 - PEDRO LURO N°3293, MAR DEL PLATA"
+  },
+  {
+    "id": 63082,
+    "label": "PDV 82 — ACVAS",
+    "address": "C 259 - MORENO N°2193, MAR DEL PLATA"
+  },
+  {
+    "id": 63083,
+    "label": "PDV 83 — ACVAS",
+    "address": "C 156 - ESPANA N°1692, MAR DEL PLATA"
+  },
+  {
+    "id": 63084,
+    "label": "PDV 84 — ACVAS",
+    "address": "AV 150 - JACINTO PERALTA RAMOS N°2071, MAR DEL PLATA"
+  },
+  {
+    "id": 63085,
+    "label": "PDV 85 — ACVAS",
+    "address": "C 90 - LEANDRO N ALEM N°3789, MAR DEL PLATA"
+  },
+  {
+    "id": 63086,
+    "label": "PDV 86 — ACVAS",
+    "address": "AV 251 - PEDRO LURO N°2414, MAR DEL PLATA"
+  },
+  {
+    "id": 63087,
+    "label": "PDV 87 — ACVAS",
+    "address": "BULEVARD MARITIMO P P RAMOS N°1750, MAR DEL PLATA"
+  },
+  {
+    "id": 63088,
+    "label": "PDV 88 — ACVAS",
+    "address": "AV 251 - PEDRO LURO N°3096, MAR DEL PLATA"
+  },
+  {
+    "id": 63089,
+    "label": "PDV 89 — ACVAS",
+    "address": "C 140 - SAN LUIS N°2055, MAR DEL PLATA"
+  },
+  {
+    "id": 63090,
+    "label": "PDV 90 — ACVAS",
+    "address": "C 269 - GASCON N°2701, MAR DEL PLATA"
+  },
+  {
+    "id": 63091,
+    "label": "PDV 91 — ACVAS",
+    "address": "AV 251 - PEDRO LURO N°5016, MAR DEL PLATA"
+  },
+  {
+    "id": 63092,
+    "label": "PDV 92 — ACVAS",
+    "address": "C 122 - LAMADRID N°2351, MAR DEL PLATA"
+  },
+  {
+    "id": 63093,
+    "label": "PDV 93 — ACVAS",
+    "address": "AV 251 - PEDRO LURO N°7681, MAR DEL PLATA"
+  },
+  {
+    "id": 63094,
+    "label": "PDV 94 — ACVAS",
+    "address": "C 253 - SAN MARTIN N°2510, MAR DEL PLATA"
+  },
+  {
+    "id": 63095,
+    "label": "PDV 95 — ACVAS",
+    "address": "C 253 - SAN MARTIN N°2120, MAR DEL PLATA"
+  },
+  {
+    "id": 63096,
+    "label": "PDV 96 — ACVAS",
+    "address": "C 134 - SANTA FE N°1721, MAR DEL PLATA"
+  },
+  {
+    "id": 63097,
+    "label": "PDV 97 — ACVAS",
+    "address": "C 118 - SARMIENTO N°2780, MAR DEL PLATA"
+  },
+  {
+    "id": 63098,
+    "label": "PDV 98 — ACVAS",
+    "address": "AV 150 INDEPENDENCIA N°1802, MAR DEL PLATA"
+  },
+  {
+    "id": 63099,
+    "label": "PDV 99 — ACVAS",
+    "address": "C 253 - SAN MARTIN N°2218, MAR DEL PLATA"
+  },
+  {
+    "id": 63100,
+    "label": "PDV 100 — ACVAS",
+    "address": "C 170 - SAN JUAN N°1302, MAR DEL PLATA"
+  },
+  {
+    "id": 63101,
+    "label": "PDV 101 — ACVAS",
+    "address": "C 128 - BUENOS AIRES N°1725, MAR DEL PLATA"
+  },
+  {
+    "id": 63102,
+    "label": "PDV 102 — ACVAS",
+    "address": "C 132 - CORRIENTES N°1761, MAR DEL PLATA"
+  },
+  {
+    "id": 63103,
+    "label": "PDV 103 — ACVAS",
+    "address": "AV 251 - PEDRO LURO N°3357, MAR DEL PLATA"
+  },
+  {
+    "id": 63104,
+    "label": "PDV 104 — ACVAS",
+    "address": "C 255 - RIVADAVIA N°2280, MAR DEL PLATA"
+  },
+  {
+    "id": 63105,
+    "label": "PDV 105 — ACVAS",
+    "address": "AV 251 - PEDRO LURO N°6621, MAR DEL PLATA"
+  },
+  {
+    "id": 63106,
+    "label": "PDV 106 — ACVAS",
+    "address": "AV 199 - CONSTITUCION N°6109, MAR DEL PLATA"
+  },
+  {
+    "id": 63107,
+    "label": "PDV 107 — ACVAS",
+    "address": "C 134 - SANTA FE N°2296, MAR DEL PLATA"
+  },
+  {
+    "id": 63108,
+    "label": "PDV 108 — ACVAS",
+    "address": "C 132 - CORRIENTES N°2605, MAR DEL PLATA"
+  },
+  {
+    "id": 63109,
+    "label": "PDV 109 — ACVAS",
+    "address": "C 124 - ARENALES N°2297, MAR DEL PLATA"
+  },
+  {
+    "id": 63110,
+    "label": "PDV 110 — ACVAS",
+    "address": "C 269 - GASCON N°1801, MAR DEL PLATA"
+  },
+  {
+    "id": 63111,
+    "label": "PDV 111 — ACVAS",
+    "address": "AV 199 - CONSTITUCION N°4070, MAR DEL PLATA"
+  },
+  {
+    "id": 63112,
+    "label": "PDV 112 — ACVAS",
+    "address": "AV 150 INDEPENDENCIA N°2318, MAR DEL PLATA"
+  },
+  {
+    "id": 63113,
+    "label": "PDV 113 — ACVAS",
+    "address": "AV 150 INDEPENDENCIA N°3273, MAR DEL PLATA"
+  },
+  {
+    "id": 63114,
+    "label": "PDV 114 — ACVAS",
+    "address": "AV TEJEDOR CARLOS N°1584, MAR DEL PLATA"
+  },
+  {
+    "id": 63115,
+    "label": "PDV 115 — ACVAS",
+    "address": "AV 150 INDEPENDENCIA N°1494, MAR DEL PLATA"
+  },
+  {
+    "id": 63116,
+    "label": "PDV 116 — ACVAS",
+    "address": "C 118 - SARMIENTO N°2606, MAR DEL PLATA"
+  },
+  {
+    "id": 63117,
+    "label": "PDV 117 — ACVAS",
+    "address": "AV 251 - PEDRO LURO N°3814, MAR DEL PLATA"
+  },
+  {
+    "id": 63118,
+    "label": "PDV 118 — ACVAS",
+    "address": "C 126 - TUCUMAN N°2413, MAR DEL PLATA"
+  },
+  {
+    "id": 63119,
+    "label": "PDV 119 — ACVAS",
+    "address": "AV JUAN B JUSTO N°2579, MAR DEL PLATA"
+  },
+  {
+    "id": 63120,
+    "label": "PDV 120 — ACVAS",
+    "address": "C 146 - LA RIOJA N°2302, MAR DEL PLATA"
+  },
+  {
+    "id": 63121,
+    "label": "PDV 121 — ACVAS",
+    "address": "AV 150 INDEPENDENCIA N°2383, MAR DEL PLATA"
+  },
+  {
+    "id": 63122,
+    "label": "PDV 122 — ACVAS",
+    "address": "C 114 - OLAVARRIA N°3106, MAR DEL PLATA"
+  },
+  {
+    "id": 63123,
+    "label": "PDV 123 — ACVAS",
+    "address": "AV 150 INDEPENDENCIA N°619, MAR DEL PLATA"
+  },
+  {
+    "id": 63124,
+    "label": "PDV 124 — ACVAS",
+    "address": "AV 263 - COLON N°3315, MAR DEL PLATA"
+  },
+  {
+    "id": 63125,
+    "label": "PDV 125 — ACVAS",
+    "address": "AV 150 INDEPENDENCIA N°2607, MAR DEL PLATA"
+  },
+  {
+    "id": 63126,
+    "label": "PDV 126 — ACVAS",
+    "address": "AV 263 - COLON N°1598, MAR DEL PLATA"
+  },
+  {
+    "id": 63127,
+    "label": "PDV 127 — ACVAS",
+    "address": "AV 263 - COLON N°1689, MAR DEL PLATA"
+  },
+  {
+    "id": 63128,
+    "label": "PDV 128 — ACVAS",
+    "address": "AV 150 INDEPENDENCIA N°1002, MAR DEL PLATA"
+  },
+  {
+    "id": 63129,
+    "label": "PDV 129 — ACVAS",
+    "address": "AV 150 - JACINTO PERALTA RAMOS N°1891, MAR DEL PLATA"
+  },
+  {
+    "id": 63130,
+    "label": "PDV 130 — ACVAS",
+    "address": "C 138 - CORDOBA N°2004, MAR DEL PLATA"
+  },
+  {
+    "id": 63131,
+    "label": "PDV 131 — ACVAS",
+    "address": "C 257 - BELGRANO N°2343, MAR DEL PLATA"
+  },
+  {
+    "id": 64001,
+    "label": "PDV 1 — YES",
+    "address": "MIGUEL DE AZCUENAGA N°714, LUJAN DE CUYO"
+  },
+  {
+    "id": 64002,
+    "label": "PDV 2 — YES",
+    "address": "RODRIGUEZ PENA N°1706, GODOY CRUZ"
+  },
+  {
+    "id": 64003,
+    "label": "PDV 3 — YES",
+    "address": "DR C PONCE N°25, RODEO DE LA CRUZ"
+  },
+  {
+    "id": 64004,
+    "label": "PDV 4 — YES",
+    "address": "RIVADAVIA N°533, MAIPU"
+  },
+  {
+    "id": 64005,
+    "label": "PDV 5 — YES",
+    "address": "RODRIGUEZ PENA N°1349, GODOY CRUZ"
+  },
+  {
+    "id": 64006,
+    "label": "PDV 6 — YES",
+    "address": "PERU N°1901, MENDOZA"
+  },
+  {
+    "id": 64007,
+    "label": "PDV 7 — YES",
+    "address": "PASO DE LOS ANDES N°1302, GODOY CRUZ"
+  },
+  {
+    "id": 64008,
+    "label": "PDV 8 — YES",
+    "address": "AV GRL SAN MARTIN SUR N°2157, GODOY CRUZ"
+  },
+  {
+    "id": 64009,
+    "label": "PDV 9 — YES",
+    "address": "J V ZAPATA N°333, MENDOZA"
+  },
+  {
+    "id": 64010,
+    "label": "PDV 10 — YES",
+    "address": "CATAMARCA N°148, MENDOZA"
+  },
+  {
+    "id": 64011,
+    "label": "PDV 11 — YES",
+    "address": "L N ALEM N°10, MENDOZA"
+  },
+  {
+    "id": 64012,
+    "label": "PDV 12 — YES",
+    "address": "GRL ESPEJO N°47, MENDOZA"
+  },
+  {
+    "id": 64013,
+    "label": "PDV 13 — YES",
+    "address": "AV ESPANA N°1205, MENDOZA"
+  },
+  {
+    "id": 64014,
+    "label": "PDV 14 — YES",
+    "address": "9 DE JULIO N°1239, MENDOZA"
+  },
+  {
+    "id": 64015,
+    "label": "PDV 15 — YES",
+    "address": "AV COLON N°231, MENDOZA"
+  },
+  {
+    "id": 64016,
+    "label": "PDV 16 — YES",
+    "address": "PASO DE LOS ANDES N°68, MENDOZA"
+  },
+  {
+    "id": 64017,
+    "label": "PDV 17 — YES",
+    "address": "TUCUMAN N°212, GODOY CRUZ"
+  },
+  {
+    "id": 64018,
+    "label": "PDV 18 — YES",
+    "address": "AV GRL LAS HERAS N°409, MENDOZA"
+  },
+  {
+    "id": 64019,
+    "label": "PDV 19 — YES",
+    "address": "A BALCARCE N°897, GODOY CRUZ"
+  },
+  {
+    "id": 64020,
+    "label": "PDV 20 — YES",
+    "address": "PJE G MOLINA N°181, DORREGO"
+  },
+  {
+    "id": 64021,
+    "label": "PDV 21 — YES",
+    "address": "BRASIL N°453, GODOY CRUZ"
+  },
+  {
+    "id": 64022,
+    "label": "PDV 22 — YES",
+    "address": "B G GARGANTINI S/N N°0, MAIPU"
+  },
+  {
+    "id": 64023,
+    "label": "PDV 23 — YES",
+    "address": "AV GRL SAN MARTIN N°1901, GODOY CRUZ"
+  },
+  {
+    "id": 64024,
+    "label": "PDV 24 — YES",
+    "address": "BANDERA DE LOS ANDES N°4397, GUAYMALLEN"
+  },
+  {
+    "id": 64025,
+    "label": "PDV 25 — YES",
+    "address": "PELLEGRINI N°379, 4TA SECCION"
+  },
+  {
+    "id": 64026,
+    "label": "PDV 26 — YES",
+    "address": "AV GRL SAN MARTIN N°2096, MENDOZA"
+  },
+  {
+    "id": 64027,
+    "label": "PDV 27 — YES",
+    "address": "ZEBALLOS N°168, GODOY CRUZ"
+  },
+  {
+    "id": 64028,
+    "label": "PDV 28 — YES",
+    "address": "L N ALEM N°415, MENDOZA"
+  },
+  {
+    "id": 64029,
+    "label": "PDV 29 — YES",
+    "address": "AV GRL SAN MARTIN N°335, MENDOZA"
+  },
+  {
+    "id": 64030,
+    "label": "PDV 30 — YES",
+    "address": "SAN JUAN N°701, MENDOZA"
+  },
+  {
+    "id": 64031,
+    "label": "PDV 31 — YES",
+    "address": "25 DE MAYO N°780, MENDOZA"
+  },
+  {
+    "id": 64032,
+    "label": "PDV 32 — YES",
+    "address": "AV B MITRE N°618, MENDOZA"
+  },
+  {
+    "id": 64033,
+    "label": "PDV 33 — YES",
+    "address": "DR M MORENO N°293, MENDOZA"
+  },
+  {
+    "id": 64034,
+    "label": "PDV 34 — YES",
+    "address": "ARISTIDES VILLANUEVA N°101, MENDOZA"
+  },
+  {
+    "id": 64035,
+    "label": "PDV 35 — YES",
+    "address": "AV GRL SAN MARTIN N°998, MENDOZA"
+  },
+  {
+    "id": 64036,
+    "label": "PDV 36 — YES",
+    "address": "PATRICIAS MENDOCINAS N°1183, MENDOZA"
+  },
+  {
+    "id": 64037,
+    "label": "PDV 37 — YES",
+    "address": "SARMIENTO N°211, MENDOZA"
+  },
+  {
+    "id": 64038,
+    "label": "PDV 38 — YES",
+    "address": "J GARIBALDI N°88, MENDOZA"
+  },
+  {
+    "id": 64039,
+    "label": "PDV 39 — YES",
+    "address": "ARISTIDES VILLANUEVA N°156, MENDOZA"
+  },
+  {
+    "id": 64040,
+    "label": "PDV 40 — YES",
+    "address": "PUEYRREDON N°4, MENDOZA"
+  },
+  {
+    "id": 64041,
+    "label": "PDV 41 — YES",
+    "address": "AV GRL LAS HERAS N°94, MENDOZA"
+  },
+  {
+    "id": 64042,
+    "label": "PDV 42 — YES",
+    "address": "AV GRL SAN MARTIN N°1203, MENDOZA"
+  },
+  {
+    "id": 65001,
+    "label": "PDV 1 — PUMA",
+    "address": "CALLE 520 S/N N°0, TOLOSA"
+  },
+  {
+    "id": 65002,
+    "label": "PDV 2 — PUMA",
+    "address": "S/D AUTOPISTA ROS CORDOBA N°313, ROLDAN"
+  },
+  {
+    "id": 65003,
+    "label": "PDV 3 — PUMA",
+    "address": "BV AVELLANEDA BIS N°519, ROSARIO"
+  },
+  {
+    "id": 65004,
+    "label": "PDV 4 — PUMA",
+    "address": "BV RONDEAU N°4363, ROSARIO"
+  },
+  {
+    "id": 65005,
+    "label": "PDV 5 — PUMA",
+    "address": "AV SAN MARTIN N°910, GRANADERO BAIGORRIA"
+  },
+  {
+    "id": 65006,
+    "label": "PDV 6 — PUMA",
+    "address": "RUTA NAC 9 - AV CORDOBA N°1702, FUNES"
+  },
+  {
+    "id": 65007,
+    "label": "PDV 7 — PUMA",
+    "address": "PUEYRREDON N°1089, ROSARIO"
+  },
+  {
+    "id": 65008,
+    "label": "PDV 8 — PUMA",
+    "address": "BV OROÑO N°5059, ROSARIO"
+  },
+  {
+    "id": 65009,
+    "label": "PDV 9 — PUMA",
+    "address": "AV LA CORDILLERA N°3785, CORDOBA"
+  },
+  {
+    "id": 65010,
+    "label": "PDV 10 — PUMA",
+    "address": "AV SAN MARTIN N°1633, VILLA CARLOS PAZ"
+  },
+  {
+    "id": 65011,
+    "label": "PDV 11 — PUMA",
+    "address": "AV COLON N°3380, CORDOBA"
+  },
+  {
+    "id": 65012,
+    "label": "PDV 12 — PUMA",
+    "address": "AVDA VELEZ SARSFIELD N°522, CAPITAL FEDERAL"
+  },
+  {
+    "id": 65013,
+    "label": "PDV 13 — PUMA",
+    "address": "AU TTE GRAL PABLO RICCHIERI N°0, AEROPUERTO EZEIZA"
+  },
+  {
+    "id": 65014,
+    "label": "PDV 14 — PUMA",
+    "address": "URUGUAY N°5190, BECCAR"
+  },
+  {
+    "id": 65015,
+    "label": "PDV 15 — PUMA",
+    "address": "AVDA DE LOS LAGOS N°7180, NORDELTA"
+  },
+  {
+    "id": 65016,
+    "label": "PDV 16 — PUMA",
+    "address": "THAMES N°91, SAN ISIDRO"
+  },
+  {
+    "id": 65017,
+    "label": "PDV 17 — PUMA",
+    "address": "CAZON N°585, TIGRE"
+  },
+  {
+    "id": 65018,
+    "label": "PDV 18 — PUMA",
+    "address": "AV HIPOLITO YRIGOYEN N°2688, EL TALAR"
+  },
+  {
+    "id": 65019,
+    "label": "PDV 19 — PUMA",
+    "address": "CRISOLOGO LARRALDE N°10, TIGRE"
+  },
+  {
+    "id": 65020,
+    "label": "PDV 20 — PUMA",
+    "address": "AV JUAN B JUSTO N°4879, MAR DEL PLATA"
+  },
+  {
+    "id": 65021,
+    "label": "PDV 21 — PUMA",
+    "address": "AV 150 INDEPENDENCIA N°2901, MAR DEL PLATA"
+  },
+  {
+    "id": 65022,
+    "label": "PDV 22 — PUMA",
+    "address": "AV JUAN B JUSTO N°3176, MAR DEL PLATA"
+  },
+  {
+    "id": 65023,
+    "label": "PDV 23 — PUMA",
+    "address": "CONSTITUYENTES N°2096, TORTUGUITAS"
+  },
+  {
+    "id": 65024,
+    "label": "PDV 24 — PUMA",
+    "address": "CARLOS CASARES N°3795, VIRREYES"
+  },
+  {
+    "id": 65025,
+    "label": "PDV 25 — PUMA",
+    "address": "HIPOLITO YRIGOYEN N°2779, VIRREYES"
+  },
+  {
+    "id": 65026,
+    "label": "PDV 26 — PUMA",
+    "address": "AV HIPOLITO YRIGOYEN N°305, MORON"
+  },
+  {
+    "id": 65027,
+    "label": "PDV 27 — PUMA",
+    "address": "DOLORES PRATS N°1953, EL PALOMAR"
+  },
+  {
+    "id": 65028,
+    "label": "PDV 28 — PUMA",
+    "address": "AVDA BRIG GRAL JUAN MANUEL N°3001, SAN JUSTO"
+  },
+  {
+    "id": 65029,
+    "label": "PDV 29 — PUMA",
+    "address": "AV GRL JOSE DE SAN MARTIN N°5095, FLORIDA OESTE"
+  },
+  {
+    "id": 66001,
+    "label": "PDV 1 — Oeste Drugstore",
+    "address": "GRL MANUEL BELGRANO N°2, MORON"
+  },
+  {
+    "id": 66002,
+    "label": "PDV 2 — Oeste Drugstore",
+    "address": "CRISOLOGO LARRALDE N°918, MORON"
+  },
+  {
+    "id": 66003,
+    "label": "PDV 3 — Oeste Drugstore",
+    "address": "INDEPENDENCIA N°95, MORON"
+  },
+  {
+    "id": 66004,
+    "label": "PDV 4 — Oeste Drugstore",
+    "address": "AV RIVADAVIA N°18198, MORON"
+  },
+  {
+    "id": 66005,
+    "label": "PDV 5 — Oeste Drugstore",
+    "address": "AV HIPOLITO YRIGOYEN N°819, MORON"
+  },
+  {
+    "id": 66006,
+    "label": "PDV 6 — Oeste Drugstore",
+    "address": "AV RIVADAVIA N°18104, MORON"
+  },
+  {
+    "id": 66007,
+    "label": "PDV 7 — Oeste Drugstore",
+    "address": "PRES DOMINGO F SARMIENTO N°666, MORON"
+  },
+  {
+    "id": 66008,
+    "label": "PDV 8 — Oeste Drugstore",
+    "address": "AV GDOR VERGARA N°2395, VILLA SANTOS TESEI"
+  },
+  {
+    "id": 66009,
+    "label": "PDV 9 — Oeste Drugstore",
+    "address": "B SCHVARZBERG N°740, MORON"
+  },
+  {
+    "id": 66010,
+    "label": "PDV 10 — Oeste Drugstore",
+    "address": "PRES DOMINGO F SARMIENTO N°636, MORON"
+  },
+  {
+    "id": 66011,
+    "label": "PDV 11 — Oeste Drugstore",
+    "address": "GRL MANUEL BELGRANO N°306, MORON"
+  },
+  {
+    "id": 66012,
+    "label": "PDV 12 — Oeste Drugstore",
+    "address": "AV RIVADAVIA N°18009, MORON"
+  },
+  {
+    "id": 66013,
+    "label": "PDV 13 — Oeste Drugstore",
+    "address": "9 DE JULIO N°148, MORON"
+  },
+  {
+    "id": 66014,
+    "label": "PDV 14 — Oeste Drugstore",
+    "address": "AV EVA PERON N°2798, LIBERTAD"
+  },
+  {
+    "id": 66015,
+    "label": "PDV 15 — Oeste Drugstore",
+    "address": "AV SAN MARTIN N°2204, CASEROS"
+  },
+  {
+    "id": 66016,
+    "label": "PDV 16 — Oeste Drugstore",
+    "address": "AV SAN MARTIN N°2001, CASEROS"
+  },
+  {
+    "id": 66017,
+    "label": "PDV 17 — Oeste Drugstore",
+    "address": "AV SAN MARTIN N°2249, CASEROS"
+  },
+  {
+    "id": 66018,
+    "label": "PDV 18 — Oeste Drugstore",
+    "address": "AV SAN MARTIN N°2702, CASEROS"
+  },
+  {
+    "id": 66019,
+    "label": "PDV 19 — Oeste Drugstore",
+    "address": "604 J J URQUIZA N°4707, CASEROS"
+  },
+  {
+    "id": 66020,
+    "label": "PDV 20 — Oeste Drugstore",
+    "address": "AV RIVADAVIA N°18069, MORON"
+  },
+  {
+    "id": 67001,
+    "label": "PDV 1 — Dulce Via",
+    "address": "GABOTO N°645, QUILMES"
+  },
+  {
+    "id": 67002,
+    "label": "PDV 2 — Dulce Via",
+    "address": "EST. LANUS - LINEA ROCA S/D N°0, LANUS"
+  },
+  {
+    "id": 67003,
+    "label": "PDV 3 — Dulce Via",
+    "address": "JOAQUIN V GONZALEZ N°3190, LANUS"
+  },
+  {
+    "id": 67004,
+    "label": "PDV 4 — Dulce Via",
+    "address": "FRANCISCO DE VIEDMA N°6978, CIUDAD AUTONOMA DE BS AS"
+  },
+  {
+    "id": 67005,
+    "label": "PDV 5 — Dulce Via",
+    "address": "AV SANTA FE N°4662, CIUDAD AUTONOMA DE BS AS"
+  },
+  {
+    "id": 67006,
+    "label": "PDV 6 — Dulce Via",
+    "address": "LIMA N°1701, CIUDAD AUTONOMA DE BS AS"
+  },
+  {
+    "id": 67007,
+    "label": "PDV 7 — Dulce Via",
+    "address": "AV SANTA FE N°4682, CIUDAD AUTONOMA DE BS AS"
+  },
+  {
+    "id": 67008,
+    "label": "PDV 8 — Dulce Via",
+    "address": "PRES DOMINGO F SARMIENTO N°797, MORON"
+  },
+  {
+    "id": 67009,
+    "label": "PDV 9 — Dulce Via",
+    "address": "REPUBLICA ARABE SIRIA N°1, LOMAS DE ZAMORA"
+  },
+  {
+    "id": 67010,
+    "label": "PDV 10 — Dulce Via",
+    "address": "AV BRASIL N°1128, CONSTITUCION"
+  },
+  {
+    "id": 67011,
+    "label": "PDV 11 — Dulce Via",
+    "address": "AV BRASIL N°1128, CONSTITUCION"
+  },
+  {
+    "id": 67012,
+    "label": "PDV 12 — Dulce Via",
+    "address": "AV BRASIL N°1128, CONSTITUCION"
+  },
+  {
+    "id": 67013,
+    "label": "PDV 13 — Dulce Via",
+    "address": "GRL ROCA N°1128, LONGCHAMPS"
+  },
+  {
+    "id": 67014,
+    "label": "PDV 14 — Dulce Via",
+    "address": "MEEKS N°1, TEMPERLEY"
+  },
+  {
+    "id": 67015,
+    "label": "PDV 15 — Dulce Via",
+    "address": "GRL ROCA N°550, ADROGUE"
+  },
+  {
+    "id": 67016,
+    "label": "PDV 16 — Dulce Via",
+    "address": "RN 205 - AV HIPOLITO YRIGOYEN N°400, AVELLANEDA"
+  },
+  {
+    "id": 67017,
+    "label": "PDV 17 — Dulce Via",
+    "address": "GRL ROCA N°980, BURZACO"
+  },
+  {
+    "id": 67018,
+    "label": "PDV 18 — Dulce Via",
+    "address": "OMEGA PETRAZZINI N°1, MONTE GRANDE"
+  },
+  {
+    "id": 67019,
+    "label": "PDV 19 — Dulce Via",
+    "address": "MEEKS N°1, TEMPERLEY"
+  },
+  {
+    "id": 67020,
+    "label": "PDV 20 — Dulce Via",
+    "address": "R DE ESCALADA N°705, CLAYPOLE"
+  },
+  {
+    "id": 67021,
+    "label": "PDV 21 — Dulce Via",
+    "address": "FRAY JUSTO SANTA MARIA DE ORO N°85, TEMPERLEY"
+  },
+  {
+    "id": 67022,
+    "label": "PDV 22 — Dulce Via",
+    "address": "MAXIMO PAZ N°10, MONTE GRANDE"
+  },
+  {
+    "id": 67023,
+    "label": "PDV 23 — Dulce Via",
+    "address": "GRL ROCA N°980, BURZACO"
+  },
+  {
+    "id": 67024,
+    "label": "PDV 24 — Dulce Via",
+    "address": "USPALLATA N°3215, GLEW"
+  },
+  {
+    "id": 68001,
+    "label": "PDV 1 — SAM",
+    "address": "PACHECO DE MELO N° 1996 E/ JUNIN, CAPITAL FEDERAL CABA"
+  },
+  {
+    "id": 68002,
+    "label": "PDV 2 — SAM",
+    "address": "SANTA FE N° 1594 E/ MONTEVIDEO, CAPITAL FEDERAL CABA"
+  },
+  {
+    "id": 68003,
+    "label": "PDV 3 — SAM",
+    "address": "Av. BELGRANO N° 1102 E/ LIMA, CAPITAL FEDERAL CABA"
+  },
+  {
+    "id": 68004,
+    "label": "PDV 4 — SAM",
+    "address": "Av. SANTA FE N° 1125 E/ CERRITO, CAPITAL FEDERAL CABA"
+  },
+  {
+    "id": 68005,
+    "label": "PDV 5 — SAM",
+    "address": "PARAGUAY N° 2599 E/ ECUADOR, CAPITAL FEDERAL CABA"
+  },
+  {
+    "id": 68006,
+    "label": "PDV 6 — SAM",
+    "address": "ESMERALDA N° 899 E/ PARAGUAY, CAPITAL FEDERAL CABA"
+  },
+  {
+    "id": 68007,
+    "label": "PDV 7 — SAM",
+    "address": "ARENALES N° 2101 E/ JUNIN, CAPITAL FEDERAL CABA"
+  },
+  {
+    "id": 68008,
+    "label": "PDV 8 — SAM",
+    "address": "Av. CORDOBA N° 1201 E/ LIBERTAD, CAPITAL FEDERAL CABA"
+  },
+  {
+    "id": 68009,
+    "label": "PDV 9 — SAM",
+    "address": "PARAGUAY N° 902 E/ SUIPACHA, CAPITAL FEDERAL CABA"
+  },
+  {
+    "id": 68010,
+    "label": "PDV 10 — SAM",
+    "address": "MARCELO T DE ALVEAR N° 1501 E/ PARANA, CAPITAL FEDERAL CABA"
+  },
+  {
+    "id": 68011,
+    "label": "PDV 11 — SAM",
+    "address": "MAIPÚ 701 ESQ/ VIAMONTE, CAPITAL FEDERAL CABA"
+  },
+  {
+    "id": 68012,
+    "label": "PDV 12 — SAM",
+    "address": "AV. CORDOBA N° 2400 ESQ/ AZCUENAGA, CAPITAL FEDERAL CABA"
+  },
+  {
+    "id": 68013,
+    "label": "PDV 13 — SAM",
+    "address": "PRES. QUINTANA N° 108 E/ PARERA, CAPITAL FEDERAL CABA"
+  },
+  {
+    "id": 68014,
+    "label": "PDV 14 — SAM",
+    "address": "AV. SANTA FE N° 1289 ESQ/ TALCAHUANO, CAPITAL FEDERAL CABA"
+  },
+  {
+    "id": 68015,
+    "label": "PDV 15 — SAM",
+    "address": "Av. SANTA FE N° 960 E/SUIPACHA, CAPITAL FEDERAL CABA"
+  },
+  {
+    "id": 68016,
+    "label": "PDV 16 — SAM",
+    "address": "Av. CORRIENTES N° 2899 E/ BOULOGNE SUR MER, CAPITAL FEDERAL CABA"
+  },
+  {
+    "id": 68017,
+    "label": "PDV 17 — SAM",
+    "address": "PARAGUAY N° 1501 E/ PARANA, CAPITAL FEDERAL CABA"
+  },
+  {
+    "id": 68018,
+    "label": "PDV 18 — SAM",
+    "address": "ARENALES N° 2801 E/ LAPRIDA, CAPITAL FEDERAL CABA"
+  },
+  {
+    "id": 68019,
+    "label": "PDV 19 — SAM",
+    "address": "MARCELO T DE ALVEAR N° 1699 E/ RODRIGUEZ PENA, CAPITAL FEDERAL CABA"
+  },
+  {
+    "id": 68020,
+    "label": "PDV 20 — SAM",
+    "address": "Av. CORDOBA N° 902 E/ SUIPACHA, CAPITAL FEDERAL CABA"
+  },
+  {
+    "id": 68021,
+    "label": "PDV 21 — SAM",
+    "address": "CHARCAS N° 4401 E/ THAMES, CAPITAL FEDERAL CABA"
+  },
+  {
+    "id": 68022,
+    "label": "PDV 22 — SAM",
+    "address": "CHARCAS N° 4099 ESQ/ ARMENIA, CAPITAL FEDERAL CABA"
+  },
+  {
+    "id": 68023,
+    "label": "PDV 23 — SAM",
+    "address": "AV. CORDOBA N° 1499 ESQ/ PARANÁ, CAPITAL FEDERAL CABA"
+  },
+  {
+    "id": 69001,
+    "label": "PDV 1 — Alto Ahí",
+    "address": "P PESCARA N°298, MAIPU"
+  },
+  {
+    "id": 69002,
+    "label": "PDV 2 — Alto Ahí",
+    "address": "DR MARIANO BOEDO N°2879, LUJAN DE CUYO"
+  },
+  {
+    "id": 69003,
+    "label": "PDV 3 — Alto Ahí",
+    "address": "AV GDOR VIDELA S/N N°0, GUAYMALLEN"
+  },
+  {
+    "id": 69004,
+    "label": "PDV 4 — Alto Ahí",
+    "address": "LATERAL AV GDOR VIDELA S/N N°0, GUAYMALLEN"
+  },
+  {
+    "id": 69005,
+    "label": "PDV 5 — Alto Ahí",
+    "address": "AV GDOR VIDELA S/N N°0, VILLA NUEVA"
+  },
+  {
+    "id": 69006,
+    "label": "PDV 6 — Alto Ahí",
+    "address": "AV GDOR VIDELA S/N N°0, GUAYMALLEN"
+  },
+  {
+    "id": 69007,
+    "label": "PDV 7 — Alto Ahí",
+    "address": "LATERAL AV GDOR VIDELA S/N N°0, GUAYMALLEN"
+  },
+  {
+    "id": 69008,
+    "label": "PDV 8 — Alto Ahí",
+    "address": "AV GRL SAN MARTIN SUR N°2650, GOBERNADOR BENEGAS"
+  },
+  {
+    "id": 69009,
+    "label": "PDV 9 — Alto Ahí",
+    "address": "AV GRL SAN MARTIN N°328, MENDOZA"
+  },
+  {
+    "id": 69010,
+    "label": "PDV 10 — Alto Ahí",
+    "address": "TTE CNL BELTRAN N°1613, GODOY CRUZ"
+  },
+  {
+    "id": 69011,
+    "label": "PDV 11 — Alto Ahí",
+    "address": "ITALIA N°6027, CHACRAS DE CORIA"
+  },
+  {
+    "id": 69012,
+    "label": "PDV 12 — Alto Ahí",
+    "address": "AV GDOR VIDELA S/N N°0, GUAYMALLEN"
+  },
+  {
+    "id": 69013,
+    "label": "PDV 13 — Alto Ahí",
+    "address": "LATERAL AV GDOR VIDELA S/N N°0, GUAYMALLEN"
+  },
+  {
+    "id": 69014,
+    "label": "PDV 14 — Alto Ahí",
+    "address": "AV GDOR VIDELA S/N N°0, GUAYMALLEN"
+  },
+  {
+    "id": 70001,
+    "label": "PDV 1 — Candy",
+    "address": "AV CORDOBA N°4585, CAPITAL FEDERAL"
+  },
+  {
+    "id": 70002,
+    "label": "PDV 2 — Candy",
+    "address": "AV PEDRO GOYENA N°387, CAPITAL FEDERAL"
+  },
+  {
+    "id": 70003,
+    "label": "PDV 3 — Candy",
+    "address": "CHARCAS N°3256, CAPITAL FEDERAL"
+  },
+  {
+    "id": 70004,
+    "label": "PDV 4 — Candy",
+    "address": "PARAGUAY N°2959, CAPITAL FEDERAL"
+  },
+  {
+    "id": 70005,
+    "label": "PDV 5 — Candy",
+    "address": "AV CARABOBO N°11, CAPITAL FEDERAL"
+  },
+  {
+    "id": 70006,
+    "label": "PDV 6 — Candy",
+    "address": "AV DIRECTORIO N°961, CAPITAL FEDERAL"
+  },
+  {
+    "id": 70007,
+    "label": "PDV 7 — Candy",
+    "address": "AV CORDOBA N°2641, CAPITAL FEDERAL"
+  },
+  {
+    "id": 70008,
+    "label": "PDV 8 — Candy",
+    "address": "AV INDEPENDENCIA N°4386, CAPITAL FEDERAL"
+  },
+  {
+    "id": 70009,
+    "label": "PDV 9 — Candy",
+    "address": "AV DIRECTORIO N°1590, CAPITAL FEDERAL"
+  },
+  {
+    "id": 70010,
+    "label": "PDV 10 — Candy",
+    "address": "MALVINAS ARGENTINAS N°281, CAPITAL FEDERAL"
+  },
+  {
+    "id": 70011,
+    "label": "PDV 11 — Candy",
+    "address": "AV AVELLANEDA N°2685, CAPITAL FEDERAL"
+  },
+  {
+    "id": 70012,
+    "label": "PDV 12 — Candy",
+    "address": "AYACUCHO N°1118, CAPITAL FEDERAL"
+  },
+  {
+    "id": 70013,
+    "label": "PDV 13 — Candy",
+    "address": "GUEMES N°4241, CAPITAL FEDERAL"
+  },
+  {
+    "id": 71001,
+    "label": "PDV 1 — DIGUO",
+    "address": "Corrientes N 928, CAPITAL FEDERAL CABA"
+  },
+  {
+    "id": 71002,
+    "label": "PDV 2 — DIGUO",
+    "address": "Bernardo De Yrigoyen N 72, CAPITAL FEDERAL CABA"
+  },
+  {
+    "id": 71003,
+    "label": "PDV 3 — DIGUO",
+    "address": "Pellegrini N 427, CAPITAL FEDERAL CABA"
+  },
+  {
+    "id": 71004,
+    "label": "PDV 4 — DIGUO",
+    "address": "Av. DE MAYO N° 912 E/ TACUARI, CAPITAL FEDERAL CABA"
+  },
+  {
+    "id": 71005,
+    "label": "PDV 5 — DIGUO",
+    "address": "AV. SAN PEDRITO N° 9 ESQ/ AV. RIVADAVIA, CAPITAL FEDERAL CABA"
+  },
+  {
+    "id": 71006,
+    "label": "PDV 6 — DIGUO",
+    "address": "Santa Fe N 1236, CAPITAL FEDERAL CABA"
+  },
+  {
+    "id": 71007,
+    "label": "PDV 7 — DIGUO",
+    "address": "Av.SANTA FE N°982, CAPITAL FEDERAL CABA"
+  },
+  {
+    "id": 71008,
+    "label": "PDV 8 — DIGUO",
+    "address": "Av. CALLAO N° 259 E/ SARMIENTO, CAPITAL FEDERAL CABA"
+  },
+  {
+    "id": 71009,
+    "label": "PDV 9 — DIGUO",
+    "address": "Av. CALLAO N° 453 E/ LAVALLE, CAPITAL FEDERAL CABA"
+  },
+  {
+    "id": 71010,
+    "label": "PDV 10 — DIGUO",
+    "address": "LA RIOJA N° 2147 E/ RONDEAU, CAPITAL FEDERAL CABA"
+  },
+  {
+    "id": 71011,
+    "label": "PDV 11 — DIGUO",
+    "address": "AV. ENTRE RIOS 2188 ESQ/ AV. CASEROS, CAPITAL FEDERAL CABA"
+  },
+  {
+    "id": 71012,
+    "label": "PDV 12 — DIGUO",
+    "address": "LIMA N° 1649 E/ BRASIL Y PJE. CIUDADELA, CAPITAL FEDERAL CABA"
+  },
+  {
+    "id": 71013,
+    "label": "PDV 13 — DIGUO",
+    "address": "AV. BELGRANO N° 1811 (ESQUINA), CAPITAL FEDERAL CABA"
+  },
+  {
+    "id": 72001,
+    "label": "PDV 1 — Rappi Turbo",
+    "address": "MONROE N° 1616 ESQ/ MONTANESES, CAPITAL FEDERAL CABA"
+  },
+  {
+    "id": 72002,
+    "label": "PDV 2 — Rappi Turbo",
+    "address": "AV. GRAL. LAS HERAS N° 2295 ESQ/ AV. PUEYRREDON, CAPITAL FEDERAL CABA"
+  },
+  {
+    "id": 72003,
+    "label": "PDV 3 — Rappi Turbo",
+    "address": "AV. FOREST N° 930 E/ ROSETI Y CHARLONE, CAPITAL FEDERAL CABA"
+  },
+  {
+    "id": 72004,
+    "label": "PDV 4 — Rappi Turbo",
+    "address": "AV. SAN MARTIN N° 2011 ESQ/ ESPINOSA, CAPITAL FEDERAL CABA"
+  },
+  {
+    "id": 72005,
+    "label": "PDV 5 — Rappi Turbo",
+    "address": "AV. BELGRANO N° 1154 E/ SALTA Y LIMA, CAPITAL FEDERAL CABA"
+  },
+  {
+    "id": 72006,
+    "label": "PDV 6 — Rappi Turbo",
+    "address": "LAVALLE N° 2124 E/ JUNIN Y URIBURU, CAPITAL FEDERAL CABA"
+  },
+  {
+    "id": 72007,
+    "label": "PDV 7 — Rappi Turbo",
+    "address": "TTE. JUAN DOMINGO PERON N° 3341 E/ GALLO Y AGUERO, CAPITAL FEDERAL CABA"
+  },
+  {
+    "id": 72008,
+    "label": "PDV 8 — Rappi Turbo",
+    "address": "AV. SAN JUAN N° 3536 E/ AV. BOEDO Y MAZA, CAPITAL FEDERAL CABA"
+  },
+  {
+    "id": 72009,
+    "label": "PDV 9 — Rappi Turbo",
+    "address": "DEL BARCO CENTENERA N° 193 ESQ/ GUAYAQUIL, CAPITAL FEDERAL CABA"
+  },
+  {
+    "id": 72010,
+    "label": "PDV 10 — Rappi Turbo",
+    "address": "HUMBOLDT N° 1877 E/ EL SALVADOR Y COSTA RICA, CAPITAL FEDERAL CABA"
+  },
+  {
+    "id": 72011,
+    "label": "PDV 11 — Rappi Turbo",
+    "address": "BAEZ N° 243 E/ AREVALO Y ANDRES ARGUIBEL, CAPITAL FEDERAL CABA"
+  },
+  {
+    "id": 72012,
+    "label": "PDV 12 — Rappi Turbo",
+    "address": "AV. RIVADAVIA N° 8242 E/ BAHIA BLANCA Y ENSENADA, CAPITAL FEDERAL CABA"
+  },
+  {
+    "id": 73001,
+    "label": "PDV 1 — 24/7 KIOSCOS",
+    "address": "25 DE MAYO N°104, SAN ISIDRO"
+  },
+  {
+    "id": 73002,
+    "label": "PDV 2 — 24/7 KIOSCOS",
+    "address": "AV AVELINO ROLON N°201, BOULOGNE SUR MER"
+  },
+  {
+    "id": 73003,
+    "label": "PDV 3 — 24/7 KIOSCOS",
+    "address": "SANTA MARIA DE LA CONCHAS N°2604, RINCON DE MILBERG"
+  },
+  {
+    "id": 73004,
+    "label": "PDV 4 — 24/7 KIOSCOS",
+    "address": "ALMTE GUILLERMO BROWN N°407, TIGRE"
+  },
+  {
+    "id": 73005,
+    "label": "PDV 5 — 24/7 KIOSCOS",
+    "address": "J N MADERO N°1276, SAN FERNANDO"
+  },
+  {
+    "id": 73006,
+    "label": "PDV 6 — 24/7 KIOSCOS",
+    "address": "CONSTITUCION N°1202, SAN FERNANDO"
+  },
+  {
+    "id": 73007,
+    "label": "PDV 7 — 24/7 KIOSCOS",
+    "address": "AV HIPOLITO YRIGOYEN N°616, GENERAL PACHECO"
+  },
+  {
+    "id": 73008,
+    "label": "PDV 8 — 24/7 KIOSCOS",
+    "address": "PRES JUAN DOMINGO PERON N°2302, SAN FERNANDO"
+  },
+  {
+    "id": 73009,
+    "label": "PDV 9 — 24/7 KIOSCOS",
+    "address": "CONSTITUCION N°353, SAN FERNANDO"
+  },
+  {
+    "id": 73010,
+    "label": "PDV 10 — 24/7 KIOSCOS",
+    "address": "PRES JUAN DOMINGO PERON N°3397, SAN FERNANDO"
+  },
+  {
+    "id": 73011,
+    "label": "PDV 11 — 24/7 KIOSCOS",
+    "address": "BRANDSEN N°1099, SAN FERNANDO"
+  },
+  {
+    "id": 74001,
+    "label": "PDV 1 — Kioscos Ya",
+    "address": "URQUIZA N°1493, ROSARIO"
+  },
+  {
+    "id": 74002,
+    "label": "PDV 2 — Kioscos Ya",
+    "address": "AV BELGRANO N°788, ROSARIO"
+  },
+  {
+    "id": 74003,
+    "label": "PDV 3 — Kioscos Ya",
+    "address": "AV FRANCIA N°1073, ROSARIO"
+  },
+  {
+    "id": 74004,
+    "label": "PDV 4 — Kioscos Ya",
+    "address": "ITALIA BIS N°7, ROSARIO"
+  },
+  {
+    "id": 74005,
+    "label": "PDV 5 — Kioscos Ya",
+    "address": "PJE PUCCINI N°243, ROSARIO"
+  },
+  {
+    "id": 74006,
+    "label": "PDV 6 — Kioscos Ya",
+    "address": "MORENO N°8, ROSARIO"
+  },
+  {
+    "id": 74007,
+    "label": "PDV 7 — Kioscos Ya",
+    "address": "MENDOZA N°2116, ROSARIO"
+  },
+  {
+    "id": 74008,
+    "label": "PDV 8 — Kioscos Ya",
+    "address": "SANTIAGO N°1099, ROSARIO"
+  },
+  {
+    "id": 74009,
+    "label": "PDV 9 — Kioscos Ya",
+    "address": "SANTA FE N°1709, ROSARIO"
+  },
+  {
+    "id": 74010,
+    "label": "PDV 10 — Kioscos Ya",
+    "address": "LAPRIDA N°1684, ROSARIO"
+  },
+  {
+    "id": 75001,
+    "label": "PDV 1 — DULCE",
+    "address": "DUARTE QUIROS N°1400, CORDOBA"
+  },
+  {
+    "id": 75002,
+    "label": "PDV 2 — DULCE",
+    "address": "DUARTE QUIROS N°1400, CORDOBA"
+  },
+  {
+    "id": 75003,
+    "label": "PDV 3 — DULCE",
+    "address": "DUARTE QUIROS N°1400, CORDOBA"
+  },
+  {
+    "id": 75004,
+    "label": "PDV 4 — DULCE",
+    "address": "DUARTE QUIROS N°1400, CORDOBA"
+  },
+  {
+    "id": 75005,
+    "label": "PDV 5 — DULCE",
+    "address": "DUARTE QUIROS N°1400, CORDOBA"
+  },
+  {
+    "id": 75006,
+    "label": "PDV 6 — DULCE",
+    "address": "DUARTE QUIROS N°1400, CORDOBA"
+  },
+  {
+    "id": 75007,
+    "label": "PDV 7 — DULCE",
+    "address": "DUARTE QUIROS N°1400, CORDOBA"
+  },
+  {
+    "id": 75008,
+    "label": "PDV 8 — DULCE",
+    "address": "DUARTE QUIROS N°1400, CORDOBA"
+  },
+  {
+    "id": 75009,
+    "label": "PDV 9 — DULCE",
+    "address": "DUARTE QUIROS N°1400, CORDOBA"
+  },
+  {
+    "id": 75010,
+    "label": "PDV 10 — DULCE",
+    "address": "DUARTE QUIROS N°1400, CORDOBA"
+  },
+  {
+    "id": 76001,
+    "label": "PDV 1 — KIOSCO +24",
+    "address": "HIPOLITO YRIGOYEN N°4083, LANUS"
+  },
+  {
+    "id": 76002,
+    "label": "PDV 2 — KIOSCO +24",
+    "address": "A ALSINA N°2021, LOMAS DE ZAMORA"
+  },
+  {
+    "id": 76003,
+    "label": "PDV 3 — KIOSCO +24",
+    "address": "A ALSINA N°777, BANFIELD"
+  },
+  {
+    "id": 76004,
+    "label": "PDV 4 — KIOSCO +24",
+    "address": "DEL VALLE IBERLUCEA N°2575, LANUS"
+  },
+  {
+    "id": 76005,
+    "label": "PDV 5 — KIOSCO +24",
+    "address": "HIPOLITO YRIGOYEN N°5171, LANUS"
+  },
+  {
+    "id": 76006,
+    "label": "PDV 6 — KIOSCO +24",
+    "address": "29 DE SEPTIEMBRE N°2054, LANUS"
+  },
+  {
+    "id": 76007,
+    "label": "PDV 7 — KIOSCO +24",
+    "address": "29 DE SEPTIEMBRE N°1834, LANUS"
+  },
+  {
+    "id": 77001,
+    "label": "PDV 1 — B-Shop",
+    "address": "NECOCHEA N°2579, ROSARIO"
+  },
+  {
+    "id": 77002,
+    "label": "PDV 2 — B-Shop",
+    "address": "CORDOBA N°1212, ROSARIO"
+  },
+  {
+    "id": 77003,
+    "label": "PDV 3 — B-Shop",
+    "address": "PARAGUAY N°896, ROSARIO"
+  },
+  {
+    "id": 77004,
+    "label": "PDV 4 — B-Shop",
+    "address": "BV OROÑO N°6000, ROSARIO"
+  },
+  {
+    "id": 77005,
+    "label": "PDV 5 — B-Shop",
+    "address": "PUEYRREDON N°747, ROSARIO"
+  },
+  {
+    "id": 77006,
+    "label": "PDV 6 — B-Shop",
+    "address": "SAN MARTIN N°834, ROSARIO"
+  },
+  {
+    "id": 77007,
+    "label": "PDV 7 — B-Shop",
+    "address": "SAN LUIS N°1036, ROSARIO"
+  },
+  {
+    "id": 78001,
+    "label": "PDV 1 — VA POINTS SRL (Vuelta Abajo Social Club)",
+    "address": "Av Libertador 1545, VICENTE LOPEZ"
+  },
+  {
+    "id": 78002,
+    "label": "PDV 2 — VA POINTS SRL (Vuelta Abajo Social Club)",
+    "address": "Vuelta de obligado 1932, CABA"
+  },
+  {
+    "id": 78003,
+    "label": "PDV 3 — VA POINTS SRL (Vuelta Abajo Social Club)",
+    "address": "Guido 1949, CABA"
+  },
+  {
+    "id": 78004,
+    "label": "PDV 4 — VA POINTS SRL (Vuelta Abajo Social Club)",
+    "address": "Av Corrientes 222 Piso 15, CABA"
+  },
+  {
+    "id": 78005,
+    "label": "PDV 5 — VA POINTS SRL (Vuelta Abajo Social Club)",
+    "address": "Centro Comeral Centro comercial Nordelta, Tigre"
+  },
+  {
+    "id": 79001,
+    "label": "PDV 1 — Full Mix",
+    "address": "CALLE 14 N°377, CITY BELL"
+  },
+  {
+    "id": 79002,
+    "label": "PDV 2 — Full Mix",
+    "address": "CALLE 462 N°366, CITY BELL"
+  },
+  {
+    "id": 79003,
+    "label": "PDV 3 — Full Mix",
+    "address": "CALLE 473 S/N N°0, CITY BELL"
+  },
+  {
+    "id": 79004,
+    "label": "PDV 4 — Full Mix",
+    "address": "AV 1 N°1150, LA PLATA"
+  },
+  {
+    "id": 79005,
+    "label": "PDV 5 — Full Mix",
+    "address": "CALLE 493 N°2670, MANUEL B. GONNET"
+  },
+  {
+    "id": 80001,
+    "label": "PDV 1 — Premium Almacen",
+    "address": "FRANCISCO N DE LAPRIDA N°2898, FLORIDA"
+  },
+  {
+    "id": 80002,
+    "label": "PDV 2 — Premium Almacen",
+    "address": "GDOR M UGARTE N°2102, OLIVOS"
+  },
+  {
+    "id": 80003,
+    "label": "PDV 3 — Premium Almacen",
+    "address": "AV MAIPU N°1981, VICENTE LOPEZ"
+  },
+  {
+    "id": 80004,
+    "label": "PDV 4 — Premium Almacen",
+    "address": "BERUTI N°1810, Martínez"
+  },
+  {
+    "id": 81001,
+    "label": "PDV 1 — Sr. Kiosquero",
+    "address": "C 112 - GUEMES N°3159, MAR DEL PLATA"
+  },
+  {
+    "id": 81002,
+    "label": "PDV 2 — Sr. Kiosquero",
+    "address": "AV 199 - CONSTITUCION N°5522, MAR DEL PLATA"
+  },
+  {
+    "id": 81003,
+    "label": "PDV 3 — Sr. Kiosquero",
+    "address": "C 114 - OLAVARRIA N°3014, MAR DEL PLATA"
+  },
+  {
+    "id": 81004,
+    "label": "PDV 4 — Sr. Kiosquero",
+    "address": "AV 263 - COLON N°1906, MAR DEL PLATA"
+  },
+  {
+    "id": 82001,
+    "label": "PDV 1 — BS AS EXPRESS",
+    "address": "AV SANTA FE N°2636, CIUDAD AUTONOMA DE BS AS"
+  },
+  {
+    "id": 82002,
+    "label": "PDV 2 — BS AS EXPRESS",
+    "address": "GOROSTIAGA N°1708, CIUDAD AUTONOMA DE BS AS"
+  },
+  {
+    "id": 82003,
+    "label": "PDV 3 — BS AS EXPRESS",
+    "address": "GALLO N°1571, CIUDAD AUTONOMA DE BS AS"
+  },
+  {
+    "id": 10001,
+    "label": "PDV 1",
+    "address": "AV LA VOZ DEL INTERIOR N°8500, CORDOBA"
+  },
+  {
+    "id": 10002,
+    "label": "PDV 2",
+    "address": "27 de Abril N°292, CORDOBA"
+  },
+  {
+    "id": 10003,
+    "label": "PDV 3",
+    "address": "CUENCA N°3300, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10004,
+    "label": "PDV 4",
+    "address": "AV TRIUNVIRATO N°4664, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10005,
+    "label": "PDV 5",
+    "address": "CUENCA N°2820, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10006,
+    "label": "PDV 6",
+    "address": "AV CORRIENTES N°5296, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10007,
+    "label": "PDV 7",
+    "address": "AV CORRIENTES N°5690, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10008,
+    "label": "PDV 8",
+    "address": "FERNANDEZ DE ENCISO N°3942, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10009,
+    "label": "PDV 9",
+    "address": "AV SAN MARTIN N°1422, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10010,
+    "label": "PDV 10",
+    "address": "AV CORRIENTES N°6020, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10011,
+    "label": "PDV 11",
+    "address": "CHARCAS N°3698, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10012,
+    "label": "PDV 12",
+    "address": "TALCAHUANO N°628, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10013,
+    "label": "PDV 13",
+    "address": "AV CABILDO N°2102, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10014,
+    "label": "PDV 14",
+    "address": "AV CABILDO N°2501, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10015,
+    "label": "PDV 15",
+    "address": "AV CABILDO N°3562, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10016,
+    "label": "PDV 16",
+    "address": "AV CABILDO N°3852, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10017,
+    "label": "PDV 17",
+    "address": "AV CABILDO N°801, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10018,
+    "label": "PDV 18",
+    "address": "FLORIDA N°970, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10019,
+    "label": "PDV 19",
+    "address": "FLORIDA N°512, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10020,
+    "label": "PDV 20",
+    "address": "FLORIDA N°272, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10021,
+    "label": "PDV 21",
+    "address": "AV CORDOBA N°399, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10022,
+    "label": "PDV 22",
+    "address": "AV SANTA FE N°5002, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10023,
+    "label": "PDV 23",
+    "address": "AV RAUL SCALABRINI ORTIZ N°2596, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10024,
+    "label": "PDV 24",
+    "address": "GUEMES N°3797, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10025,
+    "label": "PDV 25",
+    "address": "AV DE MAYO N°698, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10026,
+    "label": "PDV 26",
+    "address": "PERU N°11, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10027,
+    "label": "PDV 27",
+    "address": "MARCELO T DE ALVEAR N°2201, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10028,
+    "label": "PDV 28",
+    "address": "RECONQUISTA N°601, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10029,
+    "label": "PDV 29",
+    "address": "SOLDADO DE LA INDEPENDENCIA N°1199, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10030,
+    "label": "PDV 30",
+    "address": "MIGUELETES N°798, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10031,
+    "label": "PDV 31",
+    "address": "TTE BENJAMIN MATIENZO N°1699, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10032,
+    "label": "PDV 32",
+    "address": "AV OLLEROS N°1899, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10033,
+    "label": "PDV 33",
+    "address": "AV FEDERICO LACROZE N°1699, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10034,
+    "label": "PDV 34",
+    "address": "AV PUEYRREDON N°1498, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10035,
+    "label": "PDV 35",
+    "address": "AV PUEYRREDON N°1800, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10036,
+    "label": "PDV 36",
+    "address": "AV SANTA FE N°2301, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10037,
+    "label": "PDV 37",
+    "address": "AV CNEL DIAZ N°2037, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10038,
+    "label": "PDV 38",
+    "address": "AV SANTA FE N°3219, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10039,
+    "label": "PDV 39",
+    "address": "BILLINGHURST N°2014, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10040,
+    "label": "PDV 40",
+    "address": "AV SANTA FE N°3331, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10041,
+    "label": "PDV 41",
+    "address": "AV CNEL DIAZ N°2130, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10042,
+    "label": "PDV 42",
+    "address": "AV SANTA FE N°1408, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10043,
+    "label": "PDV 43",
+    "address": "ARENALES N°1401, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10044,
+    "label": "PDV 44",
+    "address": "ESMERALDA N°999, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10045,
+    "label": "PDV 45",
+    "address": "AV SANTA FE N°902, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10046,
+    "label": "PDV 46",
+    "address": "AV CALLAO N°1601, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10047,
+    "label": "PDV 47",
+    "address": "JUNCAL N°2100, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10048,
+    "label": "PDV 48",
+    "address": "RODRIGUEZ PENA N°1818, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10049,
+    "label": "PDV 49",
+    "address": "AV GRAL LAS HERAS N°3608, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10050,
+    "label": "PDV 50",
+    "address": "CABELLO N°3302, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10051,
+    "label": "PDV 51",
+    "address": "AV CORRIENTES N°1674, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10052,
+    "label": "PDV 52",
+    "address": "BARTOLOME MITRE N°1101, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10053,
+    "label": "PDV 53",
+    "address": "BERNARDO DE IRIGOYEN N°198, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10054,
+    "label": "PDV 54",
+    "address": "CARLOS PELLEGRINI N°341, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10055,
+    "label": "PDV 55",
+    "address": "AV PTE ROQUE SAENZ PENA N°901, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10056,
+    "label": "PDV 56",
+    "address": "LAVALLE N°802, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10057,
+    "label": "PDV 57",
+    "address": "AV CORRIENTES N°3247, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10058,
+    "label": "PDV 58",
+    "address": "AV MEDRANO N°928, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10059,
+    "label": "PDV 59",
+    "address": "CERRITO N°310, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10060,
+    "label": "PDV 60",
+    "address": "AV SAENZ N°978, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10061,
+    "label": "PDV 61",
+    "address": "AV CASEROS N°3201, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10062,
+    "label": "PDV 62",
+    "address": "MARCELO T DE ALVEAR N°1208, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10063,
+    "label": "PDV 63",
+    "address": "SOLDADO DE LA INDEPENDENCIA N°512, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10064,
+    "label": "PDV 64",
+    "address": "AV CALLAO N°186, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10065,
+    "label": "PDV 65",
+    "address": "VIAMONTE N°1499, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10066,
+    "label": "PDV 66",
+    "address": "AV CALLAO N°45, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10067,
+    "label": "PDV 67",
+    "address": "AV CORRIENTES N°2002, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10068,
+    "label": "PDV 68",
+    "address": "AV INDEPENDENCIA N°1107, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10069,
+    "label": "PDV 69",
+    "address": "AV BRASIL N°1128, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10070,
+    "label": "PDV 70",
+    "address": "TTE GRAL JUAN D PERON N°301, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10071,
+    "label": "PDV 71",
+    "address": "S/D OHIGGINGS N°1799, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10072,
+    "label": "PDV 72",
+    "address": "TTE BENJAMIN MATIENZO N°1800, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10073,
+    "label": "PDV 73",
+    "address": "BARTOLOME MITRE N°1499, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10074,
+    "label": "PDV 74",
+    "address": "VIAMONTE N°799, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10075,
+    "label": "PDV 75",
+    "address": "CARLOS PELLEGRINI N°495, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10076,
+    "label": "PDV 76",
+    "address": "RICARDO GUTIERREZ N°4200, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10077,
+    "label": "PDV 77",
+    "address": "AV CORRIENTES N°4174, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10078,
+    "label": "PDV 78",
+    "address": "BERUTI N°2702, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10079,
+    "label": "PDV 79",
+    "address": "AV CASEROS N°2801, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10080,
+    "label": "PDV 80",
+    "address": "AV DR JOSE M RAMOS MEJIA N°1550, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10081,
+    "label": "PDV 81",
+    "address": "AV CABILDO N°4855, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10082,
+    "label": "PDV 82",
+    "address": "AV MANUEL A MONTES DE OCA N°872, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10083,
+    "label": "PDV 83",
+    "address": "AV PUEYRREDON N°103, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10084,
+    "label": "PDV 84",
+    "address": "AV MONROE N°4900, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10085,
+    "label": "PDV 85",
+    "address": "AV RIVADAVIA N°5013, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10086,
+    "label": "PDV 86",
+    "address": "MELINCUE N°3200, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10087,
+    "label": "PDV 87",
+    "address": "AV MANUEL A MONTES DE OCA N°1018, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10088,
+    "label": "PDV 88",
+    "address": "AV FEDERICO LACROZE N°2497, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10089,
+    "label": "PDV 89",
+    "address": "AV DR RICARDO BALBIN N°2319, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10090,
+    "label": "PDV 90",
+    "address": "AV CABILDO N°1589, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10091,
+    "label": "PDV 91",
+    "address": "AV CORRIENTES N°2500, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10092,
+    "label": "PDV 92",
+    "address": "AV SANTA FE N°1701, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10093,
+    "label": "PDV 93",
+    "address": "JURAMENTO N°2115, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10094,
+    "label": "PDV 94",
+    "address": "AV CORRIENTES N°3901, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10095,
+    "label": "PDV 95",
+    "address": "AV CABILDO N°3688, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10096,
+    "label": "PDV 96",
+    "address": "AV CORRIENTES N°4199, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10097,
+    "label": "PDV 97",
+    "address": "FLORIDA N°156, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10098,
+    "label": "PDV 98",
+    "address": "AV CABILDO N°601, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10099,
+    "label": "PDV 99",
+    "address": "MAURE N°1702, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10100,
+    "label": "PDV 100",
+    "address": "AV FEDERICO LACROZE N°4156, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10101,
+    "label": "PDV 101",
+    "address": "OLGA COSSENTTINI N°263, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10102,
+    "label": "PDV 102",
+    "address": "FLORIDA N°26, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10103,
+    "label": "PDV 103",
+    "address": "RECONQUISTA N°899, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10104,
+    "label": "PDV 104",
+    "address": "AV CORDOBA N°315, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10105,
+    "label": "PDV 105",
+    "address": "AV JERONIMO SALGUERO N°3077, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10106,
+    "label": "PDV 106",
+    "address": "AV JERONIMO SALGUERO N°2729, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10107,
+    "label": "PDV 107",
+    "address": "AV GRAL LAS HERAS N°3301, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10108,
+    "label": "PDV 108",
+    "address": "AV RAUL SCALABRINI ORTIZ N°3302, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10109,
+    "label": "PDV 109",
+    "address": "AV CABILDO N°902, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10110,
+    "label": "PDV 110",
+    "address": "DEFENSA N°1014, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10111,
+    "label": "PDV 111",
+    "address": "AV BOEDO N°880, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10112,
+    "label": "PDV 112",
+    "address": "AV CORRIENTES N°1498, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10113,
+    "label": "PDV 113",
+    "address": "AV SANTA FE N°778, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10114,
+    "label": "PDV 114",
+    "address": "AV CASEROS N°2700, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10115,
+    "label": "PDV 115",
+    "address": "FLORIDA N°715, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10116,
+    "label": "PDV 116",
+    "address": "FLORIDA N°376, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10117,
+    "label": "PDV 117",
+    "address": "AV RIVADAVIA N°6611, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10118,
+    "label": "PDV 118",
+    "address": "AV JORGE NEWBERY S/N N°0, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10119,
+    "label": "PDV 119",
+    "address": "S/D AEROPARQUE JORGE NEWBERY S N°0, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10120,
+    "label": "PDV 120",
+    "address": "AV RIVADAVIA N°2701, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10121,
+    "label": "PDV 121",
+    "address": "S/D AEROPARQUE JORGE NEWBERY S N°0, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10122,
+    "label": "PDV 122",
+    "address": "AV CORDOBA N°1598, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10123,
+    "label": "PDV 123",
+    "address": "AV RIVADAVIA N°5401, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10124,
+    "label": "PDV 124",
+    "address": "AV LEANDRO N ALEM N°1096, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10125,
+    "label": "PDV 125",
+    "address": "AZCUENAGA N°1596, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10126,
+    "label": "PDV 126",
+    "address": "AV INTENDENTE BULLRICH N°345, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10127,
+    "label": "PDV 127",
+    "address": "AV FEDERICO LACROZE N°3412, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10128,
+    "label": "PDV 128",
+    "address": "SAN MARTIN N°501, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10129,
+    "label": "PDV 129",
+    "address": "AV CORRIENTES N°1711, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10130,
+    "label": "PDV 130",
+    "address": "AV DR JOSE M RAMOS MEJIA N°1400, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10131,
+    "label": "PDV 131",
+    "address": "FLORIDA N°832, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10132,
+    "label": "PDV 132",
+    "address": "AV DIAZ VELEZ N°5000, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10133,
+    "label": "PDV 133",
+    "address": "AV RIVADAVIA N°4633, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10134,
+    "label": "PDV 134",
+    "address": "FLORIDA N°425, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10135,
+    "label": "PDV 135",
+    "address": "ALICIA MOREAU DE JUSTO N°746, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10136,
+    "label": "PDV 136",
+    "address": "AV GRAL LAS HERAS N°3399, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10137,
+    "label": "PDV 137",
+    "address": "REPUBLICA ARABE SIRIA N°3091, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10138,
+    "label": "PDV 138",
+    "address": "TUCUMAN N°801, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10139,
+    "label": "PDV 139",
+    "address": "S/D AEROPARQUE JORGE NEWBERY S N°0, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10140,
+    "label": "PDV 140",
+    "address": "AV JORGE NEWBERY S/N N°0, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10141,
+    "label": "PDV 141",
+    "address": "VEDIA N°3626, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10142,
+    "label": "PDV 142",
+    "address": "AV PUEYRREDON N°1298, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10143,
+    "label": "PDV 143",
+    "address": "AV CORRIENTES N°1299, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10144,
+    "label": "PDV 144",
+    "address": "SANCHEZ DE BUSTAMANTE N°2300, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10145,
+    "label": "PDV 145",
+    "address": "BERNARDO DE IRIGOYEN N°801, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10146,
+    "label": "PDV 146",
+    "address": "AV DE LOS CONSTITUYENTES N°6020, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10147,
+    "label": "PDV 147",
+    "address": "MORENO N°854, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10148,
+    "label": "PDV 148",
+    "address": "AV RIVADAVIA N°2599, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10149,
+    "label": "PDV 149",
+    "address": "RECONQUISTA N°491, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10150,
+    "label": "PDV 150",
+    "address": "AV CABILDO N°2100, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10151,
+    "label": "PDV 151",
+    "address": "AV SANTA FE N°2180, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10152,
+    "label": "PDV 152",
+    "address": "AV CORRIENTES N°224, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10153,
+    "label": "PDV 153",
+    "address": "AV SANTA FE N°4292, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10154,
+    "label": "PDV 154",
+    "address": "AV SANTA FE N°4596, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10155,
+    "label": "PDV 155",
+    "address": "AV RIVADAVIA N°5285, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10156,
+    "label": "PDV 156",
+    "address": "FLORIDA N°605, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10157,
+    "label": "PDV 157",
+    "address": "AV AVELLANEDA N°3000, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10158,
+    "label": "PDV 158",
+    "address": "MAIPU N°197, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10159,
+    "label": "PDV 159",
+    "address": "FLORIDA N°260, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10160,
+    "label": "PDV 160",
+    "address": "JUNCAL N°1214, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10161,
+    "label": "PDV 161",
+    "address": "FRAY JUSTO SANTA MARIA DE ORO N°264, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10162,
+    "label": "PDV 162",
+    "address": "AV CABILDO N°4280, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10163,
+    "label": "PDV 163",
+    "address": "BULNES N°2214, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10164,
+    "label": "PDV 164",
+    "address": "TTE GRAL JUAN D PERON N°4296, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10165,
+    "label": "PDV 165",
+    "address": "JORGE LUIS BORGES (EX SERRANO) N°1692, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10166,
+    "label": "PDV 166",
+    "address": "AV CABILDO N°1674, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10167,
+    "label": "PDV 167",
+    "address": "VIAMONTE N°502, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10168,
+    "label": "PDV 168",
+    "address": "AV MANUEL A MONTES DE OCA N°815, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10169,
+    "label": "PDV 169",
+    "address": "S/D AEROPARQUE JORGE NEWBERY S N°0, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10170,
+    "label": "PDV 170",
+    "address": "AV CORRIENTES N°1594, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10171,
+    "label": "PDV 171",
+    "address": "AV LEANDRO N ALEM N°606, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10172,
+    "label": "PDV 172",
+    "address": "SERRANO N°1476, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10173,
+    "label": "PDV 173",
+    "address": "VUELTA DE OBLIGADO N°1802, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10174,
+    "label": "PDV 174",
+    "address": "AV CORRIENTES N°4002, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10175,
+    "label": "PDV 175",
+    "address": "CUBA N°3305, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10176,
+    "label": "PDV 176",
+    "address": "AV AVELLANEDA N°3502, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10177,
+    "label": "PDV 177",
+    "address": "AV RIVADAVIA N°3719, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10178,
+    "label": "PDV 178",
+    "address": "AV CORRIENTES N°4838, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10179,
+    "label": "PDV 179",
+    "address": "ARENALES N°1708, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10180,
+    "label": "PDV 180",
+    "address": "AV RAUL SCALABRINI ORTIZ N°281, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10181,
+    "label": "PDV 181",
+    "address": "DONADO N°1811, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10182,
+    "label": "PDV 182",
+    "address": "AV SANTA FE N°4507, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10183,
+    "label": "PDV 183",
+    "address": "AV OLLEROS N°1693, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10184,
+    "label": "PDV 184",
+    "address": "J A PACHECO DE MELO N°2102, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10185,
+    "label": "PDV 185",
+    "address": "LAFINUR N°2989, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10186,
+    "label": "PDV 186",
+    "address": "AV GRAL LAS HERAS N°2099, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10187,
+    "label": "PDV 187",
+    "address": "FRANCISCO ACUNA DE FIGUEROA N°506, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10188,
+    "label": "PDV 188",
+    "address": "GUATEMALA N°5451, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10189,
+    "label": "PDV 189",
+    "address": "AV PUEYRREDON N°517, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10190,
+    "label": "PDV 190",
+    "address": "MARCELO T DE ALVEAR N°1901, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10191,
+    "label": "PDV 191",
+    "address": "AV CALLAO N°1291, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10192,
+    "label": "PDV 192",
+    "address": "AV CNEL ROCA N°699, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10193,
+    "label": "PDV 193",
+    "address": "MARCELO T DE ALVEAR N°1402, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10194,
+    "label": "PDV 194",
+    "address": "AV JERONIMO SALGUERO N°1602, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10195,
+    "label": "PDV 195",
+    "address": "ARAOZ N°1904, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10196,
+    "label": "PDV 196",
+    "address": "AV CNEL DIAZ N°1574, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10197,
+    "label": "PDV 197",
+    "address": "GURRUCHAGA N°2203, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10198,
+    "label": "PDV 198",
+    "address": "LAVALLE N°1102, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10199,
+    "label": "PDV 199",
+    "address": "AV RIVADAVIA N°5580, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10200,
+    "label": "PDV 200",
+    "address": "AV MANUEL A MONTES DE OCA N°3, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10201,
+    "label": "PDV 201",
+    "address": "SARMIENTO N°402, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10202,
+    "label": "PDV 202",
+    "address": "MERCEDES N°3893, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10203,
+    "label": "PDV 203",
+    "address": "AV CORRIENTES N°6000, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10204,
+    "label": "PDV 204",
+    "address": "AMENABAR N°1202, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10205,
+    "label": "PDV 205",
+    "address": "AV CORRIENTES N°4673, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10206,
+    "label": "PDV 206",
+    "address": "MACACHA GUEMES N°260, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10207,
+    "label": "PDV 207",
+    "address": "PARAGUAY N°1200, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10208,
+    "label": "PDV 208",
+    "address": "CERRITO N°1072, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10209,
+    "label": "PDV 209",
+    "address": "AV INDEPENDENCIA N°402, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10210,
+    "label": "PDV 210",
+    "address": "AV CALLAO N°1068, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10211,
+    "label": "PDV 211",
+    "address": "AV PEDRO GOYENA N°293, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10212,
+    "label": "PDV 212",
+    "address": "CERVINO N°3367, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10213,
+    "label": "PDV 213",
+    "address": "AV ALVAREZ JONTE N°6383, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10214,
+    "label": "PDV 214",
+    "address": "CUENCA N°3101, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10215,
+    "label": "PDV 215",
+    "address": "AV RIVADAVIA N°7301, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10216,
+    "label": "PDV 216",
+    "address": "SAN PEDRITO N°98, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10217,
+    "label": "PDV 217",
+    "address": "AV SAENZ N°931, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10218,
+    "label": "PDV 218",
+    "address": "AV F FERNANDEZ DE LA CRUZ N°4602, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10219,
+    "label": "PDV 219",
+    "address": "AV RIVADAVIA N°11500, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10220,
+    "label": "PDV 220",
+    "address": "AU TTE GRAL PABLO RICCHIERI N°33, AEROPUERTO EZEIZA"
+  },
+  {
+    "id": 10221,
+    "label": "PDV 221",
+    "address": "AU TTE GRAL PABLO RICCHIERI N°33, AEROPUERTO EZEIZA"
+  },
+  {
+    "id": 10222,
+    "label": "PDV 222",
+    "address": "AU TTE GRAL PABLO RICCHIERI N°33, AEROPUERTO EZEIZA"
+  },
+  {
+    "id": 10223,
+    "label": "PDV 223",
+    "address": "AU TTE GRAL PABLO RICCHIERI N°33, AEROPUERTO EZEIZA"
+  },
+  {
+    "id": 10224,
+    "label": "PDV 224",
+    "address": "AU TTE GRAL PABLO RICCHIERI N°33, AEROPUERTO EZEIZA"
+  },
+  {
+    "id": 10225,
+    "label": "PDV 225",
+    "address": "AU TTE GRAL PABLO RICCHIERI N°33, AEROPUERTO EZEIZA"
+  },
+  {
+    "id": 10226,
+    "label": "PDV 226",
+    "address": "AU TTE GRAL PABLO RICCHIERI N°33, AEROPUERTO EZEIZA"
+  },
+  {
+    "id": 10227,
+    "label": "PDV 227",
+    "address": "AU TTE GRAL PABLO RICCHIERI N°33, AEROPUERTO EZEIZA"
+  },
+  {
+    "id": 10228,
+    "label": "PDV 228",
+    "address": "AU TTE GRAL PABLO RICCHIERI N°33, AEROPUERTO EZEIZA"
+  },
+  {
+    "id": 10229,
+    "label": "PDV 229",
+    "address": "AU TTE GRAL PABLO RICCHIERI N°33, AEROPUERTO EZEIZA"
+  },
+  {
+    "id": 10230,
+    "label": "PDV 230",
+    "address": "AU TTE GRAL PABLO RICCHIERI N°33, AEROPUERTO EZEIZA"
+  },
+  {
+    "id": 10231,
+    "label": "PDV 231",
+    "address": "AU TTE GRAL PABLO RICCHIERI N°33, AEROPUERTO EZEIZA"
+  },
+  {
+    "id": 10232,
+    "label": "PDV 232",
+    "address": "LEANDRO N ALEM N°1400, BANFIELD"
+  },
+  {
+    "id": 10233,
+    "label": "PDV 233",
+    "address": "FRANCISCO LAPRIDA N°399, LOMAS DE ZAMORA"
+  },
+  {
+    "id": 10234,
+    "label": "PDV 234",
+    "address": "MAIPU N°229, BANFIELD"
+  },
+  {
+    "id": 10235,
+    "label": "PDV 235",
+    "address": "CALLE 8 N°800, LA PLATA"
+  },
+  {
+    "id": 10236,
+    "label": "PDV 236",
+    "address": "CALLE 47 N°633, LA PLATA"
+  },
+  {
+    "id": 10237,
+    "label": "PDV 237",
+    "address": "CALLE 12 N°1099, LA PLATA"
+  },
+  {
+    "id": 10238,
+    "label": "PDV 238",
+    "address": "CALLE 12 N°1237, LA PLATA"
+  },
+  {
+    "id": 10239,
+    "label": "PDV 239",
+    "address": "CALLE 12 N°1280, LA PLATA"
+  },
+  {
+    "id": 10240,
+    "label": "PDV 240",
+    "address": "CALLE 12 N°1337, LA PLATA"
+  },
+  {
+    "id": 10241,
+    "label": "PDV 241",
+    "address": "CNO GRAL BELGRANO S/N N°0, JOSE HERNANDEZ"
+  },
+  {
+    "id": 10242,
+    "label": "PDV 242",
+    "address": "PARANA N°3893, MARTINEZ"
+  },
+  {
+    "id": 10243,
+    "label": "PDV 243",
+    "address": "AV DEL LIBERTADOR N°77, VICENTE LOPEZ"
+  },
+  {
+    "id": 10244,
+    "label": "PDV 244",
+    "address": "OBISPO TERRERO N°3002, SAN ISIDRO"
+  },
+  {
+    "id": 10245,
+    "label": "PDV 245",
+    "address": "BELGRANO N°102, SAN ISIDRO"
+  },
+  {
+    "id": 10246,
+    "label": "PDV 246",
+    "address": "PRES JUAN DOMINGO PERON N°1350, SAN FERNANDO"
+  },
+  {
+    "id": 10247,
+    "label": "PDV 247",
+    "address": "AV HIPOLITO YRIGOYEN N°769, GENERAL PACHECO"
+  },
+  {
+    "id": 10248,
+    "label": "PDV 248",
+    "address": "IRIGOYEN"
+  },
+  {
+    "id": 10249,
+    "label": "PDV 249",
+    "address": "SANTA MARIA DE LA CONCHAS N°4711, RINCON DE MILBERG"
+  },
+  {
+    "id": 10250,
+    "label": "PDV 250",
+    "address": "IRIGOYEN"
+  },
+  {
+    "id": 10251,
+    "label": "PDV 251",
+    "address": "AV DE LOS COLEGIOS N°160, BENAVIDEZ"
+  },
+  {
+    "id": 10252,
+    "label": "PDV 252",
+    "address": "AV CORRIENTES N°6177, CAPITAL FEDERAL"
+  },
+  {
+    "id": 10253,
+    "label": "PDV 253",
+    "address": "RODOLFO LOPEZ N°701, QUILMES OESTE"
+  },
+  {
+    "id": 10254,
+    "label": "PDV 254",
+    "address": "RIVADAVIA N°147, QUILMES"
+  },
+  {
+    "id": 10255,
+    "label": "PDV 255",
+    "address": "HIPOLITO YRIGOYEN N°564, QUILMES"
+  },
+  {
+    "id": 10256,
+    "label": "PDV 256",
+    "address": "AV CALCHAQUI N°3948, QUILMES OESTE"
+  },
+  {
+    "id": 10257,
+    "label": "PDV 257",
+    "address": "LAVALLE N°549, QUILMES"
+  },
+  {
+    "id": 10258,
+    "label": "PDV 258",
+    "address": "RIVADAVIA N°225, QUILMES"
+  },
+  {
+    "id": 10259,
+    "label": "PDV 259",
+    "address": "TGRL JUAN DOMINGO PERON N°251, FLORENCIO VARELA"
+  },
+  {
+    "id": 10260,
+    "label": "PDV 260",
+    "address": "DR SALVADOR SALLARES N°47, FLORENCIO VARELA"
+  },
+  {
+    "id": 10261,
+    "label": "PDV 261",
+    "address": "TGRL JUAN DOMINGO PERON N°212, FLORENCIO VARELA"
+  },
+  {
+    "id": 10262,
+    "label": "PDV 262",
+    "address": "LISANDRO DE LA TORRE N°1581, BERAZATEGUI"
+  },
+  {
+    "id": 10263,
+    "label": "PDV 263",
+    "address": "LISANDRO DE LA TORRE N°1536, BERAZATEGUI"
+  },
+  {
+    "id": 10264,
+    "label": "PDV 264",
+    "address": "MITRE N°5299, EZPELETA"
+  },
+  {
+    "id": 10265,
+    "label": "PDV 265",
+    "address": "LEANDRO N ALEM N°199, QUILMES"
+  },
+  {
+    "id": 10266,
+    "label": "PDV 266",
+    "address": "RIVADAVIA N°301, QUILMES"
+  },
+  {
+    "id": 10267,
+    "label": "PDV 267",
+    "address": "NICOLAS VIDELA N°202, QUILMES"
+  },
+  {
+    "id": 10268,
+    "label": "PDV 268",
+    "address": "LEANDRO N ALEM N°247, MONTE GRANDE"
+  },
+  {
+    "id": 10269,
+    "label": "PDV 269",
+    "address": "RICARDO BALBIN N°1202, SAN MIGUEL"
+  },
+  {
+    "id": 10270,
+    "label": "PDV 270",
+    "address": "AVDA BRIG GRAL JUAN MANUEL DE N°3990, SAN JUSTO"
+  },
+  {
+    "id": 10271,
+    "label": "PDV 271",
+    "address": "AVDA DR IGNACIO ARIETA N°3287, SAN JUSTO"
+  },
+  {
+    "id": 10272,
+    "label": "PDV 272",
+    "address": "ESMERALDA N°999, CIUDAD AUTONOMA DE BS AS"
+  },
+  {
+    "id": 10273,
+    "label": "PDV 273",
+    "address": "PRES DOMINGO F SARMIENTO N°750, MORON"
+  },
+  {
+    "id": 10274,
+    "label": "PDV 274",
+    "address": "PRES DOMINGO F SARMIENTO N°770, MORON"
+  },
+  {
+    "id": 10275,
+    "label": "PDV 275",
+    "address": "DEL LIBERTADOR AV. N°3872, CIUDAD AUTONOMA DE BS AS"
+  },
+  {
+    "id": 10276,
+    "label": "PDV 276",
+    "address": "PRES JUAN D PERON N°1223, SAN MIGUEL"
+  },
+  {
+    "id": 10277,
+    "label": "PDV 277",
+    "address": "JOSE ANDRES LOPEZ N°2639, SAN FRANCISCO SOLANO"
+  },
+  {
+    "id": 10278,
+    "label": "PDV 278",
+    "address": "TGRL JUAN DOMINGO PERON N°201, FLORENCIO VARELA"
+  },
+  {
+    "id": 10279,
+    "label": "PDV 279",
+    "address": "AVDA BRIG GRAL JUAN MANUEL DE N°3990, SAN JUSTO"
+  },
+  {
+    "id": 10280,
+    "label": "PDV 280",
+    "address": "9 DE JULIO N°1269, LANUS"
+  },
+  {
+    "id": 10281,
+    "label": "PDV 281",
+    "address": "9 DE JULIO N°1180, LANUS"
+  },
+  {
+    "id": 10282,
+    "label": "PDV 282",
+    "address": "AV LOS QUILMES N°189, BERNAL OESTE"
+  },
+  {
+    "id": 10283,
+    "label": "PDV 283",
+    "address": "ONZARI N°196, WILDE"
+  },
+  {
+    "id": 20001,
+    "label": "PDV 1",
+    "address": "LOS OLMOS N°727, FUNES"
+  },
+  {
+    "id": 20002,
+    "label": "PDV 2",
+    "address": "JUNCAL N°2302, CAPITAL FEDERAL"
+  },
+  {
+    "id": 20003,
+    "label": "PDV 3",
+    "address": "AV CORRIENTES N°2800, CAPITAL FEDERAL"
+  },
+  {
+    "id": 20004,
+    "label": "PDV 4",
+    "address": "AV MONROE N°1655, CAPITAL FEDERAL"
+  },
+  {
+    "id": 20005,
+    "label": "PDV 5",
+    "address": "GUEMES N°4500, CAPITAL FEDERAL"
+  },
+  {
+    "id": 20006,
+    "label": "PDV 6",
+    "address": "AV CABILDO N°2401, CAPITAL FEDERAL"
+  },
+  {
+    "id": 20007,
+    "label": "PDV 7",
+    "address": "AV CORRIENTES N°1200, CAPITAL FEDERAL"
+  },
+  {
+    "id": 20008,
+    "label": "PDV 8",
+    "address": "AV GRAL LAS HERAS N°2691, CAPITAL FEDERAL"
+  },
+  {
+    "id": 20009,
+    "label": "PDV 9",
+    "address": "AV WARNES N°2707, CAPITAL FEDERAL"
+  },
+  {
+    "id": 20010,
+    "label": "PDV 10",
+    "address": "JUNCAL N°2901, CAPITAL FEDERAL"
+  },
+  {
+    "id": 20011,
+    "label": "PDV 11",
+    "address": "CHARCAS N°2600, CAPITAL FEDERAL"
+  },
+  {
+    "id": 20012,
+    "label": "PDV 12",
+    "address": "LAVALLE N°1471, CAPITAL FEDERAL"
+  },
+  {
+    "id": 20013,
+    "label": "PDV 13",
+    "address": "ARENALES N°902, CAPITAL FEDERAL"
+  },
+  {
+    "id": 20014,
+    "label": "PDV 14",
+    "address": "AV DR JOSE M RAMOS MEJIA N°1340, CAPITAL FEDERAL"
+  },
+  {
+    "id": 20015,
+    "label": "PDV 15",
+    "address": "AMENABAR N°1902, CAPITAL FEDERAL"
+  },
+  {
+    "id": 20016,
+    "label": "PDV 16",
+    "address": "FRENCH N°2792, CAPITAL FEDERAL"
+  },
+  {
+    "id": 20017,
+    "label": "PDV 17",
+    "address": "ARENALES N°3099, CAPITAL FEDERAL"
+  },
+  {
+    "id": 20018,
+    "label": "PDV 18",
+    "address": "JURAMENTO N°2091, CAPITAL FEDERAL"
+  },
+  {
+    "id": 20019,
+    "label": "PDV 19",
+    "address": "JULIAN ALVAREZ N°2699, CAPITAL FEDERAL"
+  },
+  {
+    "id": 20020,
+    "label": "PDV 20",
+    "address": "AV GRAL LAS HERAS N°2400, CAPITAL FEDERAL"
+  },
+  {
+    "id": 20021,
+    "label": "PDV 21",
+    "address": "VIDAL N°2300, CAPITAL FEDERAL"
+  },
+  {
+    "id": 20022,
+    "label": "PDV 22",
+    "address": "AV GRAL LAS HERAS N°2901, CAPITAL FEDERAL"
+  },
+  {
+    "id": 20023,
+    "label": "PDV 23",
+    "address": "AV PTE FIGUEROA ALCORTA N°2263, CAPITAL FEDERAL"
+  },
+  {
+    "id": 20024,
+    "label": "PDV 24",
+    "address": "JUNIN N°1400, CAPITAL FEDERAL"
+  },
+  {
+    "id": 20025,
+    "label": "PDV 25",
+    "address": "AV CNEL DIAZ N°1808, CAPITAL FEDERAL"
+  },
+  {
+    "id": 20026,
+    "label": "PDV 26",
+    "address": "AV CABILDO N°1300, CAPITAL FEDERAL"
+  },
+  {
+    "id": 20027,
+    "label": "PDV 27",
+    "address": "DARREGUEYRA N°2199, CAPITAL FEDERAL"
+  },
+  {
+    "id": 20028,
+    "label": "PDV 28",
+    "address": "CHARCAS N°4301, CAPITAL FEDERAL"
+  },
+  {
+    "id": 20029,
+    "label": "PDV 29",
+    "address": "AV INTENDENTE BULLRICH N°345, CAPITAL FEDERAL"
+  },
+  {
+    "id": 20030,
+    "label": "PDV 30",
+    "address": "AV FEDERICO LACROZE N°2600, CAPITAL FEDERAL"
+  },
+  {
+    "id": 20031,
+    "label": "PDV 31",
+    "address": "AV JERONIMO SALGUERO N°3172, CAPITAL FEDERAL"
+  },
+  {
+    "id": 20032,
+    "label": "PDV 32",
+    "address": "CHARCAS N°2901, CAPITAL FEDERAL"
+  },
+  {
+    "id": 20033,
+    "label": "PDV 33",
+    "address": "AV CORDOBA N°6103, CAPITAL FEDERAL"
+  },
+  {
+    "id": 20034,
+    "label": "PDV 34",
+    "address": "JURAMENTO N°2601, CAPITAL FEDERAL"
+  },
+  {
+    "id": 20035,
+    "label": "PDV 35",
+    "address": "JUNCAL N°2601, CAPITAL FEDERAL"
+  },
+  {
+    "id": 20036,
+    "label": "PDV 36",
+    "address": "AV CNEL DIAZ N°1541, CAPITAL FEDERAL"
+  },
+  {
+    "id": 20037,
+    "label": "PDV 37",
+    "address": "ARENALES N°2189, CAPITAL FEDERAL"
+  },
+  {
+    "id": 20038,
+    "label": "PDV 38",
+    "address": "AV PUEYRREDON N°2140, CAPITAL FEDERAL"
+  },
+  {
+    "id": 20039,
+    "label": "PDV 39",
+    "address": "AV CORRIENTES N°2198, CAPITAL FEDERAL"
+  },
+  {
+    "id": 20040,
+    "label": "PDV 40",
+    "address": "AV CORRIENTES N°2099, CAPITAL FEDERAL"
+  },
+  {
+    "id": 20041,
+    "label": "PDV 41",
+    "address": "AV SANTA FE N°2517, CAPITAL FEDERAL"
+  },
+  {
+    "id": 20042,
+    "label": "PDV 42",
+    "address": "AV LUIS MARIA CAMPOS N°293, CAPITAL FEDERAL"
+  },
+  {
+    "id": 20043,
+    "label": "PDV 43",
+    "address": "AV LUIS MARIA CAMPOS N°799, CAPITAL FEDERAL"
+  },
+  {
+    "id": 20044,
+    "label": "PDV 44",
+    "address": "VICENTE LOPEZ N°1899, CAPITAL FEDERAL"
+  },
+  {
+    "id": 20045,
+    "label": "PDV 45",
+    "address": "AV CABILDO N°2905, CAPITAL FEDERAL"
+  },
+  {
+    "id": 20046,
+    "label": "PDV 46",
+    "address": "AV GRAL LAS HERAS N°2293, CAPITAL FEDERAL"
+  },
+  {
+    "id": 20047,
+    "label": "PDV 47",
+    "address": "FRANKLIN D ROOSEVELT N°5301, CAPITAL FEDERAL"
+  },
+  {
+    "id": 20048,
+    "label": "PDV 48",
+    "address": "CIUDAD DE LA PAZ N°1801, CAPITAL FEDERAL"
+  },
+  {
+    "id": 20049,
+    "label": "PDV 49",
+    "address": "GUAYAQUIL N°398, CAPITAL FEDERAL"
+  },
+  {
+    "id": 20050,
+    "label": "PDV 50",
+    "address": "CUENCA N°3257, CAPITAL FEDERAL"
+  },
+  {
+    "id": 20051,
+    "label": "PDV 51",
+    "address": "VIAMONTE N°1702, CAPITAL FEDERAL"
+  },
+  {
+    "id": 20052,
+    "label": "PDV 52",
+    "address": "AGUERO N°1799, CAPITAL FEDERAL"
+  },
+  {
+    "id": 20053,
+    "label": "PDV 53",
+    "address": "AV RAUL SCALABRINI ORTIZ N°1501, CAPITAL FEDERAL"
+  },
+  {
+    "id": 20054,
+    "label": "PDV 54",
+    "address": "AV LOPE DE VEGA N°3207, CAPITAL FEDERAL"
+  },
+  {
+    "id": 20055,
+    "label": "PDV 55",
+    "address": "JURAMENTO N°1669, CAPITAL FEDERAL"
+  },
+  {
+    "id": 20056,
+    "label": "PDV 56",
+    "address": "AV SANTA FE N°3626, CAPITAL FEDERAL"
+  },
+  {
+    "id": 20057,
+    "label": "PDV 57",
+    "address": "AV FRANCISCO BEIRO N°3307, CAPITAL FEDERAL"
+  },
+  {
+    "id": 20058,
+    "label": "PDV 58",
+    "address": "CERRITO N°508, CAPITAL FEDERAL"
+  },
+  {
+    "id": 20059,
+    "label": "PDV 59",
+    "address": "AV CABILDO N°2808, CAPITAL FEDERAL"
+  },
+  {
+    "id": 20060,
+    "label": "PDV 60",
+    "address": "PARAGUAY N°4802, CAPITAL FEDERAL"
+  },
+  {
+    "id": 20061,
+    "label": "PDV 61",
+    "address": "AV SANTA FE N°4100, CAPITAL FEDERAL"
+  },
+  {
+    "id": 20062,
+    "label": "PDV 62",
+    "address": "FRAY JUSTO SANTA MARIA DE ORO N°2700, CAPITAL FEDERAL"
+  },
+  {
+    "id": 20063,
+    "label": "PDV 63",
+    "address": "BILLINGHURST N°2307, CAPITAL FEDERAL"
+  },
+  {
+    "id": 20064,
+    "label": "PDV 64",
+    "address": "BERUTI N°3799, CAPITAL FEDERAL"
+  },
+  {
+    "id": 20065,
+    "label": "PDV 65",
+    "address": "AV WARNES N°2040, CAPITAL FEDERAL"
+  },
+  {
+    "id": 20066,
+    "label": "PDV 66",
+    "address": "AV EMILIO CASTRO N°7541, CAPITAL FEDERAL"
+  },
+  {
+    "id": 20067,
+    "label": "PDV 67",
+    "address": "DIAZ COLODRERO N°2302, CAPITAL FEDERAL"
+  },
+  {
+    "id": 20068,
+    "label": "PDV 68",
+    "address": "JORGE LUIS BORGES (EX SERRANO) N°2001, CAPITAL FEDERAL"
+  },
+  {
+    "id": 20069,
+    "label": "PDV 69",
+    "address": "AV SANTA FE N°4479, CAPITAL FEDERAL"
+  },
+  {
+    "id": 20070,
+    "label": "PDV 70",
+    "address": "FRENCH N°2400, CAPITAL FEDERAL"
+  },
+  {
+    "id": 20071,
+    "label": "PDV 71",
+    "address": "MARIANO BOEDO N°501, LOMAS DE ZAMORA"
+  },
+  {
+    "id": 20072,
+    "label": "PDV 72",
+    "address": "MEEKS N°17, LOMAS DE ZAMORA"
+  },
+  {
+    "id": 20073,
+    "label": "PDV 73",
+    "address": "MEEKS N°198, LOMAS DE ZAMORA"
+  },
+  {
+    "id": 20074,
+    "label": "PDV 74",
+    "address": "JOSE I GORRITI N°304, LOMAS DE ZAMORA"
+  },
+  {
+    "id": 20075,
+    "label": "PDV 75",
+    "address": "MARIANO BOEDO N°292, LOMAS DE ZAMORA"
+  },
+  {
+    "id": 20076,
+    "label": "PDV 76",
+    "address": "HIPOLITO YRIGOYEN N°8837, BANFIELD"
+  },
+  {
+    "id": 20077,
+    "label": "PDV 77",
+    "address": "MARIANO BOEDO N°122, LOMAS DE ZAMORA"
+  },
+  {
+    "id": 20078,
+    "label": "PDV 78",
+    "address": "VICENTE OLIDEN N°450, LOMAS DE ZAMORA"
+  },
+  {
+    "id": 20079,
+    "label": "PDV 79",
+    "address": "BALCARCE N°172, LOMAS DE ZAMORA"
+  },
+  {
+    "id": 20080,
+    "label": "PDV 80",
+    "address": "MAIPU N°272, BANFIELD"
+  },
+  {
+    "id": 20081,
+    "label": "PDV 81",
+    "address": "JOSE I GORRITI N°101, LOMAS DE ZAMORA"
+  },
+  {
+    "id": 20082,
+    "label": "PDV 82",
+    "address": "CAMINO CENTENARIO N°1876, RINGUELET"
+  },
+  {
+    "id": 20083,
+    "label": "PDV 83",
+    "address": "CALLE 8 N°940, LA PLATA"
+  },
+  {
+    "id": 20084,
+    "label": "PDV 84",
+    "address": "AV DEL LIBERTADOR N°215, VICENTE LOPEZ"
+  },
+  {
+    "id": 20085,
+    "label": "PDV 85",
+    "address": "BELGRANO N°75, SAN ISIDRO"
+  },
+  {
+    "id": 20086,
+    "label": "PDV 86",
+    "address": "CENTENARIO N°101, SAN ISIDRO"
+  },
+  {
+    "id": 20087,
+    "label": "PDV 87",
+    "address": "GRL ALVEAR N°299, MARTINEZ"
+  },
+  {
+    "id": 20088,
+    "label": "PDV 88",
+    "address": "PARANA N°3875, MARTINEZ"
+  },
+  {
+    "id": 20089,
+    "label": "PDV 89",
+    "address": "PARANA N°3745, MARTINEZ"
+  },
+  {
+    "id": 20090,
+    "label": "PDV 90",
+    "address": "VELEZ SARSFIELD N°4200, MUNRO"
+  },
+  {
+    "id": 20091,
+    "label": "PDV 91",
+    "address": "INT CNEL A AVALOS N°2829, MUNRO"
+  },
+  {
+    "id": 20092,
+    "label": "PDV 92",
+    "address": "CONSTITUCION N°501, SAN FERNANDO"
+  },
+  {
+    "id": 20093,
+    "label": "PDV 93",
+    "address": "CAZON N°811, TIGRE"
+  },
+  {
+    "id": 20094,
+    "label": "PDV 94",
+    "address": "ITALIA N°5200, DIQUE LUJAN"
+  },
+  {
+    "id": 20095,
+    "label": "PDV 95",
+    "address": "IRIGOYEN"
+  },
+  {
+    "id": 20096,
+    "label": "PDV 96",
+    "address": "ITALIA N°1678, TIGRE"
+  },
+  {
+    "id": 20097,
+    "label": "PDV 97",
+    "address": "CAZON N°1417, TIGRE"
+  },
+  {
+    "id": 20098,
+    "label": "PDV 98",
+    "address": "RIVADAVIA N°349, QUILMES"
+  },
+  {
+    "id": 20099,
+    "label": "PDV 99",
+    "address": "MITRE N°501, QUILMES"
+  },
+  {
+    "id": 20100,
+    "label": "PDV 100",
+    "address": "AVDA DE MAYO N°375, RAMOS MEJIA"
+  },
+  {
+    "id": 20101,
+    "label": "PDV 101",
+    "address": "PRES JUAN D PERON N°1199, SAN MIGUEL"
+  },
+  {
+    "id": 20102,
+    "label": "PDV 102",
+    "address": "CJAL E TRIBULATO N°1184, SAN MIGUEL"
+  },
+  {
+    "id": 20103,
+    "label": "PDV 103",
+    "address": "CHACABUCO N°298, RAMOS MEJIA"
+  },
+  {
+    "id": 20104,
+    "label": "PDV 104",
+    "address": "FLORENCIO VARELA N°1960, SAN JUSTO"
+  },
+  {
+    "id": 20105,
+    "label": "PDV 105",
+    "address": "AVDA DE MAYO N°451, RAMOS MEJIA"
+  },
+  {
+    "id": 20106,
+    "label": "PDV 106",
+    "address": "AVDA RIVADAVIA N°14106, RAMOS MEJIA"
+  },
+  {
+    "id": 20107,
+    "label": "PDV 107",
+    "address": "AV PTE FIGUEROA ALCORTA N°2263, CIUDAD AUTONOMA DE BS AS"
+  },
+  {
+    "id": 20108,
+    "label": "PDV 108",
+    "address": "ALMTE GUILLERMO BROWN N°943, MORON"
+  },
+  {
+    "id": 20109,
+    "label": "PDV 109",
+    "address": "GDOR CARLOS CASARES N°858, CASTELAR"
+  },
+  {
+    "id": 20110,
+    "label": "PDV 110",
+    "address": "DIAG 91 SAN LORENZO N°3773, General San Martín"
+  },
+  {
+    "id": 30001,
+    "label": "PDV 1",
+    "address": "SANABRIA N°1608, CAPITAL FEDERAL"
+  },
+  {
+    "id": 30002,
+    "label": "PDV 2",
+    "address": "GRAL JOSE GERVASIO DE ARTIGAS N°5399, CAPITAL FEDERAL"
+  },
+  {
+    "id": 30003,
+    "label": "PDV 3",
+    "address": "ALEJANDRO MAGARINOS CERVANTES N°1602, CAPITAL FEDERAL"
+  },
+  {
+    "id": 30004,
+    "label": "PDV 4",
+    "address": "DR NICOLAS REPETTO N°1602, CAPITAL FEDERAL"
+  },
+  {
+    "id": 30005,
+    "label": "PDV 5",
+    "address": "AV SAN MARTIN N°3103, CAPITAL FEDERAL"
+  },
+  {
+    "id": 30006,
+    "label": "PDV 6",
+    "address": "GRAL JOSE GERVASIO DE ARTIGAS N°2201, CAPITAL FEDERAL"
+  },
+  {
+    "id": 30007,
+    "label": "PDV 7",
+    "address": "CUENCA N°1602, CAPITAL FEDERAL"
+  },
+  {
+    "id": 30008,
+    "label": "PDV 8",
+    "address": "AV SEGUROLA N°1696, CAPITAL FEDERAL"
+  },
+  {
+    "id": 30009,
+    "label": "PDV 9",
+    "address": "AV ALVAREZ JONTE N°3301, CAPITAL FEDERAL"
+  },
+  {
+    "id": 30010,
+    "label": "PDV 10",
+    "address": "BAHIA BLANCA N°1602, CAPITAL FEDERAL"
+  },
+  {
+    "id": 30011,
+    "label": "PDV 11",
+    "address": "AV LOPE DE VEGA N°2695, CAPITAL FEDERAL"
+  },
+  {
+    "id": 30012,
+    "label": "PDV 12",
+    "address": "NEUQUEN N°1000, CAPITAL FEDERAL"
+  },
+  {
+    "id": 30013,
+    "label": "PDV 13",
+    "address": "GRAL JOSE GERVASIO DE ARTIGAS N°1702, CAPITAL FEDERAL"
+  },
+  {
+    "id": 30014,
+    "label": "PDV 14",
+    "address": "CAMARONES N°3099, CAPITAL FEDERAL"
+  },
+  {
+    "id": 30015,
+    "label": "PDV 15",
+    "address": "LUIS VIALE N°302, CAPITAL FEDERAL"
+  },
+  {
+    "id": 30016,
+    "label": "PDV 16",
+    "address": "NEUQUEN N°508, CAPITAL FEDERAL"
+  },
+  {
+    "id": 30017,
+    "label": "PDV 17",
+    "address": "AV ALVAREZ JONTE N°5187, CAPITAL FEDERAL"
+  },
+  {
+    "id": 30018,
+    "label": "PDV 18",
+    "address": "AV NAZCA N°2100, CAPITAL FEDERAL"
+  },
+  {
+    "id": 30019,
+    "label": "PDV 19",
+    "address": "AV DR HONORIO PUEYRREDON N°1400, CAPITAL FEDERAL"
+  },
+  {
+    "id": 30020,
+    "label": "PDV 20",
+    "address": "AV DIRECTORIO N°1201, CAPITAL FEDERAL"
+  },
+  {
+    "id": 30021,
+    "label": "PDV 21",
+    "address": "AV DIAZ VELEZ N°4764, CAPITAL FEDERAL"
+  },
+  {
+    "id": 30022,
+    "label": "PDV 22",
+    "address": "NEUQUEN N°1698, CAPITAL FEDERAL"
+  },
+  {
+    "id": 30023,
+    "label": "PDV 23",
+    "address": "AV DIRECTORIO N°2901, CAPITAL FEDERAL"
+  },
+  {
+    "id": 30024,
+    "label": "PDV 24",
+    "address": "CAMARONES N°3600, CAPITAL FEDERAL"
+  },
+  {
+    "id": 30025,
+    "label": "PDV 25",
+    "address": "av juan bautista alberdi N°3301, CAPITAL FEDERAL"
+  },
+  {
+    "id": 30026,
+    "label": "PDV 26",
+    "address": "MOLIERE N°2099, CAPITAL FEDERAL"
+  },
+  {
+    "id": 30027,
+    "label": "PDV 27",
+    "address": "AV GAONA N°4398, CAPITAL FEDERAL"
+  },
+  {
+    "id": 30028,
+    "label": "PDV 28",
+    "address": "av juan bautista alberdi N°4351, CAPITAL FEDERAL"
+  },
+  {
+    "id": 30029,
+    "label": "PDV 29",
+    "address": "AV NAZCA N°2496, CAPITAL FEDERAL"
+  },
+  {
+    "id": 30030,
+    "label": "PDV 30",
+    "address": "JUAN AGUSTIN GARCIA N°2801, CAPITAL FEDERAL"
+  },
+  {
+    "id": 30031,
+    "label": "PDV 31",
+    "address": "AV DIRECTORIO N°3200, CAPITAL FEDERAL"
+  },
+  {
+    "id": 30032,
+    "label": "PDV 32",
+    "address": "AV FRANCISCO BEIRO N°4459, CAPITAL FEDERAL"
+  },
+  {
+    "id": 30033,
+    "label": "PDV 33",
+    "address": "GRAL JOSE GERVASIO DE ARTIGAS N°4902, CAPITAL FEDERAL"
+  },
+  {
+    "id": 30034,
+    "label": "PDV 34",
+    "address": "AV GRAL MOSCONI N°2299, CAPITAL FEDERAL"
+  },
+  {
+    "id": 30035,
+    "label": "PDV 35",
+    "address": "AV DE LOS CONSTITUYENTES N°5601, CAPITAL FEDERAL"
+  },
+  {
+    "id": 30036,
+    "label": "PDV 36",
+    "address": "AV GRAL MOSCONI N°3437, CAPITAL FEDERAL"
+  },
+  {
+    "id": 30037,
+    "label": "PDV 37",
+    "address": "RIO DE JANEIRO N°398, CAPITAL FEDERAL"
+  },
+  {
+    "id": 30038,
+    "label": "PDV 38",
+    "address": "AV GAONA N°4000, CAPITAL FEDERAL"
+  },
+  {
+    "id": 30039,
+    "label": "PDV 39",
+    "address": "AV NAZCA N°2399, CAPITAL FEDERAL"
+  },
+  {
+    "id": 30040,
+    "label": "PDV 40",
+    "address": "AV JUAN B JUSTO N°6801, CAPITAL FEDERAL"
+  },
+  {
+    "id": 30041,
+    "label": "PDV 41",
+    "address": "BOGOTA N°3793, CAPITAL FEDERAL"
+  },
+  {
+    "id": 30042,
+    "label": "PDV 42",
+    "address": "AV LOPE DE VEGA N°810, CAPITAL FEDERAL"
+  },
+  {
+    "id": 30043,
+    "label": "PDV 43",
+    "address": "ROJAS N°598, CAPITAL FEDERAL"
+  },
+  {
+    "id": 30044,
+    "label": "PDV 44",
+    "address": "AV ALVAREZ THOMAS N°801, CAPITAL FEDERAL"
+  },
+  {
+    "id": 30045,
+    "label": "PDV 45",
+    "address": "ARMENIA N°1499, CAPITAL FEDERAL"
+  },
+  {
+    "id": 30046,
+    "label": "PDV 46",
+    "address": "JOSE A CABRERA N°4200, CAPITAL FEDERAL"
+  },
+  {
+    "id": 30047,
+    "label": "PDV 47",
+    "address": "AV GRAL INDALESIO CHENAUT N°1812, CAPITAL FEDERAL"
+  },
+  {
+    "id": 30048,
+    "label": "PDV 48",
+    "address": "GODOY CRUZ N°2587, CAPITAL FEDERAL"
+  },
+  {
+    "id": 30049,
+    "label": "PDV 49",
+    "address": "GORRITI N°5300, CAPITAL FEDERAL"
+  },
+  {
+    "id": 30050,
+    "label": "PDV 50",
+    "address": "AV DE LOS INCAS N°4146, CAPITAL FEDERAL"
+  },
+  {
+    "id": 30051,
+    "label": "PDV 51",
+    "address": "SOLER N°3300, CAPITAL FEDERAL"
+  },
+  {
+    "id": 30052,
+    "label": "PDV 52",
+    "address": "SUPERI N°1402, CAPITAL FEDERAL"
+  },
+  {
+    "id": 30053,
+    "label": "PDV 53",
+    "address": "AV ALVAREZ THOMAS N°2602, CAPITAL FEDERAL"
+  },
+  {
+    "id": 30054,
+    "label": "PDV 54",
+    "address": "AV DE LOS INCAS N°4294, CAPITAL FEDERAL"
+  },
+  {
+    "id": 30055,
+    "label": "PDV 55",
+    "address": "AV DE LOS INCAS N°4483, CAPITAL FEDERAL"
+  },
+  {
+    "id": 30056,
+    "label": "PDV 56",
+    "address": "AV MONROE N°3393, CAPITAL FEDERAL"
+  },
+  {
+    "id": 30057,
+    "label": "PDV 57",
+    "address": "AV MONROE N°4596, CAPITAL FEDERAL"
+  },
+  {
+    "id": 30058,
+    "label": "PDV 58",
+    "address": "NAHUEL HUAPI N°5898, CAPITAL FEDERAL"
+  },
+  {
+    "id": 30059,
+    "label": "PDV 59",
+    "address": "AV OLAZABAL N°4202, CAPITAL FEDERAL"
+  },
+  {
+    "id": 30060,
+    "label": "PDV 60",
+    "address": "NEUQUEN N°1306, CAPITAL FEDERAL"
+  },
+  {
+    "id": 30061,
+    "label": "PDV 61",
+    "address": "AV OLAZABAL N°3999, CAPITAL FEDERAL"
+  },
+  {
+    "id": 30062,
+    "label": "PDV 62",
+    "address": "AV AVELLANEDA N°2020, CIUDAD AUTONOMA DE BS AS"
+  },
+  {
+    "id": 30063,
+    "label": "PDV 63",
+    "address": "AV DE LOS CONSTITUYENTES N°3800, CIUDAD AUTONOMA DE BS AS"
+  },
+  {
+    "id": 30064,
+    "label": "PDV 64",
+    "address": "AV FRANCISCO BEIRO N°3501, CIUDAD AUTONOMA DE BS AS"
+  },
+  {
+    "id": 30065,
+    "label": "PDV 65",
+    "address": "AV FRANCISCO BEIRO N°3801, CIUDAD AUTONOMA DE BS AS"
+  },
+  {
+    "id": 30066,
+    "label": "PDV 66",
+    "address": "AV FRANCISCO BEIRO N°4932, CIUDAD AUTONOMA DE BS AS"
+  },
+  {
+    "id": 30067,
+    "label": "PDV 67",
+    "address": "AV GAONA N°3852, CIUDAD AUTONOMA DE BS AS"
+  },
+  {
+    "id": 30068,
+    "label": "PDV 68",
+    "address": "AV GRAL MOSCONI N°3700, CIUDAD AUTONOMA DE BS AS"
+  },
+  {
+    "id": 30069,
+    "label": "PDV 69",
+    "address": "AV LOPE DE VEGA N°3402, CIUDAD AUTONOMA DE BS AS"
+  },
+  {
+    "id": 30070,
+    "label": "PDV 70",
+    "address": "AV LOPE DE VEGA N°3502, CIUDAD AUTONOMA DE BS AS"
+  },
+  {
+    "id": 30071,
+    "label": "PDV 71",
+    "address": "AV NAZCA N°799, CIUDAD AUTONOMA DE BS AS"
+  },
+  {
+    "id": 30072,
+    "label": "PDV 72",
+    "address": "AV SALVADOR MARIA DEL CARRIL N°2706, CIUDAD AUTONOMA DE BS AS"
+  },
+  {
+    "id": 30073,
+    "label": "PDV 73",
+    "address": "AV SAN MARTIN N°6994, CIUDAD AUTONOMA DE BS AS"
+  },
+  {
+    "id": 30074,
+    "label": "PDV 74",
+    "address": "BENITO JUAREZ N°2703, CIUDAD AUTONOMA DE BS AS"
+  },
+  {
+    "id": 30075,
+    "label": "PDV 75",
+    "address": "CAMPANA N°2799, CIUDAD AUTONOMA DE BS AS"
+  },
+  {
+    "id": 30076,
+    "label": "PDV 76",
+    "address": "CUENCA N°1096, CIUDAD AUTONOMA DE BS AS"
+  },
+  {
+    "id": 30077,
+    "label": "PDV 77",
+    "address": "CUENCA N°2599, CIUDAD AUTONOMA DE BS AS"
+  },
+  {
+    "id": 30078,
+    "label": "PDV 78",
+    "address": "NUEVA YORK N°3505, CIUDAD AUTONOMA DE BS AS"
+  },
+  {
+    "id": 30079,
+    "label": "PDV 79",
+    "address": "SANABRIA N°2500, CIUDAD AUTONOMA DE BS AS"
+  },
+  {
+    "id": 30080,
+    "label": "PDV 80",
+    "address": "SANABRIA N°2796, CIUDAD AUTONOMA DE BS AS"
+  },
+  {
+    "id": 30081,
+    "label": "PDV 81",
+    "address": "SANABRIA N°3028, CIUDAD AUTONOMA DE BS AS"
+  },
+  {
+    "id": 30082,
+    "label": "PDV 82",
+    "address": "SANABRIA N°3599, CIUDAD AUTONOMA DE BS AS"
+  },
+  {
+    "id": 30083,
+    "label": "PDV 83",
+    "address": "TINOGASTA N°3699, CIUDAD AUTONOMA DE BS AS"
+  },
+  {
+    "id": 30084,
+    "label": "PDV 84",
+    "address": "AV NAZCA N°1808, CIUDAD AUTONOMA DE BS AS"
+  },
+  {
+    "id": 30085,
+    "label": "PDV 85",
+    "address": "AV MONROE N°4299, CIUDAD AUTONOMA DE BS AS"
+  },
+  {
+    "id": 30086,
+    "label": "PDV 86",
+    "address": "AV DE LOS INCAS N°4598, CIUDAD AUTONOMA DE BS AS"
+  },
+  {
+    "id": 30087,
+    "label": "PDV 87",
+    "address": "AV SEGUROLA N°1090, CIUDAD AUTONOMA DE BS AS"
+  },
+  {
+    "id": 30088,
+    "label": "PDV 88",
+    "address": "ARMENIA N°1385, CIUDAD AUTONOMA DE BS AS"
+  },
+  {
+    "id": 30089,
+    "label": "PDV 89",
+    "address": "AV FRANCISCO BEIRO N°4932, CIUDAD AUTONOMA DE BS AS"
+  },
+  {
+    "id": 30090,
+    "label": "PDV 90",
+    "address": "BENITO JUAREZ N°2703, CIUDAD AUTONOMA DE BS AS"
+  },
+  {
+    "id": 30091,
+    "label": "PDV 91",
+    "address": "AV LOPE DE VEGA N°3502, CIUDAD AUTONOMA DE BS AS"
+  },
+  {
+    "id": 30092,
+    "label": "PDV 92",
+    "address": "SANABRIA N°2500, CIUDAD AUTONOMA DE BS AS"
+  },
+  {
+    "id": 30093,
+    "label": "PDV 93",
+    "address": "SANABRIA N°3028, CIUDAD AUTONOMA DE BS AS"
+  },
+  {
+    "id": 30094,
+    "label": "PDV 94",
+    "address": "SANABRIA N°2796, CIUDAD AUTONOMA DE BS AS"
+  },
+  {
+    "id": 30095,
+    "label": "PDV 95",
+    "address": "AV ASAMBLEA N°2300, CIUDAD AUTONOMA DE BS AS"
+  },
+  {
+    "id": 30096,
+    "label": "PDV 96",
+    "address": "AV LOPE DE VEGA N°2313, CIUDAD AUTONOMA DE BS AS"
+  },
+  {
+    "id": 50001,
+    "label": "PDV 1",
+    "address": "PARAGUAY N°3602, CAPITAL FEDERAL"
+  },
+  {
+    "id": 50002,
+    "label": "PDV 2",
+    "address": "PARAGUAY N°4002, CAPITAL FEDERAL"
+  },
+  {
+    "id": 50003,
+    "label": "PDV 3",
+    "address": "AV RAUL SCALABRINI ORTIZ N°3103, CAPITAL FEDERAL"
+  },
+  {
+    "id": 50004,
+    "label": "PDV 4",
+    "address": "AV RAUL SCALABRINI ORTIZ N°1602, CAPITAL FEDERAL"
+  },
+  {
+    "id": 50005,
+    "label": "PDV 5",
+    "address": "AV CORRIENTES N°4801, CAPITAL FEDERAL"
+  },
+  {
+    "id": 50006,
+    "label": "PDV 6",
+    "address": "AV SANTA FE N°3248, CAPITAL FEDERAL"
+  },
+  {
+    "id": 50007,
+    "label": "PDV 7",
+    "address": "PARAGUAY N°4202, CAPITAL FEDERAL"
+  },
+  {
+    "id": 50008,
+    "label": "PDV 8",
+    "address": "AV ELCANO N°3000, CAPITAL FEDERAL"
+  },
+  {
+    "id": 50009,
+    "label": "PDV 9",
+    "address": "AV SANTA FE N°2901, CAPITAL FEDERAL"
+  },
+  {
+    "id": 50010,
+    "label": "PDV 10",
+    "address": "AV GRAL LAS HERAS N°1999, CAPITAL FEDERAL"
+  },
+  {
+    "id": 50011,
+    "label": "PDV 11",
+    "address": "AV SANTA FE N°4802, CAPITAL FEDERAL"
+  },
+  {
+    "id": 50012,
+    "label": "PDV 12",
+    "address": "AV CABILDO N°1601, CAPITAL FEDERAL"
+  },
+  {
+    "id": 50013,
+    "label": "PDV 13",
+    "address": "JURAMENTO N°3100, CAPITAL FEDERAL"
+  },
+  {
+    "id": 50014,
+    "label": "PDV 14",
+    "address": "AV RIVADAVIA N°4095, CAPITAL FEDERAL"
+  },
+  {
+    "id": 50015,
+    "label": "PDV 15",
+    "address": "AV RIVADAVIA N°3901, CAPITAL FEDERAL"
+  },
+  {
+    "id": 50016,
+    "label": "PDV 16",
+    "address": "PARAGUAY N°5399, CAPITAL FEDERAL"
+  },
+  {
+    "id": 50017,
+    "label": "PDV 17",
+    "address": "AV RIVADAVIA N°4975, CAPITAL FEDERAL"
+  },
+  {
+    "id": 50018,
+    "label": "PDV 18",
+    "address": "AV SANTA FE N°2000, CAPITAL FEDERAL"
+  },
+  {
+    "id": 50019,
+    "label": "PDV 19",
+    "address": "RIOBAMBA N°902, CAPITAL FEDERAL"
+  },
+  {
+    "id": 50020,
+    "label": "PDV 20",
+    "address": "AV CABILDO N°2590, CAPITAL FEDERAL"
+  },
+  {
+    "id": 50021,
+    "label": "PDV 21",
+    "address": "AV CORDOBA N°2095, CAPITAL FEDERAL"
+  },
+  {
+    "id": 50022,
+    "label": "PDV 22",
+    "address": "PARAGUAY N°2100, CAPITAL FEDERAL"
+  },
+  {
+    "id": 50023,
+    "label": "PDV 23",
+    "address": "JURAMENTO N°1741, CAPITAL FEDERAL"
+  },
+  {
+    "id": 50024,
+    "label": "PDV 24",
+    "address": "CHARCAS N°3401, CAPITAL FEDERAL"
+  },
+  {
+    "id": 50025,
+    "label": "PDV 25",
+    "address": "ARAOZ N°800, CAPITAL FEDERAL"
+  },
+  {
+    "id": 50026,
+    "label": "PDV 26",
+    "address": "AV BOYACA N°46, CAPITAL FEDERAL"
+  },
+  {
+    "id": 50027,
+    "label": "PDV 27",
+    "address": "AV SANTA FE N°5064, CAPITAL FEDERAL"
+  },
+  {
+    "id": 50028,
+    "label": "PDV 28",
+    "address": "CRAMER N°2598, CAPITAL FEDERAL"
+  },
+  {
+    "id": 50029,
+    "label": "PDV 29",
+    "address": "AV ELCANO N°3413, CAPITAL FEDERAL"
+  },
+  {
+    "id": 50030,
+    "label": "PDV 30",
+    "address": "GRAL LUCIO N MANSILLA N°2798, CAPITAL FEDERAL"
+  },
+  {
+    "id": 50031,
+    "label": "PDV 31",
+    "address": "AV SANTA FE N°2799, CAPITAL FEDERAL"
+  },
+  {
+    "id": 50032,
+    "label": "PDV 32",
+    "address": "CAMARGO N°802, CAPITAL FEDERAL"
+  },
+  {
+    "id": 50033,
+    "label": "PDV 33",
+    "address": "AV SANTA FE N°3976, CAPITAL FEDERAL"
+  },
+  {
+    "id": 50034,
+    "label": "PDV 34",
+    "address": "COSTA RICA N°4401, CAPITAL FEDERAL"
+  },
+  {
+    "id": 50035,
+    "label": "PDV 35",
+    "address": "ARENALES N°2699, CAPITAL FEDERAL"
+  },
+  {
+    "id": 50036,
+    "label": "PDV 36",
+    "address": "PARAGUAY N°2400, CAPITAL FEDERAL"
+  },
+  {
+    "id": 50037,
+    "label": "PDV 37",
+    "address": "AV CABILDO N°3735, CAPITAL FEDERAL"
+  },
+  {
+    "id": 50038,
+    "label": "PDV 38",
+    "address": "AV SANTA FE N°3152, CAPITAL FEDERAL"
+  },
+  {
+    "id": 50039,
+    "label": "PDV 39",
+    "address": "JUNCAL N°2199, CAPITAL FEDERAL"
+  },
+  {
+    "id": 50040,
+    "label": "PDV 40",
+    "address": "AV CORRIENTES N°3802, CAPITAL FEDERAL"
+  },
+  {
+    "id": 50041,
+    "label": "PDV 41",
+    "address": "AV CORRIENTES N°3501, CAPITAL FEDERAL"
+  },
+  {
+    "id": 50042,
+    "label": "PDV 42",
+    "address": "JURAMENTO N°1548, CAPITAL FEDERAL"
+  },
+  {
+    "id": 50043,
+    "label": "PDV 43",
+    "address": "AV SANTA FE N°3034, CAPITAL FEDERAL"
+  },
+  {
+    "id": 50044,
+    "label": "PDV 44",
+    "address": "PARAGUAY N°2801, CAPITAL FEDERAL"
+  },
+  {
+    "id": 50045,
+    "label": "PDV 45",
+    "address": "SANCHEZ DE BUSTAMANTE N°2174, CAPITAL FEDERAL"
+  },
+  {
+    "id": 50046,
+    "label": "PDV 46",
+    "address": "AV RIVADAVIA N°6329, CAPITAL FEDERAL"
+  },
+  {
+    "id": 50047,
+    "label": "PDV 47",
+    "address": "AV RIVADAVIA N°3500, CAPITAL FEDERAL"
+  },
+  {
+    "id": 50048,
+    "label": "PDV 48",
+    "address": "CHARCAS N°3888, CAPITAL FEDERAL"
+  },
+  {
+    "id": 50049,
+    "label": "PDV 49",
+    "address": "AV HONDURAS N°5299, CAPITAL FEDERAL"
+  },
+  {
+    "id": 50050,
+    "label": "PDV 50",
+    "address": "AV SANTA FE N°3751, CAPITAL FEDERAL"
+  },
+  {
+    "id": 50051,
+    "label": "PDV 51",
+    "address": "AV ESTADO DE ISRAEL N°4835, CAPITAL FEDERAL"
+  },
+  {
+    "id": 50052,
+    "label": "PDV 52",
+    "address": "PARAGUAY N°3302, CAPITAL FEDERAL"
+  },
+  {
+    "id": 50053,
+    "label": "PDV 53",
+    "address": "JOSE A CABRERA N°3099, CAPITAL FEDERAL"
+  },
+  {
+    "id": 50054,
+    "label": "PDV 54",
+    "address": "AV SANTA FE N°3101, CAPITAL FEDERAL"
+  },
+  {
+    "id": 50055,
+    "label": "PDV 55",
+    "address": "JOSE A CABRERA N°3501, CAPITAL FEDERAL"
+  },
+  {
+    "id": 50056,
+    "label": "PDV 56",
+    "address": "GORRITI N°4702, CAPITAL FEDERAL"
+  },
+  {
+    "id": 50057,
+    "label": "PDV 57",
+    "address": "AV SANTA FE N°3669, CAPITAL FEDERAL"
+  },
+  {
+    "id": 50058,
+    "label": "PDV 58",
+    "address": "TUCUMAN N°2099, CAPITAL FEDERAL"
+  },
+  {
+    "id": 50059,
+    "label": "PDV 59",
+    "address": "PARAGUAY N°4300, CAPITAL FEDERAL"
+  },
+  {
+    "id": 50060,
+    "label": "PDV 60",
+    "address": "AV RAUL SCALABRINI ORTIZ N°2176, CAPITAL FEDERAL"
+  },
+  {
+    "id": 50061,
+    "label": "PDV 61",
+    "address": "AMENABAR N°2598, CAPITAL FEDERAL"
+  },
+  {
+    "id": 50062,
+    "label": "PDV 62",
+    "address": "CABELLO N°3402, CAPITAL FEDERAL"
+  },
+  {
+    "id": 50063,
+    "label": "PDV 63",
+    "address": "GUEMES N°3590, CAPITAL FEDERAL"
+  },
+  {
+    "id": 50064,
+    "label": "PDV 64",
+    "address": "AV CORRIENTES N°4501, CAPITAL FEDERAL"
+  },
+  {
+    "id": 50065,
+    "label": "PDV 65",
+    "address": "JOSE A CABRERA N°3800, CAPITAL FEDERAL"
+  },
+  {
+    "id": 50066,
+    "label": "PDV 66",
+    "address": "GORRITI N°4599, CAPITAL FEDERAL"
+  },
+  {
+    "id": 50067,
+    "label": "PDV 67",
+    "address": "BERUTI N°3102, CIUDAD AUTONOMA DE BS AS"
+  },
+  {
+    "id": 50068,
+    "label": "PDV 68",
+    "address": "AV CORRIENTES N°3501, CIUDAD AUTONOMA DE BS AS"
+  },
+  {
+    "id": 80001,
+    "label": "PDV 1",
+    "address": "ACHEGA N°3499, CAPITAL FEDERAL"
+  },
+  {
+    "id": 80002,
+    "label": "PDV 2",
+    "address": "AV LOPE DE VEGA N°95, CAPITAL FEDERAL"
+  },
+  {
+    "id": 80003,
+    "label": "PDV 3",
+    "address": "BARTOLOME MITRE N°4199, CAPITAL FEDERAL"
+  },
+  {
+    "id": 80004,
+    "label": "PDV 4",
+    "address": "LOYOLA N°798, CAPITAL FEDERAL"
+  },
+  {
+    "id": 80005,
+    "label": "PDV 5",
+    "address": "VERA N°599, CAPITAL FEDERAL"
+  },
+  {
+    "id": 80006,
+    "label": "PDV 6",
+    "address": "JOAQUIN V GONZALEZ N°300, CAPITAL FEDERAL"
+  },
+  {
+    "id": 80007,
+    "label": "PDV 7",
+    "address": "AV RIVADAVIA N°9399, CAPITAL FEDERAL"
+  },
+  {
+    "id": 80008,
+    "label": "PDV 8",
+    "address": "SOLER N°3701, CAPITAL FEDERAL"
+  },
+  {
+    "id": 80009,
+    "label": "PDV 9",
+    "address": "AV ANGEL GALLARDO N°99, CAPITAL FEDERAL"
+  },
+  {
+    "id": 80010,
+    "label": "PDV 10",
+    "address": "MALABIA N°200, CAPITAL FEDERAL"
+  },
+  {
+    "id": 80011,
+    "label": "PDV 11",
+    "address": "AV CORRIENTES N°5941, CAPITAL FEDERAL"
+  },
+  {
+    "id": 80012,
+    "label": "PDV 12",
+    "address": "AV MONROE N°5398, CAPITAL FEDERAL"
+  },
+  {
+    "id": 80013,
+    "label": "PDV 13",
+    "address": "AGUIRRE N°700, CAPITAL FEDERAL"
+  },
+  {
+    "id": 80014,
+    "label": "PDV 14",
+    "address": "CONCORDIA N°702, CAPITAL FEDERAL"
+  },
+  {
+    "id": 80015,
+    "label": "PDV 15",
+    "address": "AV CORRIENTES N°4300, CAPITAL FEDERAL"
+  },
+  {
+    "id": 80016,
+    "label": "PDV 16",
+    "address": "SARMIENTO N°4502, CAPITAL FEDERAL"
+  },
+  {
+    "id": 80017,
+    "label": "PDV 17",
+    "address": "AV OLIVERA N°6, CAPITAL FEDERAL"
+  },
+  {
+    "id": 80018,
+    "label": "PDV 18",
+    "address": "AV NAZCA N°5602, CAPITAL FEDERAL"
+  },
+  {
+    "id": 80019,
+    "label": "PDV 19",
+    "address": "AGUIRRE N°997, CAPITAL FEDERAL"
+  },
+  {
+    "id": 80020,
+    "label": "PDV 20",
+    "address": "LA RIOJA N°1999, CAPITAL FEDERAL"
+  },
+  {
+    "id": 80021,
+    "label": "PDV 21",
+    "address": "BAUNESS N°2702, CAPITAL FEDERAL"
+  },
+  {
+    "id": 80022,
+    "label": "PDV 22",
+    "address": "VERA N°997, CAPITAL FEDERAL"
+  },
+  {
+    "id": 80023,
+    "label": "PDV 23",
+    "address": "VERA N°801, CAPITAL FEDERAL"
+  },
+  {
+    "id": 80024,
+    "label": "PDV 24",
+    "address": "AV JUAN B JUSTO N°3507, CAPITAL FEDERAL"
+  },
+  {
+    "id": 80025,
+    "label": "PDV 25",
+    "address": "AV JUAN B JUSTO N°2901, CAPITAL FEDERAL"
+  },
+  {
+    "id": 80026,
+    "label": "PDV 26",
+    "address": "AV CORRIENTES N°5558, CAPITAL FEDERAL"
+  },
+  {
+    "id": 80027,
+    "label": "PDV 27",
+    "address": "GALICIA N°199, CAPITAL FEDERAL"
+  },
+  {
+    "id": 80028,
+    "label": "PDV 28",
+    "address": "LA PAMPA N°5601, CAPITAL FEDERAL"
+  },
+  {
+    "id": 80029,
+    "label": "PDV 29",
+    "address": "AV GRAL MOSCONI N°3063, CAPITAL FEDERAL"
+  },
+  {
+    "id": 80030,
+    "label": "PDV 30",
+    "address": "CIUDAD DE LA PAZ N°3202, CAPITAL FEDERAL"
+  },
+  {
+    "id": 80031,
+    "label": "PDV 31",
+    "address": "MORON N°3600, CAPITAL FEDERAL"
+  },
+  {
+    "id": 80032,
+    "label": "PDV 32",
+    "address": "AV CONGRESO N°4600, CAPITAL FEDERAL"
+  },
+  {
+    "id": 80033,
+    "label": "PDV 33",
+    "address": "MORON N°3802, CAPITAL FEDERAL"
+  },
+  {
+    "id": 80034,
+    "label": "PDV 34",
+    "address": "SOLER N°3802, CAPITAL FEDERAL"
+  },
+  {
+    "id": 80035,
+    "label": "PDV 35",
+    "address": "MORON N°3000, CAPITAL FEDERAL"
+  },
+  {
+    "id": 80036,
+    "label": "PDV 36",
+    "address": "AV CORRIENTES N°4237, CAPITAL FEDERAL"
+  },
+  {
+    "id": 80037,
+    "label": "PDV 37",
+    "address": "AV RIVADAVIA S/N N°0, CAPITAL FEDERAL"
+  },
+  {
+    "id": 80038,
+    "label": "PDV 38",
+    "address": "QUESADA N°2699, CAPITAL FEDERAL"
+  },
+  {
+    "id": 80039,
+    "label": "PDV 39",
+    "address": "AV EMILIO CASTRO N°7260, CAPITAL FEDERAL"
+  },
+  {
+    "id": 80040,
+    "label": "PDV 40",
+    "address": "SOLER N°3893, CAPITAL FEDERAL"
+  },
+  {
+    "id": 80041,
+    "label": "PDV 41",
+    "address": "PARAGUAY N°4291, CAPITAL FEDERAL"
+  },
+  {
+    "id": 80042,
+    "label": "PDV 42",
+    "address": "MERCEDES N°299, CAPITAL FEDERAL"
+  },
+  {
+    "id": 80043,
+    "label": "PDV 43",
+    "address": "AV AVELLANEDA N°4002, CAPITAL FEDERAL"
+  },
+  {
+    "id": 80044,
+    "label": "PDV 44",
+    "address": "CONCORDIA N°5, CAPITAL FEDERAL"
+  },
+  {
+    "id": 80045,
+    "label": "PDV 45",
+    "address": "AV LOPE DE VEGA N°898, CAPITAL FEDERAL"
+  },
+  {
+    "id": 80046,
+    "label": "PDV 46",
+    "address": "JUAN RAMIREZ DE VELAZCO N°802, CAPITAL FEDERAL"
+  },
+  {
+    "id": 80047,
+    "label": "PDV 47",
+    "address": "AV CORRIENTES N°3801, CAPITAL FEDERAL"
+  },
+  {
+    "id": 80048,
+    "label": "PDV 48",
+    "address": "SARMIENTO N°3901, CAPITAL FEDERAL"
+  },
+  {
+    "id": 80049,
+    "label": "PDV 49",
+    "address": "GURRUCHAGA N°794, CAPITAL FEDERAL"
+  },
+  {
+    "id": 80050,
+    "label": "PDV 50",
+    "address": "LAMARCA EMILIO N°1799, CAPITAL FEDERAL"
+  },
+  {
+    "id": 80051,
+    "label": "PDV 51",
+    "address": "CONCORDIA N°105, CAPITAL FEDERAL"
+  },
+  {
+    "id": 80052,
+    "label": "PDV 52",
+    "address": "FELIPE VALLESE N°2999, CAPITAL FEDERAL"
+  },
+  {
+    "id": 80053,
+    "label": "PDV 53",
+    "address": "GUEMES N°4300, CIUDAD AUTONOMA DE BS AS"
+  },
+  {
+    "id": 100001,
+    "label": "PDV 1 — Jorge Luis Borges 1663",
+    "address": "Jorge Luis Borges 1663, CABA"
+  },
+  {
+    "id": 100002,
+    "label": "PDV 2 — Jorge Luis Borges 1799",
+    "address": "Jorge Luis Borges 1799, CABA"
+  },
+  {
+    "id": 100003,
+    "label": "PDV 3 — Av. Córdoba 4401",
+    "address": "Av. Córdoba 4401, CABA"
+  },
+  {
+    "id": 100004,
+    "label": "PDV 4 — Scalabrini Ortiz 1297",
+    "address": "Scalabrini Ortiz 1297, CABA"
+  },
+  {
+    "id": 100005,
+    "label": "PDV 5 — Paraguay 3098",
+    "address": "Paraguay 3098, CABA"
+  },
+  {
+    "id": 100006,
+    "label": "PDV 6 — Thames 1696",
+    "address": "Thames 1696, CABA"
+  },
+  {
+    "id": 100007,
+    "label": "PDV 7 — Córdoba 4699",
+    "address": "Córdoba 4699, CABA"
+  },
+  {
+    "id": 100008,
+    "label": "PDV 8 — Scalabrini 1000",
+    "address": "Scalabrini 1000, CABA"
+  },
+  {
+    "id": 100009,
+    "label": "PDV 9 — Vera 301",
+    "address": "Vera 301, CABA"
+  },
+  {
+    "id": 100010,
+    "label": "PDV 10 — Corrientes 5908",
+    "address": "Corrientes 5908, CABA"
+  },
+  {
+    "id": 100011,
+    "label": "PDV 11 — Paraguay 2400",
+    "address": "Paraguay 2400, CABA"
+  },
+  {
+    "id": 100012,
+    "label": "PDV 12 — Juncal 2503",
+    "address": "Juncal 2503, CABA"
+  },
+  {
+    "id": 100013,
+    "label": "PDV 13 — Av. Las Heras 2940",
+    "address": "Av. Las Heras 2940, CABA"
+  },
+  {
+    "id": 100014,
+    "label": "PDV 14 — Aguero 401",
+    "address": "Aguero 401, CABA"
+  },
+  {
+    "id": 100015,
+    "label": "PDV 15 — Av. Callao 34",
+    "address": "Av. Callao 34, CABA"
+  },
+  {
+    "id": 100016,
+    "label": "PDV 16 — Av. Corrientes 502",
+    "address": "Av. Corrientes 502, CABA"
+  },
+  {
+    "id": 100017,
+    "label": "PDV 17 — Perón 1301",
+    "address": "Perón 1301, CABA"
+  },
+  {
+    "id": 100018,
+    "label": "PDV 18 — Av. Belgrano 1330",
+    "address": "Av. Belgrano 1330, CABA"
+  },
+  {
+    "id": 100019,
+    "label": "PDV 19 — Av. Callao 298",
+    "address": "Av. Callao 298, CABA"
+  },
+  {
+    "id": 100020,
+    "label": "PDV 20 — Av. Rivadavia 3599",
+    "address": "Av. Rivadavia 3599, CABA"
+  },
+  {
+    "id": 100021,
+    "label": "PDV 21 — Av. Rivadavia 2370",
+    "address": "Av. Rivadavia 2370, CABA"
+  },
+  {
+    "id": 100022,
+    "label": "PDV 22 — Díaz Vélez 4300",
+    "address": "Díaz Vélez 4300, CABA"
+  },
+  {
+    "id": 100023,
+    "label": "PDV 23 — Rivadavia 4536",
+    "address": "Rivadavia 4536, CABA"
+  },
+  {
+    "id": 100024,
+    "label": "PDV 24 — Av. Acoyte 294",
+    "address": "Av. Acoyte 294, CABA"
+  },
+  {
+    "id": 100025,
+    "label": "PDV 25 — Av. Acoyte 331",
+    "address": "Av. Acoyte 331, CABA"
+  },
+  {
+    "id": 100026,
+    "label": "PDV 26 — Avellaneda 548",
+    "address": "Avellaneda 548, CABA"
+  },
+  {
+    "id": 100027,
+    "label": "PDV 27 — Av. Rivadavia 9902",
+    "address": "Av. Rivadavia 9902, CABA"
+  },
+  {
+    "id": 100028,
+    "label": "PDV 28 — Virrey del Pino 2501",
+    "address": "Virrey del Pino 2501, CABA"
+  },
+  {
+    "id": 100029,
+    "label": "PDV 29 — Ciudad de la Paz 202",
+    "address": "Ciudad de la Paz 202, CABA"
+  },
+  {
+    "id": 100030,
+    "label": "PDV 30 — Congreso 2601",
+    "address": "Congreso 2601, CABA"
+  },
+  {
+    "id": 100031,
+    "label": "PDV 31 — Cramer 2999",
+    "address": "Cramer 2999, CABA"
+  },
+  {
+    "id": 100032,
+    "label": "PDV 32 — Juramento 1401",
+    "address": "Juramento 1401, CABA"
+  },
+  {
+    "id": 100033,
+    "label": "PDV 33 — Libertador 4820",
+    "address": "Libertador 4820, CABA"
+  },
+  {
+    "id": 100034,
+    "label": "PDV 34 — Libertador 5895",
+    "address": "Libertador 5895, CABA"
+  },
+  {
+    "id": 100035,
+    "label": "PDV 35 — Libertador 5995",
+    "address": "Libertador 5995, CABA"
+  },
+  {
+    "id": 100036,
+    "label": "PDV 36 — Montañeses 2105",
+    "address": "Montañeses 2105, CABA"
+  },
+  {
+    "id": 100037,
+    "label": "PDV 37 — Constituyentes 6143",
+    "address": "Constituyentes 6143, CABA"
+  },
+  {
+    "id": 100038,
+    "label": "PDV 38 — Nogoyá 5263",
+    "address": "Nogoyá 5263, CABA"
+  },
+  {
+    "id": 100039,
+    "label": "PDV 39 — Independencia 1835",
+    "address": "Independencia 1835, CABA"
+  },
+  {
+    "id": 140001,
+    "label": "PDV 1",
+    "address": "MENDOZA N°3518, ROSARIO"
+  },
+  {
+    "id": 140002,
+    "label": "PDV 2",
+    "address": "AV FRANCIA N°1301, ROSARIO"
+  },
+  {
+    "id": 140003,
+    "label": "PDV 3",
+    "address": "BALCARCE N°1590, ROSARIO"
+  },
+  {
+    "id": 140004,
+    "label": "PDV 4",
+    "address": "RIOJA N°701, ROSARIO"
+  },
+  {
+    "id": 140005,
+    "label": "PDV 5",
+    "address": "RODRIGUEZ N°901, ROSARIO"
+  },
+  {
+    "id": 140006,
+    "label": "PDV 6",
+    "address": "SANTA FE N°1515, ROSARIO"
+  },
+  {
+    "id": 140007,
+    "label": "PDV 7",
+    "address": "MENDOZA N°1511, ROSARIO"
+  },
+  {
+    "id": 140008,
+    "label": "PDV 8",
+    "address": "LA PAZ N°1516, ROSARIO"
+  },
+  {
+    "id": 140009,
+    "label": "PDV 9",
+    "address": "TUCUMAN N°2117, ROSARIO"
+  },
+  {
+    "id": 140010,
+    "label": "PDV 10",
+    "address": "ITALIA N°1174, ROSARIO"
+  },
+  {
+    "id": 140011,
+    "label": "PDV 11",
+    "address": "SALTA AV N°1902, ROSARIO"
+  },
+  {
+    "id": 140012,
+    "label": "PDV 12",
+    "address": "SAN LUIS N°2502, ROSARIO"
+  },
+  {
+    "id": 140013,
+    "label": "PDV 13",
+    "address": "URQUIZA N°2174, ROSARIO"
+  },
+  {
+    "id": 140014,
+    "label": "PDV 14",
+    "address": "9 DE JULIO N°2429, ROSARIO"
+  },
+  {
+    "id": 140015,
+    "label": "PDV 15",
+    "address": "SAN MARTIN N°1186, ROSARIO"
+  },
+  {
+    "id": 140016,
+    "label": "PDV 16",
+    "address": "SAN LORENZO N°1015, ROSARIO"
+  },
+  {
+    "id": 140017,
+    "label": "PDV 17",
+    "address": "ENTRE RIOS N°586, ROSARIO"
+  },
+  {
+    "id": 140018,
+    "label": "PDV 18",
+    "address": "9 DE JULIO N°890, ROSARIO"
+  },
+  {
+    "id": 140019,
+    "label": "PDV 19",
+    "address": "SAN JUAN N°690, ROSARIO"
+  },
+  {
+    "id": 140020,
+    "label": "PDV 20",
+    "address": "SAN LORENZO N°1105, ROSARIO"
+  },
+  {
+    "id": 140021,
+    "label": "PDV 21",
+    "address": "1 DE MAYO N°1320, ROSARIO"
+  },
+  {
+    "id": 140022,
+    "label": "PDV 22",
+    "address": "ESTANISLAO ZEBALLOS N°212, ROSARIO"
+  },
+  {
+    "id": 140023,
+    "label": "PDV 23",
+    "address": "SARMIENTO N°1895, ROSARIO"
+  },
+  {
+    "id": 140024,
+    "label": "PDV 24",
+    "address": "CAFFERATA N°287, ROSARIO"
+  },
+  {
+    "id": 140025,
+    "label": "PDV 25",
+    "address": "MENDOZA N°2574, ROSARIO"
+  },
+  {
+    "id": 140026,
+    "label": "PDV 26",
+    "address": "SANTA FE N°2366, ROSARIO"
+  },
+  {
+    "id": 140027,
+    "label": "PDV 27",
+    "address": "AV PELLEGRINI N°952, ROSARIO"
+  },
+  {
+    "id": 140028,
+    "label": "PDV 28",
+    "address": "NECOCHEA N°1447, ROSARIO"
+  },
+  {
+    "id": 140029,
+    "label": "PDV 29",
+    "address": "AV PELLEGRINI N°1468, ROSARIO"
+  },
+  {
+    "id": 140030,
+    "label": "PDV 30",
+    "address": "MAIPU N°2107, ROSARIO"
+  },
+  {
+    "id": 170001,
+    "label": "PDV 1",
+    "address": "AV CORDOBA N°3477, CAPITAL FEDERAL"
+  },
+  {
+    "id": 170002,
+    "label": "PDV 2",
+    "address": "AV INDEPENDENCIA N°2188, CAPITAL FEDERAL"
+  },
+  {
+    "id": 170003,
+    "label": "PDV 3",
+    "address": "AV RAUL SCALABRINI ORTIZ N°2822, CAPITAL FEDERAL"
+  },
+  {
+    "id": 170004,
+    "label": "PDV 4",
+    "address": "FRENCH N°2711, CAPITAL FEDERAL"
+  },
+  {
+    "id": 170005,
+    "label": "PDV 5",
+    "address": "AV INDEPENDENCIA N°3001, CAPITAL FEDERAL"
+  },
+  {
+    "id": 170006,
+    "label": "PDV 6",
+    "address": "AV INDEPENDENCIA N°1982, CAPITAL FEDERAL"
+  },
+  {
+    "id": 170007,
+    "label": "PDV 7",
+    "address": "PARAGUAY N°1396, CAPITAL FEDERAL"
+  },
+  {
+    "id": 170008,
+    "label": "PDV 8",
+    "address": "ANASAGASTI N°2001, CAPITAL FEDERAL"
+  },
+  {
+    "id": 170009,
+    "label": "PDV 9",
+    "address": "PARAGUAY N°1301, CAPITAL FEDERAL"
+  },
+  {
+    "id": 170010,
+    "label": "PDV 10",
+    "address": "RIOBAMBA N°489, CAPITAL FEDERAL"
+  },
+  {
+    "id": 170011,
+    "label": "PDV 11",
+    "address": "AV INDEPENDENCIA N°3498, CAPITAL FEDERAL"
+  },
+  {
+    "id": 170012,
+    "label": "PDV 12",
+    "address": "LAVALLE N°1302, CAPITAL FEDERAL"
+  },
+  {
+    "id": 170013,
+    "label": "PDV 13",
+    "address": "LAVALLE N°130, CAPITAL FEDERAL"
+  },
+  {
+    "id": 170014,
+    "label": "PDV 14",
+    "address": "SARMIENTO N°1700, CAPITAL FEDERAL"
+  },
+  {
+    "id": 170015,
+    "label": "PDV 15",
+    "address": "AV CORDOBA N°1386, CAPITAL FEDERAL"
+  },
+  {
+    "id": 180001,
+    "label": "PDV 1",
+    "address": "JUNCAL N°1189, CAPITAL FEDERAL"
+  },
+  {
+    "id": 180002,
+    "label": "PDV 2",
+    "address": "BAEZ N°352, CAPITAL FEDERAL"
+  },
+  {
+    "id": 180003,
+    "label": "PDV 3",
+    "address": "URUGUAY N°1297, CAPITAL FEDERAL"
+  },
+  {
+    "id": 180004,
+    "label": "PDV 4",
+    "address": "RODRIGUEZ PENA N°1573, CAPITAL FEDERAL"
+  },
+  {
+    "id": 180005,
+    "label": "PDV 5",
+    "address": "AV CALLAO N°1397, CAPITAL FEDERAL"
+  },
+  {
+    "id": 180006,
+    "label": "PDV 6",
+    "address": "GRAL ARTIGAS N°3188, GENERAL PACHECO"
+  },
+  {
+    "id": 180007,
+    "label": "PDV 7",
+    "address": "HIPOLITO YRIGOYEN N°800, GENERAL PACHECO"
+  },
+  {
+    "id": 180008,
+    "label": "PDV 8",
+    "address": "MARCELO T DE ALVEAR N°2423, DON TORCUATO ESTE"
+  },
+  {
+    "id": 180009,
+    "label": "PDV 9",
+    "address": "BLVD DE TODOS LOS SANTOS N°100, DIQUE LUJAN"
+  },
+  {
+    "id": 180010,
+    "label": "PDV 10",
+    "address": "AV DE LOS LAGOS N°7010, BENAVIDEZ"
+  },
+  {
+    "id": 180011,
+    "label": "PDV 11",
+    "address": "CNL ESCALADA N°1200, TRONCOS DEL TALAR"
+  },
+  {
+    "id": 180012,
+    "label": "PDV 12",
+    "address": "S/D CORREDOR BANCALARI S/N N°0, BENAVIDEZ"
+  },
+  {
+    "id": 180013,
+    "label": "PDV 13",
+    "address": "AV DE LOS LAGOS N°7010, BENAVIDEZ"
+  },
+  {
+    "id": 180014,
+    "label": "PDV 14",
+    "address": "DR RENE FAVAROLO N°3395, VICTORIA"
+  },
+  {
+    "id": 180015,
+    "label": "PDV 15",
+    "address": "CNL ESCALADA N°5550, TRONCOS DEL TALAR"
+  },
+  {
+    "id": 180016,
+    "label": "PDV 16",
+    "address": "CAZON N°1559, TIGRE"
+  },
+  {
+    "id": 180017,
+    "label": "PDV 17",
+    "address": "MAYOR IRUSTA N°2129, BELLA VISTA"
+  },
+  {
+    "id": 180018,
+    "label": "PDV 18",
+    "address": "AV SAN MARTIN N°9100, BELEN DE ESCOBAR"
+  },
+  {
+    "id": 210001,
+    "label": "PDV 1",
+    "address": "AV PUEYRREDON N°3, CAPITAL FEDERAL"
+  },
+  {
+    "id": 210002,
+    "label": "PDV 2",
+    "address": "AV RIVADAVIA N°2699, CAPITAL FEDERAL"
+  },
+  {
+    "id": 210003,
+    "label": "PDV 3",
+    "address": "JUANA MANSO N°1599, CAPITAL FEDERAL"
+  },
+  {
+    "id": 210004,
+    "label": "PDV 4",
+    "address": "AV 7 N°566, LA PLATA"
+  },
+  {
+    "id": 210005,
+    "label": "PDV 5",
+    "address": "AV 51 N°533, LA PLATA"
+  },
+  {
+    "id": 210006,
+    "label": "PDV 6",
+    "address": "AV 51 N°637, LA PLATA"
+  },
+  {
+    "id": 210007,
+    "label": "PDV 7",
+    "address": "CALLE 8 N°852, LA PLATA"
+  },
+  {
+    "id": 210008,
+    "label": "PDV 8",
+    "address": "CALLE 12 N°1106, LA PLATA"
+  },
+  {
+    "id": 210009,
+    "label": "PDV 9",
+    "address": "AV 7 N°727, LA PLATA"
+  },
+  {
+    "id": 210010,
+    "label": "PDV 10",
+    "address": "AV 7 N°815, LA PLATA"
+  },
+  {
+    "id": 210011,
+    "label": "PDV 11",
+    "address": "DIAGONAL 74 N°1510, LA PLATA"
+  },
+  {
+    "id": 210012,
+    "label": "PDV 12",
+    "address": "CALLE 45 N°596, LA PLATA"
+  },
+  {
+    "id": 210013,
+    "label": "PDV 13",
+    "address": "CALLE 50 N°647, LA PLATA"
+  },
+  {
+    "id": 210014,
+    "label": "PDV 14",
+    "address": "DIAGONAL 73 N°1649, LA PLATA"
+  },
+  {
+    "id": 210015,
+    "label": "PDV 15",
+    "address": "CALLE 42 N°500, LA PLATA"
+  },
+  {
+    "id": 220001,
+    "label": "PDV 1",
+    "address": "AV CORRIENTES N°928, CIUDAD AUTONOMA DE BS AS"
+  },
+  {
+    "id": 220002,
+    "label": "PDV 2",
+    "address": "BERNARDO DE IRIGOYEN N°72, CIUDAD AUTONOMA DE BS AS"
+  },
+  {
+    "id": 220003,
+    "label": "PDV 3",
+    "address": "CARLOS PELLEGRINI N°427, CIUDAD AUTONOMA DE BS AS"
+  },
+  {
+    "id": 220004,
+    "label": "PDV 4",
+    "address": "AV SANTA FE N°1236, CIUDAD AUTONOMA DE BS AS"
+  },
+  {
+    "id": 220005,
+    "label": "PDV 5",
+    "address": "AV SANTA FE N°982, CIUDAD AUTONOMA DE BS AS"
+  },
+  {
+    "id": 220006,
+    "label": "PDV 6",
+    "address": "AV CALLAO S/N N°0, CIUDAD AUTONOMA DE BS AS"
+  },
+  {
+    "id": 220007,
+    "label": "PDV 7",
+    "address": "AV DE MAYO N°912, CIUDAD AUTONOMA DE BS AS"
+  },
+  {
+    "id": 220008,
+    "label": "PDV 8",
+    "address": "AV CALLAO N°453, CIUDAD AUTONOMA DE BS AS"
+  },
+  {
+    "id": 220009,
+    "label": "PDV 9",
+    "address": "LA RIOJA N°2147, CIUDAD AUTONOMA DE BS AS"
+  },
+  {
+    "id": 220010,
+    "label": "PDV 10",
+    "address": "AV ENTRE RIOS N°2188, CIUDAD AUTONOMA DE BS AS"
+  },
+  {
+    "id": 220011,
+    "label": "PDV 11",
+    "address": "LIMA N°1649, CIUDAD AUTONOMA DE BS AS"
+  },
+  {
+    "id": 310001,
+    "label": "PDV 1",
+    "address": "VEDIA N°3626, CAPITAL FEDERAL"
+  },
+  {
+    "id": 310002,
+    "label": "PDV 2",
+    "address": "AV CORRIENTES N°714, CAPITAL FEDERAL"
+  },
+  {
+    "id": 310003,
+    "label": "PDV 3",
+    "address": "VIAMONTE N°2699, CAPITAL FEDERAL"
+  },
+  {
+    "id": 310004,
+    "label": "PDV 4",
+    "address": "GODOY CRUZ N°2470, CAPITAL FEDERAL"
+  },
+  {
+    "id": 310005,
+    "label": "PDV 5",
+    "address": "TUPAC AMARU N°42, BOULOGNE SUR MER"
+  },
+  {
+    "id": 310006,
+    "label": "PDV 6",
+    "address": "PANAMERICANA N°54500, PILAR"
+  },
+  {
+    "id": 310007,
+    "label": "PDV 7",
+    "address": "PANAMERICANA S/N N°0, PILAR"
+  },
+  {
+    "id": 310008,
+    "label": "PDV 8",
+    "address": "LISANDRO DE LA TORRE S/N N°0, PILAR"
+  },
+  {
+    "id": 410001,
+    "label": "PDV 1",
+    "address": "VICTORICA N°1128, MORENO"
+  },
+  {
+    "id": 410002,
+    "label": "PDV 2",
+    "address": "NOGUERA N°831, SAN ANTONIO DE PADUA"
+  },
+  {
+    "id": 410003,
+    "label": "PDV 3",
+    "address": "MELO M N°16, MORENO"
+  },
+  {
+    "id": 410004,
+    "label": "PDV 4",
+    "address": "AV HIPOLITO YRIGOYEN N°484, MERLO"
+  },
+  {
+    "id": 410005,
+    "label": "PDV 5",
+    "address": "NOGUERA N°995, SAN ANTONIO DE PADUA"
+  },
+  {
+    "id": 410006,
+    "label": "PDV 6",
+    "address": "AV HIPOLITO YRIGOYEN N°128, MERLO"
+  },
+  {
+    "id": 410007,
+    "label": "PDV 7",
+    "address": "NOGUERA N°201, SAN ANTONIO DE PADUA"
+  },
+  {
+    "id": 380001,
+    "label": "PDV 1",
+    "address": "AREVALO N°1500, CIUDAD AUTONOMA DE BS AS"
+  },
+  {
+    "id": 380002,
+    "label": "PDV 2",
+    "address": "MAURE N°2499, CIUDAD AUTONOMA DE BS AS"
+  },
+  {
+    "id": 380003,
+    "label": "PDV 3",
+    "address": "JUNCAL N°3124, CIUDAD AUTONOMA DE BS AS"
+  },
+  {
+    "id": 380004,
+    "label": "PDV 4",
+    "address": "AV GRAL LAS HERAS N°2102, CIUDAD AUTONOMA DE BS AS"
+  },
+  {
+    "id": 380005,
+    "label": "PDV 5",
+    "address": "AV JERONIMO SALGUERO N°2011, CIUDAD AUTONOMA DE BS AS"
+  },
+  {
+    "id": 380006,
+    "label": "PDV 6",
+    "address": "VICENTE LOPEZ N°1622, CIUDAD AUTONOMA DE BS AS"
+  },
+  {
+    "id": 580001,
+    "label": "PDV 1",
+    "address": "AV DORREGO N°2100, CAPITAL FEDERAL"
+  },
+  {
+    "id": 580002,
+    "label": "PDV 2",
+    "address": "HUMAHUACA N°3700, CAPITAL FEDERAL"
+  },
+  {
+    "id": 580003,
+    "label": "PDV 3",
+    "address": "AV CABILDO N°2831, CAPITAL FEDERAL"
+  },
+  {
+    "id": 580004,
+    "label": "PDV 4",
+    "address": "AV ALVAREZ THOMAS N°985, CAPITAL FEDERAL"
+  },
+  {
+    "id": 580005,
+    "label": "PDV 5",
+    "address": "AV ELCANO N°3084, CAPITAL FEDERAL"
+  },
+  {
+    "id": 580006,
+    "label": "PDV 6",
+    "address": "AV LUIS MARIA CAMPOS N°1293, CAPITAL FEDERAL"
+  },
+  {
+    "id": 580007,
+    "label": "PDV 7",
+    "address": "FITZ ROY N°1616, CAPITAL FEDERAL"
+  },
+  {
+    "id": 580008,
+    "label": "PDV 8",
+    "address": "BONPLAND N°1601, CAPITAL FEDERAL"
+  },
+  {
+    "id": 580009,
+    "label": "PDV 9",
+    "address": "ECHEVERRIA N°2699, CAPITAL FEDERAL"
+  },
+  {
+    "id": 580010,
+    "label": "PDV 10",
+    "address": "AV CNEL DIAZ N°1791, CAPITAL FEDERAL"
+  },
+  {
+    "id": 580011,
+    "label": "PDV 11",
+    "address": "CNEL NICETO VEGA N°5601, CAPITAL FEDERAL"
+  },
+  {
+    "id": 580012,
+    "label": "PDV 12",
+    "address": "AV RIVADAVIA N°5697, CAPITAL FEDERAL"
+  },
+  {
+    "id": 580013,
+    "label": "PDV 13",
+    "address": "AV RIVADAVIA N°5744, CAPITAL FEDERAL"
+  },
+  {
+    "id": 580014,
+    "label": "PDV 14",
+    "address": "BILLINGHURST N°2103, CAPITAL FEDERAL"
+  },
+  {
+    "id": 580015,
+    "label": "PDV 15",
+    "address": "AV MEDRANO N°802, CAPITAL FEDERAL"
+  },
+  {
+    "id": 580016,
+    "label": "PDV 16",
+    "address": "AV RAUL SCALABRINI ORTIZ N°2091, CAPITAL FEDERAL"
+  },
+  {
+    "id": 580017,
+    "label": "PDV 17",
+    "address": "CRAMER N°2192, CAPITAL FEDERAL"
+  },
+  {
+    "id": 580018,
+    "label": "PDV 18",
+    "address": "AV MONROE N°2915, CAPITAL FEDERAL"
+  },
+  {
+    "id": 580019,
+    "label": "PDV 19",
+    "address": "CRAMER N°2391, CAPITAL FEDERAL"
+  },
+  {
+    "id": 580020,
+    "label": "PDV 20",
+    "address": "AUSTRIA N°1807, CAPITAL FEDERAL"
+  },
+  {
+    "id": 580021,
+    "label": "PDV 21",
+    "address": "J A PACHECO DE MELO N°2601, CAPITAL FEDERAL"
+  },
+  {
+    "id": 580022,
+    "label": "PDV 22",
+    "address": "AV CORRIENTES N°3001, CAPITAL FEDERAL"
+  },
+  {
+    "id": 580023,
+    "label": "PDV 23",
+    "address": "CUBA N°2505, CAPITAL FEDERAL"
+  },
+  {
+    "id": 580024,
+    "label": "PDV 24",
+    "address": "AV CNEL DIAZ N°2275, CAPITAL FEDERAL"
+  },
+  {
+    "id": 580025,
+    "label": "PDV 25",
+    "address": "AV SANTA FE N°5169, CAPITAL FEDERAL"
+  },
+  {
+    "id": 580026,
+    "label": "PDV 26",
+    "address": "AV CABILDO N°3305, CAPITAL FEDERAL"
+  },
+  {
+    "id": 580027,
+    "label": "PDV 27",
+    "address": "AV CORRIENTES N°4116, CAPITAL FEDERAL"
+  },
+  {
+    "id": 580028,
+    "label": "PDV 28",
+    "address": "AV CORRIENTES N°4708, CAPITAL FEDERAL"
+  },
+  {
+    "id": 580029,
+    "label": "PDV 29",
+    "address": "AV CNEL DIAZ N°2477, CAPITAL FEDERAL"
+  },
+  {
+    "id": 580030,
+    "label": "PDV 30",
+    "address": "AV CABILDO N°3095, CAPITAL FEDERAL"
+  },
+  {
+    "id": 40001,
+    "label": "PDV 1 — LAPRIDA 431",
+    "address": "LAPRIDA 431, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40002,
+    "label": "PDV 2 — 24 DE SETIEMBRE 1358",
+    "address": "24 DE SETIEMBRE 1358, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40003,
+    "label": "PDV 3 — 24 DE SETIEMBRE 308",
+    "address": "24 DE SETIEMBRE 308, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40004,
+    "label": "PDV 4 — 24 DE SETIEMBRE 396",
+    "address": "24 DE SETIEMBRE 396, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40005,
+    "label": "PDV 5 — 24 DE SETIEMBRE 508",
+    "address": "24 DE SETIEMBRE 508, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40006,
+    "label": "PDV 6 — 25 de mayo 101",
+    "address": "25 de mayo 101, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40007,
+    "label": "PDV 7 — 25 DE MAYO 123",
+    "address": "25 DE MAYO 123, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40008,
+    "label": "PDV 8 — 25 DE MAYO 22",
+    "address": "25 DE MAYO 22, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40009,
+    "label": "PDV 9 — 25 DE MAYO 444",
+    "address": "25 DE MAYO 444, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40010,
+    "label": "PDV 10 — 25 de Mayo 504",
+    "address": "25 de Mayo 504, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40011,
+    "label": "PDV 11 — 25 DE MAYO Y STA FE",
+    "address": "25 DE MAYO Y STA FE, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40012,
+    "label": "PDV 12 — 9 DE JULIO 135",
+    "address": "9 DE JULIO 135, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40013,
+    "label": "PDV 13 — 9 DE JULIO 70",
+    "address": "9 DE JULIO 70, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40014,
+    "label": "PDV 14 — 9 DE JULIO Y SAN LORENZO",
+    "address": "9 DE JULIO Y SAN LORENZO, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40015,
+    "label": "PDV 15 — ACONQUIJA 1629",
+    "address": "ACONQUIJA 1629, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40016,
+    "label": "PDV 16 — ACONQUIJA 1702",
+    "address": "ACONQUIJA 1702, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40017,
+    "label": "PDV 17 — ACONQUIJA 1795",
+    "address": "ACONQUIJA 1795, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40018,
+    "label": "PDV 18 — ALEM 364",
+    "address": "ALEM 364, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40019,
+    "label": "PDV 19 — AV PERON 2166",
+    "address": "AV PERON 2166, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40020,
+    "label": "PDV 20 — AVELLANEDA 101",
+    "address": "AVELLANEDA 101, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40021,
+    "label": "PDV 21 — AVELLANEDA 737",
+    "address": "AVELLANEDA 737, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40022,
+    "label": "PDV 22 — BENJAMIN 187",
+    "address": "BENJAMIN 187, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40023,
+    "label": "PDV 23 — BENJAMIN 3",
+    "address": "BENJAMIN 3, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40024,
+    "label": "PDV 24 — BENJAMIN ARAOZ",
+    "address": "BENJAMIN ARAOZ, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40025,
+    "label": "PDV 25 — BUENOS AIRES 146",
+    "address": "BUENOS AIRES 146, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40026,
+    "label": "PDV 26 — BUENOS AIRES 17",
+    "address": "BUENOS AIRES 17, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40027,
+    "label": "PDV 27 — COLON",
+    "address": "COLON, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40028,
+    "label": "PDV 28 — COLON 666",
+    "address": "COLON 666, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40029,
+    "label": "PDV 29 — CONGRESO 85",
+    "address": "CONGRESO 85, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40030,
+    "label": "PDV 30 — CORDOBA 1115",
+    "address": "CORDOBA 1115, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40031,
+    "label": "PDV 31 — CORDOBA 295",
+    "address": "CORDOBA 295, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40032,
+    "label": "PDV 32 — CORDOBA 477",
+    "address": "CORDOBA 477, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40033,
+    "label": "PDV 33 — CORDOBA 639",
+    "address": "CORDOBA 639, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40034,
+    "label": "PDV 34 — Cordoba 648",
+    "address": "Cordoba 648, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40035,
+    "label": "PDV 35 — CORDOBA 710",
+    "address": "CORDOBA 710, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40036,
+    "label": "PDV 36 — CORDOBA 797",
+    "address": "CORDOBA 797, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40037,
+    "label": "PDV 37 — CORRIENTES 480",
+    "address": "CORRIENTES 480, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40038,
+    "label": "PDV 38 — CRISOSTOMO 632",
+    "address": "CRISOSTOMO 632, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40039,
+    "label": "PDV 39 — EJERCITO DEL NORTE 784",
+    "address": "EJERCITO DEL NORTE 784, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40040,
+    "label": "PDV 40 — ENTRE RIOS 303",
+    "address": "ENTRE RIOS 303, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40041,
+    "label": "PDV 41 — GBDOR DEL CAMPO 308",
+    "address": "GBDOR DEL CAMPO 308, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40042,
+    "label": "PDV 42 — GOMEZ PARDO",
+    "address": "GOMEZ PARDO, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40043,
+    "label": "PDV 43 — GRAL PAZ 471",
+    "address": "GRAL PAZ 471, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40044,
+    "label": "PDV 44 — GRAL PAZ 483",
+    "address": "GRAL PAZ 483, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40047,
+    "label": "PDV 45 — JUAN B JUSTO",
+    "address": "JUAN B JUSTO, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40048,
+    "label": "PDV 46 — JUJUY 1273",
+    "address": "JUJUY 1273, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40049,
+    "label": "PDV 47 — JUJUY 169",
+    "address": "JUJUY 169, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40050,
+    "label": "PDV 48 — JUNIN 107",
+    "address": "JUNIN 107, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40051,
+    "label": "PDV 49 — JUNIN 263",
+    "address": "JUNIN 263, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40052,
+    "label": "PDV 50 — JUNIN 292",
+    "address": "JUNIN 292, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40053,
+    "label": "PDV 51 — JUNIN 295",
+    "address": "JUNIN 295, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40054,
+    "label": "PDV 52 — LAPRIDA 15",
+    "address": "LAPRIDA 15, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40055,
+    "label": "PDV 53 — LAPRIDA 213",
+    "address": "LAPRIDA 213, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40056,
+    "label": "PDV 54 — LAVALLE 1002",
+    "address": "LAVALLE 1002, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40057,
+    "label": "PDV 55 — LAVALLE 1117",
+    "address": "LAVALLE 1117, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40058,
+    "label": "PDV 56 — LAVALLE 496",
+    "address": "LAVALLE 496, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40059,
+    "label": "PDV 57 — MAIPU 121",
+    "address": "MAIPU 121, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40060,
+    "label": "PDV 58 — MAIPU 19",
+    "address": "MAIPU 19, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40061,
+    "label": "PDV 59 — MAIPU 4",
+    "address": "MAIPU 4, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40062,
+    "label": "PDV 60 — MAIPU 466",
+    "address": "MAIPU 466, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40063,
+    "label": "PDV 61 — MAIPU 600",
+    "address": "MAIPU 600, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40064,
+    "label": "PDV 62 — Marcos Paz 501",
+    "address": "Marcos Paz 501, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40065,
+    "label": "PDV 63 — MARCOS PAZ 671",
+    "address": "MARCOS PAZ 671, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40066,
+    "label": "PDV 64 — MATE DE LUNA 1758",
+    "address": "MATE DE LUNA 1758, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40067,
+    "label": "PDV 65 — MATE DE LUNA 2234",
+    "address": "MATE DE LUNA 2234, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40068,
+    "label": "PDV 66 — VICTORA 266",
+    "address": "VICTORA 266, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40069,
+    "label": "PDV 67 — MENDOZA 199",
+    "address": "MENDOZA 199, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40070,
+    "label": "PDV 68 — MENDOZA 794",
+    "address": "MENDOZA 794, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40071,
+    "label": "PDV 69 — MITRE 230",
+    "address": "MITRE 230, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40072,
+    "label": "PDV 70 — MONTEAGUDO 684",
+    "address": "MONTEAGUDO 684, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40073,
+    "label": "PDV 71 — MUÑECAS 381",
+    "address": "MUÑECAS 381, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40074,
+    "label": "PDV 72 — MUÑECAS 498",
+    "address": "MUÑECAS 498, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40075,
+    "label": "PDV 73 — RIVADAVIA 1333",
+    "address": "RIVADAVIA 1333, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40076,
+    "label": "PDV 74 — Rivadavia y SM",
+    "address": "Rivadavia y SM, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40077,
+    "label": "PDV 75 — ROCA 1155",
+    "address": "ROCA 1155, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40078,
+    "label": "PDV 76 — ROCA 196",
+    "address": "ROCA 196, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40079,
+    "label": "PDV 77 — ROCA 2264",
+    "address": "ROCA 2264, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40080,
+    "label": "PDV 78 — ROCA 3387",
+    "address": "ROCA 3387, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40081,
+    "label": "PDV 79 — SAENZ PEÑA 9",
+    "address": "SAENZ PEÑA 9, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40082,
+    "label": "PDV 80 — SALTA 10",
+    "address": "SALTA 10, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40083,
+    "label": "PDV 81 — SALTA 218",
+    "address": "SALTA 218, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40084,
+    "label": "PDV 82 — SAN LORENZO 693",
+    "address": "SAN LORENZO 693, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40085,
+    "label": "PDV 83 — San Martin  421",
+    "address": "San Martin  421, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40086,
+    "label": "PDV 84 — SAN MARTIN 539",
+    "address": "SAN MARTIN 539, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40087,
+    "label": "PDV 85 — SAN MARTIN 778",
+    "address": "SAN MARTIN 778, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40088,
+    "label": "PDV 86 — SANTIAGO 195",
+    "address": "SANTIAGO 195, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40089,
+    "label": "PDV 87 — SANTIAGO 455",
+    "address": "SANTIAGO 455, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40090,
+    "label": "PDV 88 — SANTIAGO 491",
+    "address": "SANTIAGO 491, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40091,
+    "label": "PDV 89 — SANTIAGO 537",
+    "address": "SANTIAGO 537, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 40092,
+    "label": "PDV 90 — SARMIENTO 1331",
+    "address": "SARMIENTO 1331, San Miguel de Tucuman, Tucuman"
+  },
+  {
+    "id": 290001,
+    "label": "PDV 1 — Aristobulo 98",
+    "address": "Aristobulo del Valle 98, Florencio Varela, Buenos Aires"
+  },
+  {
+    "id": 290002,
+    "label": "PDV 2 — Lujan 1453",
+    "address": "Lujan 1453, Florencio Varela, Buenos Aires"
+  },
+  {
+    "id": 290003,
+    "label": "PDV 3 — Lisandro 1564",
+    "address": "Lisandro de la Torre 1564, Florencio Varela, Buenos Aires"
+  },
+  {
+    "id": 290004,
+    "label": "PDV 4 — Senzabello 974",
+    "address": "Senzabello 974, Florencio Varela, Buenos Aires"
+  },
+  {
+    "id": 290005,
+    "label": "PDV 5 — Yrigoyen 1886",
+    "address": "Hipolito Yrigoyen 1886, Florencio Varela, Buenos Aires"
+  },
+  {
+    "id": 290006,
+    "label": "PDV 6 — Belgrano 6413",
+    "address": "Belgrano 6413, Florencio Varela, Buenos Aires"
+  },
+  {
+    "id": 290007,
+    "label": "PDV 7 — San Martin 3125",
+    "address": "San Martin 3125, Florencio Varela, Buenos Aires"
+  },
+  {
+    "id": 290008,
+    "label": "PDV 8 — Vergara 3200",
+    "address": "Vergara 3200, Florencio Varela, Buenos Aires"
+  },
+  {
+    "id": 540900,
+    "label": "PDV 1 — Libertador 166",
+    "address": "Libertador 166, Merlo, Buenos Aires"
+  },
+  {
+    "id": 540901,
+    "label": "PDV 2 — Peru 577",
+    "address": "Peru 577, Merlo, Buenos Aires"
+  },
+  {
+    "id": 490900,
+    "label": "PDV 1 — Libertador 262",
+    "address": "Libertador 262, Moreno, Buenos Aires"
+  },
+  {
+    "id": 490901,
+    "label": "PDV 2 — Libertador 299",
+    "address": "Libertador 299, Moreno, Buenos Aires"
+  },
+  {
+    "id": 490902,
+    "label": "PDV 3 — Libertador 388",
+    "address": "Libertador 388, Moreno, Buenos Aires"
+  },
+  {
+    "id": 490903,
+    "label": "PDV 4 — Libertador 398",
+    "address": "Libertador 398, Moreno, Buenos Aires"
+  },
+  {
+    "id": 490904,
+    "label": "PDV 5 — Libertador 486",
+    "address": "Libertador 486, Moreno, Buenos Aires"
+  },
+  {
+    "id": 490905,
+    "label": "PDV 6 — Rivadavia y Tucuman",
+    "address": "Rivadavia y Tucuman, Moreno, Buenos Aires"
+  },
+  {
+    "id": 360900,
+    "label": "PDV 1 — Av. General Paz 6266",
+    "address": "Av. General Paz 6266, CABA"
+  },
+  {
+    "id": 360901,
+    "label": "PDV 2 — Arieta 3532",
+    "address": "Arieta 3532, San Justo, Buenos Aires"
+  },
+  {
+    "id": 360902,
+    "label": "PDV 3 — Juan Manuel de Rosas 3668",
+    "address": "Juan Manuel de Rosas 3668, San Justo, Buenos Aires"
+  },
+  {
+    "id": 450900,
+    "label": "PDV 1 — Av. San Martin 2193",
+    "address": "Av. San Martin 2193, Ramos Mejia, Buenos Aires"
+  },
+  {
+    "id": 450901,
+    "label": "PDV 2 — Av. San Martin 2185",
+    "address": "Av. San Martin 2185, Ramos Mejia, Buenos Aires"
+  },
+  {
+    "id": 450902,
+    "label": "PDV 3 — Juan Manuel de Rosas 1030",
+    "address": "Juan Manuel de Rosas 1030, San Justo, Buenos Aires"
+  },
+  {
+    "id": 450903,
+    "label": "PDV 4 — Juan Manuel de Rosas 1187",
+    "address": "Juan Manuel de Rosas 1187, San Justo, Buenos Aires"
+  },
+  {
+    "id": 450904,
+    "label": "PDV 5 — Juan Manuel de Rosas 111",
+    "address": "Juan Manuel de Rosas 111, San Justo, Buenos Aires"
+  },
+  {
+    "id": 450905,
+    "label": "PDV 6 — Juan Manuel de Rosas 3585",
+    "address": "Juan Manuel de Rosas 3585, San Justo, Buenos Aires"
+  },
+  {
+    "id": 450906,
+    "label": "PDV 7 — Juan Manuel de Rosas 585",
+    "address": "Juan Manuel de Rosas 585, San Justo, Buenos Aires"
+  },
+  {
+    "id": 440900,
+    "label": "PDV 1 — Alberdi 4755",
+    "address": "Alberdi 4755, Caseros, Buenos Aires"
+  },
+  {
+    "id": 440901,
+    "label": "PDV 2 — Caseros 2200",
+    "address": "Caseros 2200, San Martin, Buenos Aires"
+  },
+  {
+    "id": 440902,
+    "label": "PDV 3 — San Lorenzo 2140",
+    "address": "San Lorenzo 2140, San Martin, Buenos Aires"
+  },
+  {
+    "id": 200900,
+    "label": "PDV 1 — Concejal Triunvirato 104",
+    "address": "Concejal Triunvirato 104, San Miguel, Buenos Aires"
+  },
+  {
+    "id": 200901,
+    "label": "PDV 2 — San Martin 4818",
+    "address": "San Martin 4818, Villa Ballester, Buenos Aires"
+  },
+  {
+    "id": 350900,
+    "label": "PDV 1 — Urquiza 4841",
+    "address": "Urquiza 4841, Caseros, Buenos Aires"
+  },
+  {
+    "id": 830001,
+    "label": "PDV 1 — Republica Oriental del Uruguay 10",
+    "address": "Republica Oriental del Uruguay 10, Moron, Buenos Aires"
+  },
+  {
+    "id": 830002,
+    "label": "PDV 2 — Republica Uruguay 72",
+    "address": "Republica Uruguay 72, Moron, Buenos Aires"
+  },
+  {
+    "id": 830003,
+    "label": "PDV 3 — Republica del Uruguay 48",
+    "address": "Republica del Uruguay 48, Moron, Buenos Aires"
+  },
+  {
+    "id": 830004,
+    "label": "PDV 4 — Monsenor Jose Marcon 3112",
+    "address": "Monsenor Jose Marcon 3112, San Justo, Buenos Aires"
+  },
+  {
+    "id": 840001,
+    "label": "PDV 1 — Calle Real 80",
+    "address": "Calle Real 80, Merlo, Buenos Aires"
+  },
+  {
+    "id": 840002,
+    "label": "PDV 2 — Libertador 606",
+    "address": "Libertador 606, Merlo, Buenos Aires"
+  },
+  {
+    "id": 840003,
+    "label": "PDV 3 — Libertador 736",
+    "address": "Libertador 736, Merlo, Buenos Aires"
+  },
+  {
+    "id": 840004,
+    "label": "PDV 4 — Libertador 793",
+    "address": "Libertador 793, Merlo, Buenos Aires"
+  }
+]
